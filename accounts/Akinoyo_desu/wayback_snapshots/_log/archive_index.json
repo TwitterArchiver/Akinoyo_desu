@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T23:21:49",
+  "last_updated": "2026-07-12T23:22:37",
   "html": {
     "https://web.archive.org/web/20251123063923if_/https://twitter.com/Akinoyo_desu/status/1992483096940384642": {
       "status": "done",
@@ -12408,9 +12408,9 @@
       "referenced_by": [
         "20251210075943_twitter_com_Akinoyo_desu_status_1998663905212837989.json"
       ],
-      "last_updated": "2026-07-12T19:20:31",
+      "last_updated": "2026-07-12T23:22:12",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251210075943/https://video.twimg.com/tweet_video/G7yYdjKakAEHh7K.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2005493155198816256/vid/avc1/720x960/C_km04koKcCWdpON.mp4?tag=14": {
       "status": "done",
@@ -12449,13 +12449,13 @@
       "last_updated": "2026-07-12T18:40:51"
     },
     "https://video.twimg.com/tweet_video/HBr4ufWbgAQghEI.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260221134236_twitter_com_Akinoyo_desu_status_2025204511313461414.json"
       ],
-      "last_updated": "2026-07-12T19:20:34",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260221134236/https://video.twimg.com/tweet_video/HBr4ufWbgAQghEI.mp4",
-      "miss_count": 2
+      "last_updated": "2026-07-12T23:22:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260221134236if_/https://video.twimg.com/tweet_video/HBr4ufWbgAQghEI.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbbcfb142c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HCKBy8obgAAv6oV.mp4": {
       "status": "done",
@@ -12469,9 +12469,9 @@
       "referenced_by": [
         "20260301143022_twitter_com_Akinoyo_desu_status_2028115633951658493.json"
       ],
-      "last_updated": "2026-07-12T19:20:42",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260301143022im_/https://video.twimg.com/ext_tw_video/2028079569400745984/pu/vid/avc1/1074x480/uKMErdLrKTXV7Fdm.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7faac74f43e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-12T23:22:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260301143022im_/https://video.twimg.com/ext_tw_video/2028079569400745984/pu/vid/avc1/1074x480/uKMErdLrKTXV7Fdm.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbbcfb16d80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HCVWLL4boAASDHA.mp4": {
       "status": "done",
@@ -12520,13 +12520,13 @@
       "last_updated": "2026-07-12T19:20:12"
     },
     "https://video.twimg.com/amplify_video/2042519024408670208/vid/avc1/1280x720/2qICrpqvVBbQX_m_.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260410123212_twitter_com_Akinoyo_desu_status_2042581410603766229.json"
       ],
-      "last_updated": "2026-07-12T18:40:54",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260410123212/https://video.twimg.com/amplify_video/2042519024408670208/vid/avc1/1280x720/2qICrpqvVBbQX_m_.mp4",
-      "miss_count": 1
+      "last_updated": "2026-07-12T23:22:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410123212im_/https://video.twimg.com/amplify_video/2042519024408670208/vid/avc1/1280x720/2qICrpqvVBbQX_m_.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbbcfb159a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2047941731929468928/vid/avc1/1280x720/T-J_4HH3cuwPFFXX.mp4?tag=14": {
       "status": "done",
@@ -12587,13 +12587,13 @@
       "last_updated": "2026-07-12T18:40:52"
     },
     "https://video.twimg.com/amplify_video/2067545620366467072/vid/avc1/720x1280/hdvKIObAQsPs7Yh_.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260618095838_twitter_com_Akinoyo_desu_status_2067547526224589081.json"
       ],
-      "last_updated": "2026-07-12T18:40:55",
-      "last_reason": "HTTPError: 404 Client Error: Not Found for url: https://web.archive.org/web/20260623203822/https://video.twimg.com/amplify_video/2067545620366467072/vid/avc1/720x1280/hdvKIObAQsPs7Yh_.mp4",
-      "miss_count": 1
+      "last_updated": "2026-07-12T23:22:37",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618095838im_/https://video.twimg.com/amplify_video/2067545620366467072/vid/avc1/720x1280/hdvKIObAQsPs7Yh_.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbbcfb15010>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2068801554447261698/vid/avc1/1080x1080/swBrqUbtC8T8KlAN.mp4": {
       "status": "done",
@@ -39376,7 +39376,7 @@
       "miss_count": 2
     },
     "20260410123212_twitter_com_Akinoyo_desu_status_2042581410603766229.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -39387,7 +39387,7 @@
           "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T18:44:09"
+      "last_updated": "2026-07-12T23:22:33"
     },
     "20260410143121_twitter_com_Akinoyo_desu_status_2042611394890338567.json": {
       "status": "done",
@@ -45805,7 +45805,7 @@
       "last_updated": "2026-07-12T18:44:17"
     },
     "20260618095838_twitter_com_Akinoyo_desu_status_2067547526224589081.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -45816,7 +45816,7 @@
           "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T18:44:09"
+      "last_updated": "2026-07-12T23:22:37"
     },
     "20260618133123_twitter_com_Akinoyo_desu_status_2067601069010735107.json": {
       "status": "done",
