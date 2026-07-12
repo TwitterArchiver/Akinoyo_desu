@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1995774288398287333",
+    "created_at": "2025-12-02T08:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T09:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995779070261674328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1832763086039896064",
+          "start": 0,
+          "username": "caliE694030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995779070261674328",
+    "in_reply_to_user_id": "1832763086039896064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995774288398287333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caliE694030 👁️👁️👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1995774288398287333",
+        "created_at": "2025-12-02T08:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T09:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995779070261674328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1832763086039896064",
+              "start": 0,
+              "username": "caliE694030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995779070261674328",
+        "in_reply_to_user_id": "1832763086039896064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995774288398287333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caliE694030 👁️👁️👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832763086039896064",
+        "conversation_id": "1995774288398287333",
+        "created_at": "2025-12-02T08:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T09:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995774288398287333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/calie694030/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/calie694030/status/1987179005104300256",
+              "start": 43,
+              "url": "https://t.co/JqjHar2deQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995774288398287333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987179005104300256",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "千万不要为了娱乐吃多奈哌齐\n除非你想剧烈头晕\n上一个吃10t多奈哌齐进了医院ICU… https://t.co/JqjHar2deQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 232,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 92
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-08T12:51:34.000Z",
+        "description": "精神超稳定（* 超稳定不是理想目标）| 100%互fo | fo me pls",
+        "id": "1832763086039896064",
+        "name": "🍀Nano Catfish🐟🐟🐟",
+        "pinned_tweet_id": "1985858852060070241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942597096261181441/evKFN1Pb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 146,
+          "like_count": 2960,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 446
+        },
+        "username": "caliE694030",
+        "verified": true
+      }
+    ]
+  }
+}

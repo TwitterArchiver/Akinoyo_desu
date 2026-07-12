@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2023834807214764039",
+    "created_at": "2026-02-18T08:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T09:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024045355604533711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778696847563104256",
+          "start": 0,
+          "username": "gold_bihu"
+        },
+        {
+          "end": 23,
+          "id": "1866050038088024064",
+          "start": 11,
+          "username": "123456wwerr"
+        },
+        {
+          "end": 35,
+          "id": "1816148552764252169",
+          "start": 24,
+          "username": "w0sh1Asak1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024045355604533711",
+    "in_reply_to_user_id": "1778696847563104256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024019848938799141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gold_bihu @123456wwerr @w0sh1Asak1 笑什么，你也一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2023834807214764039",
+        "created_at": "2026-02-18T08:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T09:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024045355604533711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778696847563104256",
+              "start": 0,
+              "username": "gold_bihu"
+            },
+            {
+              "end": 23,
+              "id": "1866050038088024064",
+              "start": 11,
+              "username": "123456wwerr"
+            },
+            {
+              "end": 35,
+              "id": "1816148552764252169",
+              "start": 24,
+              "username": "w0sh1Asak1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024045355604533711",
+        "in_reply_to_user_id": "1778696847563104256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024019848938799141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gold_bihu @123456wwerr @w0sh1Asak1 笑什么，你也一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778696847563104256",
+        "conversation_id": "2023834807214764039",
+        "created_at": "2026-02-18T07:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024019848938799141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866050038088024064",
+              "start": 0,
+              "username": "123456wwerr"
+            },
+            {
+              "end": 24,
+              "id": "1816148552764252169",
+              "start": 13,
+              "username": "w0sh1Asak1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024019848938799141",
+        "in_reply_to_user_id": "1866050038088024064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024016775118270840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456wwerr @w0sh1Asak1 哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平/ 涘🧊@winterfruit_1 /聖 🍜@shungleemain /♠️🅰️@w0sh1Asak1 /渡 🚣‍♂️@justyanwu14/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shungleemain"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "justyanwu14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 119,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 96,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 671,
+          "like_count": 2409,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "🦖 ｜od🐛｜同类互fo｜喜欢一切有意思的东西｜请不要和我吵架｜📜处方https://t.co/kh9MogNCo5｜✈️我推的机场https://t.co/Nl7I5ItTH8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dddddlg28",
+                "end": 58,
+                "expanded_url": "https://t.me/dddddlg28",
+                "start": 35,
+                "url": "https://t.co/kh9MogNCo5"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 89,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 66,
+                "url": "https://t.co/Nl7I5ItTH8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl28",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl28",
+                "start": 0,
+                "url": "https://t.co/RS1J3CSI1v"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2024004502555074878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009205027009859584/M8J2SLDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 529,
+          "like_count": 11507,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 2575
+        },
+        "url": "https://t.co/RS1J3CSI1v",
+        "username": "gold_bihu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "悲观主义者，重度抑郁（非常严重），自闭症，中度焦虑，没有逻辑，没有情商和口才，高强度玩游戏看动漫小说脱离社会太久",
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "2007153346533306830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020775111813713921/6QpcftfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 358,
+          "like_count": 108991,
+          "listed_count": 3,
+          "media_count": 598,
+          "tweet_count": 15866
+        },
+        "username": "123456wwerr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T16:29:11.000Z",
+        "description": "♦️ACE 性格恶劣 oder Love @winterfruit_1/ 可可@Truffaut897456/ 唧唧@Jiji_O_o_jiiii/鸟兽兽@abt514514/前卫@vanofthess/ 小K @akinoyo_desu/江别@cy79p/渡川@justyanwu14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 54,
+                "start": 39,
+                "username": "Truffaut897456"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "Jiji_O_o_jiiii"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "abt514514"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "vanofthess"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "akinoyo_desu"
+              },
+              {
+                "end": 128,
+                "start": 122,
+                "username": "cy79p"
+              },
+              {
+                "end": 143,
+                "start": 131,
+                "username": "justyanwu14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "winiter420love.com",
+                "end": 23,
+                "expanded_url": "http://www.winiter420love.com",
+                "start": 0,
+                "url": "https://t.co/SmL8HfGjCw"
+              }
+            ]
+          }
+        },
+        "id": "1816148552764252169",
+        "location": "我愛你！",
+        "name": "天才美少女Asak11111",
+        "pinned_tweet_id": "2012782792518627830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012602006511161344/AK7fOLhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 772,
+          "like_count": 27478,
+          "listed_count": 4,
+          "media_count": 558,
+          "tweet_count": 12428
+        },
+        "url": "https://t.co/SmL8HfGjCw",
+        "username": "w0sh1Asak1",
+        "verified": false
+      }
+    ]
+  }
+}

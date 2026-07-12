@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2067044509142442014",
+    "created_at": "2026-06-17T04:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067096916727656776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2000723611276173312",
+          "start": 0,
+          "username": "Bemylover_319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067096916727656776",
+    "in_reply_to_user_id": "2000723611276173312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067044509142442014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bemylover_319 鸡梨藤之恋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2067044496353959936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-eBIwaoAAUcM8.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2067044509142442014",
+        "created_at": "2026-06-17T04:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067096916727656776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000723611276173312",
+              "start": 0,
+              "username": "Bemylover_319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067096916727656776",
+        "in_reply_to_user_id": "2000723611276173312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067044509142442014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bemylover_319 鸡梨藤之恋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067044496353959936"
+          ]
+        },
+        "author_id": "2000723611276173312",
+        "conversation_id": "2067044509142442014",
+        "created_at": "2026-06-17T00:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067044509142442014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qyYuyH9Kn0",
+              "end": 33,
+              "expanded_url": "https://x.com/Bemylover_319/status/2067044509142442014/photo/1",
+              "media_key": "3_2067044496353959936",
+              "start": 10,
+              "url": "https://t.co/qyYuyH9Kn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067044509142442014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看懂的老资历都哭了 https://t.co/qyYuyH9Kn0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 1043,
+          "like_count": 4953,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-16T00:25:14.000Z",
+        "description": "=骨 od｜自傷｜雙向｜泛｜swtich",
+        "id": "2000723611276173312",
+        "location": "🚪88",
+        "name": "Luvisdrug",
+        "pinned_tweet_id": "2041673116192272720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065740101163110400/xmvpS58d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 92,
+          "like_count": 516,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 324
+        },
+        "username": "Bemylover_319",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,540 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1116767629572591616",
+          "name": "Intel Extreme Masters (IEM)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291094662682271744",
+          "name": "Gaming events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2068810686218813499",
+    "created_at": "2026-06-21T21:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T22:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068810686218813499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/falconsesport/…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/falconsesport/status/2068757298810396686",
+          "start": 132,
+          "url": "https://t.co/VhDSxgEzd2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068810686218813499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "孩神从24年到26年两年吗，不，我只记得595天没有任何冠军，你可是navi青训太子，出道高位top，被世人称为神的传人，独联体天才狙击手\n23年开始看尼尼孩孩从g2到法尔孔，见证了一路走来的诟病与谩骂，不会梦碎19次，10年啊终于最高荣誉major冠军打破心魔\nniko你知道的小孩从出道就开始跟着你了，上海跟哥本哈根的遗憾不会带来科隆，你是科隆巨人，是步枪手最长的河，不是什么大赛软脚虾，世人都笑你屡次亚军我一直信你定会登顶Major之巅打破魔咒就是为major加冕所有的亚军都是为今晚铺垫从波士顿到斯德哥尔摩一次次站上Major决赛舞台又一次次与奖杯擦肩而过十年磨一剑满身非议今天总决赛的灯光再次为你亮起无数次跌倒没有磨平他的锋芒十年辗转只等这一场Bo5狠狠的击碎宿命吧 Niko等你举起属于你的Major奖杯让金色的雨为你为你们而下就是今天one day他真的来了！！！是3066天漫长执念屡次站上Major决赛饱尝亚军苦涩的NiKo 是手握595天无冠空白的天才mONESY希望今晚金色的雨为你们而下有人击碎多年宿命有人完成Major首冠"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068757298810396686",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孩神从24年到26年两年吗，不，我只记得595天没有任何冠军，你可是navi青训太子，出道高位top，被世人称为神的传人，独联体天才狙击手\n23年开始看尼尼孩孩从g2到法尔孔，见证了一路走来的诟病与谩骂，不会梦碎19次，10年啊终于最高荣誉major冠军打破心魔 https://t.co/VhDSxgEzd2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_2068756408577748993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWy_iwW8AEAMaQ.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1116767629572591616",
+              "name": "Intel Extreme Masters (IEM)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2068810686218813499",
+        "created_at": "2026-06-21T21:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T22:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068810686218813499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/falconsesport/…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/falconsesport/status/2068757298810396686",
+              "start": 132,
+              "url": "https://t.co/VhDSxgEzd2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068810686218813499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "孩神从24年到26年两年吗，不，我只记得595天没有任何冠军，你可是navi青训太子，出道高位top，被世人称为神的传人，独联体天才狙击手\n23年开始看尼尼孩孩从g2到法尔孔，见证了一路走来的诟病与谩骂，不会梦碎19次，10年啊终于最高荣誉major冠军打破心魔\nniko你知道的小孩从出道就开始跟着你了，上海跟哥本哈根的遗憾不会带来科隆，你是科隆巨人，是步枪手最长的河，不是什么大赛软脚虾，世人都笑你屡次亚军我一直信你定会登顶Major之巅打破魔咒就是为major加冕所有的亚军都是为今晚铺垫从波士顿到斯德哥尔摩一次次站上Major决赛舞台又一次次与奖杯擦肩而过十年磨一剑满身非议今天总决赛的灯光再次为你亮起无数次跌倒没有磨平他的锋芒十年辗转只等这一场Bo5狠狠的击碎宿命吧 Niko等你举起属于你的Major奖杯让金色的雨为你为你们而下就是今天one day他真的来了！！！是3066天漫长执念屡次站上Major决赛饱尝亚军苦涩的NiKo 是手握595天无冠空白的天才mONESY希望今晚金色的雨为你们而下有人击碎多年宿命有人完成Major首冠"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068757298810396686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩神从24年到26年两年吗，不，我只记得595天没有任何冠军，你可是navi青训太子，出道高位top，被世人称为神的传人，独联体天才狙击手\n23年开始看尼尼孩孩从g2到法尔孔，见证了一路走来的诟病与谩骂，不会梦碎19次，10年啊终于最高荣誉major冠军打破心魔 https://t.co/VhDSxgEzd2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068756408577748993"
+          ]
+        },
+        "author_id": "1329463960194723847",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1116767629572591616",
+              "name": "Intel Extreme Masters (IEM)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2068757298810396686",
+        "created_at": "2026-06-21T18:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068757298810396686"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "IEM"
+            },
+            {
+              "end": 135,
+              "start": 120,
+              "tag": "FalconsAreHere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jRgyO33LFo",
+              "end": 159,
+              "expanded_url": "https://x.com/FalconsEsport/status/2068757298810396686/photo/1",
+              "media_key": "3_2068756408577748993",
+              "start": 136,
+              "url": "https://t.co/jRgyO33LFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068757298810396686",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 392,
+          "impression_count": 1129548,
+          "like_count": 15700,
+          "quote_count": 573,
+          "reply_count": 1331,
+          "retweet_count": 2195
+        },
+        "reply_settings": "everyone",
+        "text": "WE ARE YOUR #IEM COLOGNE MAJOR CHAMPIONS \n\nكـتـبـنا الـتـاريـخ ! 🏆💚 — فالكونز أبـطـال ميجر كولون للعبة كاونتر سترايك 🦅\n\n#FalconsAreHere https://t.co/jRgyO33LFo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 1052,
+          "like_count": 5025,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1734
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-19T16:38:19.000Z",
+        "description": "2x Esports World Cup Champions 🏆 | Your No.1 Spot for everything Falcons Esports. @TeamFalconsGG @Riyadh_Falcons Sponsored by @NEO_SA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "TeamFalconsGG"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "Riyadh_Falcons"
+              },
+              {
+                "end": 133,
+                "start": 126,
+                "username": "NEO_SA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TeamFalcons.sa",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/TeamFalcons.sa",
+                "start": 0,
+                "url": "https://t.co/YOLdnFAgTk"
+              }
+            ]
+          }
+        },
+        "id": "1329463960194723847",
+        "name": "Falcons Esports",
+        "pinned_tweet_id": "2068757298810396686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068757327826624513/ZNPnhs-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280332,
+          "following_count": 299,
+          "like_count": 3569,
+          "listed_count": 141,
+          "media_count": 11446,
+          "tweet_count": 15976
+        },
+        "url": "https://t.co/YOLdnFAgTk",
+        "username": "FalconsEsport",
+        "verified": true
+      }
+    ]
+  }
+}

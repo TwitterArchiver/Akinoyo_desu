@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1999703286904160507",
+    "created_at": "2025-12-13T05:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T06:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999718715139715549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2405324646",
+          "start": 0,
+          "username": "alexavad"
+        },
+        {
+          "end": 20,
+          "id": "1778696847563104256",
+          "start": 10,
+          "username": "gold_bihu"
+        },
+        {
+          "end": 37,
+          "id": "1531874456997863424",
+          "start": 21,
+          "username": "guodongmaikefe2"
+        },
+        {
+          "end": 54,
+          "id": "1918279776969842688",
+          "start": 38,
+          "username": "2TejHqfgsS69569"
+        },
+        {
+          "end": 67,
+          "id": "1974036716727201792",
+          "start": 55,
+          "username": "jilianmeing"
+        },
+        {
+          "end": 84,
+          "id": "1980396569363935232",
+          "start": 68,
+          "username": "Disturbeuphoric"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999718715139715549",
+    "in_reply_to_user_id": "2405324646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999703286904160507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alexavad @gold_bihu @guodongmaikefe2 @2TejHqfgsS69569 @jilianmeing @Disturbeuphoric 我的孩子😭😭怎么被滴啦狗领养了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1999703278322614272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8BfiWiagAAL4uD.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1999703286904160507",
+        "created_at": "2025-12-13T05:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T06:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999718715139715549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2405324646",
+              "start": 0,
+              "username": "alexavad"
+            },
+            {
+              "end": 20,
+              "id": "1778696847563104256",
+              "start": 10,
+              "username": "gold_bihu"
+            },
+            {
+              "end": 37,
+              "id": "1531874456997863424",
+              "start": 21,
+              "username": "guodongmaikefe2"
+            },
+            {
+              "end": 54,
+              "id": "1918279776969842688",
+              "start": 38,
+              "username": "2TejHqfgsS69569"
+            },
+            {
+              "end": 67,
+              "id": "1974036716727201792",
+              "start": 55,
+              "username": "jilianmeing"
+            },
+            {
+              "end": 84,
+              "id": "1980396569363935232",
+              "start": 68,
+              "username": "Disturbeuphoric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999718715139715549",
+        "in_reply_to_user_id": "2405324646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999703286904160507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexavad @gold_bihu @guodongmaikefe2 @2TejHqfgsS69569 @jilianmeing @Disturbeuphoric 我的孩子😭😭怎么被滴啦狗领养了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999703278322614272"
+          ]
+        },
+        "author_id": "2405324646",
+        "conversation_id": "1999703286904160507",
+        "created_at": "2025-12-13T04:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T05:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999703286904160507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1778696847563104256",
+              "start": 22,
+              "username": "gold_bihu"
+            },
+            {
+              "end": 49,
+              "id": "1531874456997863424",
+              "start": 33,
+              "username": "guodongmaikefe2"
+            },
+            {
+              "end": 72,
+              "id": "1918279776969842688",
+              "start": 56,
+              "username": "2TejHqfgsS69569"
+            },
+            {
+              "end": 91,
+              "id": "1974036716727201792",
+              "start": 79,
+              "username": "jilianmeing"
+            },
+            {
+              "end": 108,
+              "id": "1980396569363935232",
+              "start": 92,
+              "username": "Disturbeuphoric"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 136,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1997466543241011200/epyTbHc3?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1997466543241011200/epyTbHc3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 113,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/4bk1DqZaY1"
+            },
+            {
+              "display_url": "pic.x.com/GXozgMaqCX",
+              "end": 160,
+              "expanded_url": "https://x.com/alexavad/status/1999703286904160507/photo/1",
+              "media_key": "3_1999703278322614272",
+              "start": 137,
+              "url": "https://t.co/GXozgMaqCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999703286904160507",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @gold_bihu @guodongmaikefe2\n👰 配偶: @2TejHqfgsS69569\n👶 孩子: @jilianmeing @Disturbeuphoric\n\n➡️ https://t.co/4bk1DqZaY1 https://t.co/GXozgMaqCX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 357,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 170
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2014-03-23T00:20:59.000Z",
+        "description": "何时归",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ChuangChuangha…",
+                "end": 23,
+                "expanded_url": "https://t.me/ChuangChuanghajimi",
+                "start": 0,
+                "url": "https://t.co/dq6IelJn5p"
+              }
+            ]
+          }
+        },
+        "id": "2405324646",
+        "location": "桃源1.6.4",
+        "name": "пока-пока #战狼二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995958071848566784/UHqDL_cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 205,
+          "like_count": 2447,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1338
+        },
+        "url": "https://t.co/dq6IelJn5p",
+        "username": "alexavad",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "性别是🦖 ｜od区?｜同类互fo｜有我能帮上忙的请尽管私聊｜喜欢一切有意思的东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dddlg28",
+                "end": 23,
+                "expanded_url": "https://t.me/dddlg28",
+                "start": 0,
+                "url": "https://t.co/MS7VCxz7qW"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "name": "多拉贡",
+        "pinned_tweet_id": "1988544986514608235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996121294568558592/oUNZCOVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 329,
+          "like_count": 8511,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 2165
+        },
+        "url": "https://t.co/MS7VCxz7qW",
+        "username": "gold_bihu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "不要被任何事物掌控/我会一直给你点赞⌓‿⌓/抑郁焦虑/我脑子有病/同类互fo/发癫/异性恋/由于被性骚扰过所以恐gay，恐跨/愈美片是屎/od就是吸毒所以我是个毒虫/",
+        "id": "1531874456997863424",
+        "location": "明天",
+        "name": "不开心就od",
+        "pinned_tweet_id": "1994668785635311976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984521028274700291/SnoaoxPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 161,
+          "like_count": 9993,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 937
+        },
+        "username": "guodongmaikefe2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:22:12.000Z",
+        "description": "世界很好，你也不赖。Student in FPGA/ASIC",
+        "id": "1918279776969842688",
+        "name": "小白覆",
+        "pinned_tweet_id": "1991538159130497357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998236948713086976/pxAnc45g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 35,
+          "like_count": 1786,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 1797
+        },
+        "username": "2TejHqfgsS69569",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T09:00:31.000Z",
+        "description": "明天 有个盛大舞台为我敞开\n这就是我 独一无二的模样\nshe @JLMeing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 31,
+                "username": "JLMeing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jilianmeing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jilianmeing",
+                "start": 0,
+                "url": "https://t.co/puTamLFDrx"
+              }
+            ]
+          }
+        },
+        "id": "1974036716727201792",
+        "location": "我还有好多话想说",
+        "name": "我削下来的洋葱头怎么被人装上了假齐刘海",
+        "pinned_tweet_id": "1989677471206387770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997361860912558080/dMZhlN0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 213,
+          "like_count": 20156,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 5649
+        },
+        "url": "https://t.co/puTamLFDrx",
+        "username": "jilianmeing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T22:13:55.000Z",
+        "description": "我特立独行，有些离经叛道。我每天多次在喜悦和极度低落之间切换。我强烈地体验着这两种极端，每天都很难熬。 我的身体对药物和酒精过敏。ADHD, ASD, OCD, PTSD, AROACE。感官过度敏感，我饱受焦虑困扰，我无法忍受暴力。我把我的情绪状态和艺术分享给你。我希望你能以善意接纳真实的我。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "suno.com/@enajv",
+                "end": 23,
+                "expanded_url": "https://suno.com/@enajv",
+                "start": 0,
+                "url": "https://t.co/FO9Sk5oGpc"
+              }
+            ]
+          }
+        },
+        "id": "1980396569363935232",
+        "name": "欢乐精神",
+        "pinned_tweet_id": "1997097089050812460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998487756406726656/gWiRNlft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 98,
+          "like_count": 3318,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 908
+        },
+        "url": "https://t.co/FO9Sk5oGpc",
+        "username": "Disturbeuphoric",
+        "verified": false
+      }
+    ]
+  }
+}

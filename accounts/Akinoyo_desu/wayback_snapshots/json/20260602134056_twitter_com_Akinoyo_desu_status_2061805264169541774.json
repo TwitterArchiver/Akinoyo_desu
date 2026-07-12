@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2061805264169541774",
+    "created_at": "2026-06-02T13:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061805264169541774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919465517829783552",
+          "start": 3,
+          "username": "KviSin_17"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Акадо.’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1dxYl…",
+          "end": 38,
+          "expanded_url": "https://x.com/i/spaces/1dxYllLzXmzJX",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2061804131099242496/CagQEup5?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2061804131099242496/CagQEup5?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 15,
+          "status": 200,
+          "title": "Happening now: 给Jash送丧",
+          "unwound_url": "https://twitter.com/i/spaces/1dxYllLzXmzJX/peek",
+          "url": "https://t.co/MLg6mvXty2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061805264169541774",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061804088699101345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KviSin_17: https://t.co/MLg6mvXty2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2061805264169541774",
+        "created_at": "2026-06-02T13:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061805264169541774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919465517829783552",
+              "start": 3,
+              "username": "KviSin_17"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Акадо.’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1dxYl…",
+              "end": 38,
+              "expanded_url": "https://x.com/i/spaces/1dxYllLzXmzJX",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2061804131099242496/CagQEup5?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2061804131099242496/CagQEup5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "Happening now: 给Jash送丧",
+              "unwound_url": "https://twitter.com/i/spaces/1dxYllLzXmzJX/peek",
+              "url": "https://t.co/MLg6mvXty2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061805264169541774",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061804088699101345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KviSin_17: https://t.co/MLg6mvXty2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2061804088699101345",
+        "created_at": "2026-06-02T13:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061804088699101345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Акадо.’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1dxYl…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1dxYllLzXmzJX",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2061804131099242496/CagQEup5?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2061804131099242496/CagQEup5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 给Jash送丧",
+              "unwound_url": "https://twitter.com/i/spaces/1dxYllLzXmzJX/peek",
+              "url": "https://t.co/MLg6mvXty2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061804088699101345",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MLg6mvXty2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 1003,
+          "like_count": 4654,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1569
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士\n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 52,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 29,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060502549808173057/nEyRiD3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 34,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 299
+        },
+        "username": "KviSin_17",
+        "verified": false
+      }
+    ]
+  }
+}

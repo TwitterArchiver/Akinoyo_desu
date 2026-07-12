@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1995726277899420081",
+    "created_at": "2025-12-02T19:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T20:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995938228743065884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1699460180952662016",
+          "start": 0,
+          "username": "annie2183"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995938228743065884",
+    "in_reply_to_user_id": "1699460180952662016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995911462137794835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annie2183 何意，，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1995726277899420081",
+        "created_at": "2025-12-02T19:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T20:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995938228743065884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1699460180952662016",
+              "start": 0,
+              "username": "annie2183"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995938228743065884",
+        "in_reply_to_user_id": "1699460180952662016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995911462137794835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annie2183 何意，，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699460180952662016",
+        "conversation_id": "1995726277899420081",
+        "created_at": "2025-12-02T17:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T18:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995911462137794835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567203042872926208",
+              "start": 0,
+              "username": "Akinoyo_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995911462137794835",
+        "in_reply_to_user_id": "1567203042872926208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995726277899420081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_desu 你们比共产党还要无神论者 一点也不相信转生啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 247,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 96
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-06T16:31:15.000Z",
+        "description": "灰袍主教",
+        "id": "1699460180952662016",
+        "name": "annie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760727730554064898/joVSB6JS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 2143,
+          "like_count": 17850,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 15664
+        },
+        "username": "annie2183",
+        "verified": false
+      }
+    ]
+  }
+}

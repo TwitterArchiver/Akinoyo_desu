@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068801554447261698"
+      ]
+    },
+    "author_id": "1567203042872926208",
+    "conversation_id": "2068801618632708209",
+    "created_at": "2026-06-21T21:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T22:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068801618632708209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L6PkCY1nDI",
+          "end": 50,
+          "expanded_url": "https://x.com/Akinoyo_desu/status/2068801618632708209/video/1",
+          "media_key": "13_2068801554447261698",
+          "start": 27,
+          "url": "https://t.co/L6PkCY1nDI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068801618632708209",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "THIS IS MY FXXKING TIME！！！ https://t.co/L6PkCY1nDI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18133,
+        "height": 1080,
+        "media_key": "13_2068801554447261698",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068801554447261698/img/sHw_cn_9VDsJdc6j.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068801554447261698/pl/cQGXVNrf0DppIo_g.m3u8"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068801554447261698/vid/avc1/320x320/bRkxHBR70ktas_IG.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068801554447261698/vid/avc1/720x720/tZP4PGNHhdxqTp-H.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068801554447261698/vid/avc1/540x540/1GvUaBOgTN0CaU8B.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068801554447261698/vid/avc1/1080x1080/swBrqUbtC8T8KlAN.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068801554447261698"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "2068801618632708209",
+        "created_at": "2026-06-21T21:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T22:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068801618632708209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L6PkCY1nDI",
+              "end": 50,
+              "expanded_url": "https://x.com/Akinoyo_desu/status/2068801618632708209/video/1",
+              "media_key": "13_2068801554447261698",
+              "start": 27,
+              "url": "https://t.co/L6PkCY1nDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068801618632708209",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "THIS IS MY FXXKING TIME！！！ https://t.co/L6PkCY1nDI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 1050,
+          "like_count": 5019,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1731
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

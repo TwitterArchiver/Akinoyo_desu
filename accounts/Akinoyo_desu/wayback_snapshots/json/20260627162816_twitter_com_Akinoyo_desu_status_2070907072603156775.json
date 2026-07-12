@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2070699644192018886",
+    "created_at": "2026-06-27T16:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070907072603156775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1486946165937651716",
+          "start": 0,
+          "username": "IZUNA347"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070907072603156775",
+    "in_reply_to_user_id": "1486946165937651716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070699644192018886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IZUNA347 家人哪里认识的给我介绍下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2070699644192018886",
+        "created_at": "2026-06-27T16:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070907072603156775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1486946165937651716",
+              "start": 0,
+              "username": "IZUNA347"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070907072603156775",
+        "in_reply_to_user_id": "1486946165937651716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070699644192018886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IZUNA347 家人哪里认识的给我介绍下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486946165937651716",
+        "conversation_id": "2070699644192018886",
+        "created_at": "2026-06-27T02:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070699644192018886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070699644192018886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 22257,
+          "like_count": 189,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我跟妈妈说 我好想抽大麻 她跟我说…她十几岁时跟朋友抽过 细细的 很香 还吸过k粉 天昏地暗的 吐了很久 还吃过摇头丸 一直跳舞 但是她没有上瘾 她的朋友上瘾了 但是妈妈只试过这几个..中国管控之后就只吸烟了嗯..大概这就是妈妈为什么会对我的性取向还有磕药这么包容吧 嗯 我是社会妹的孩子….我不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 1069,
+          "like_count": 5094,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1747
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-28T06:16:23.000Z",
+        "description": "HE/HIM🏳️‍🌈-SHTWT 988TWT",
+        "id": "1486946165937651716",
+        "name": "izuna",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055029378954792960/W3zEJTZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 222,
+          "like_count": 7746,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1401
+        },
+        "url": "",
+        "username": "IZUNA347",
+        "verified": false
+      }
+    ]
+  }
+}

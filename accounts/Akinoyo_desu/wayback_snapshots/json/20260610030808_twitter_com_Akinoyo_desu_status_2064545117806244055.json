@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2064545117806244055",
+    "created_at": "2026-06-10T03:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064545117806244055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954500072517103617",
+          "start": 3,
+          "username": "dtxx333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064545117806244055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064422825486942410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dtxx333: 我生活在一个包庇强奸犯，保护虐狗男，警察当众殴打人民，社媒被控制的国家，我真的很难过很失望。我不知道是什么时候变成这样的，又或者是本来就是这样只不过几年前的我被关在信息茧房。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2064545117806244055",
+        "created_at": "2026-06-10T03:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064545117806244055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954500072517103617",
+              "start": 3,
+              "username": "dtxx333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064545117806244055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064422825486942410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dtxx333: 我生活在一个包庇强奸犯，保护虐狗男，警察当众殴打人民，社媒被控制的国家，我真的很难过很失望。我不知道是什么时候变成这样的，又或者是本来就是这样只不过几年前的我被关在信息茧房。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954500072517103617",
+        "conversation_id": "2064422825486942410",
+        "created_at": "2026-06-09T19:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064422825486942410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064422825486942410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8198,
+          "like_count": 345,
+          "quote_count": 1,
+          "reply_count": 40,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我生活在一个包庇强奸犯，保护虐狗男，警察当众殴打人民，社媒被控制的国家，我真的很难过很失望。我不知道是什么时候变成这样的，又或者是本来就是这样只不过几年前的我被关在信息茧房。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 1030,
+          "like_count": 4892,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1661
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-10T11:09:01.000Z",
+        "description": "我都是乱说的",
+        "id": "1954500072517103617",
+        "name": "蛋挞熊",
+        "pinned_tweet_id": "1988637598730854771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038095789898317824/PZ_lPtAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4270,
+          "following_count": 316,
+          "like_count": 8253,
+          "listed_count": 8,
+          "media_count": 268,
+          "tweet_count": 2513
+        },
+        "username": "dtxx333",
+        "verified": false
+      }
+    ]
+  }
+}

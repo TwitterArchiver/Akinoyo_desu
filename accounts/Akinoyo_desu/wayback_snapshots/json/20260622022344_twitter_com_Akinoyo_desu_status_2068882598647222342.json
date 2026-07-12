@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068882591911235584"
+      ]
+    },
+    "author_id": "1567203042872926208",
+    "conversation_id": "2068882598647222342",
+    "created_at": "2026-06-22T02:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T03:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068882598647222342"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fxFXfHTGNA",
+          "end": 191,
+          "expanded_url": "https://x.com/Akinoyo_desu/status/2068882598647222342/photo/1",
+          "media_key": "3_2068882591911235584",
+          "start": 168,
+          "url": "https://t.co/fxFXfHTGNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068882598647222342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "\"你看比赛了吗？“\n\"看了。\"\n\"Falcons赢了。\"\n\"嗯。\"\n“Niko终于赢得Major了。\"\n“我知道。\"\n\"你不是一直觉得他拿不到了吗？\"\n\"我不是觉得他拿不到。\"\n“那是什么？\"\n“我是怕时间等不到。\"\n“什么意思？\"\n“有些选手输掉比赛，是因为状态不好。可有些选手输掉比赛，是因为时间太久了。\"\n\"Niko 是哪种？\"\n“第二种。\"\n\"这些年很难吗？\"\n\"难。\"\n\"有多难？\"\n“你看着一个人，从天才少年打成传奇老将。看着他的队友拿冠军，对手拿冠军，后辈拿冠军。可属于他的那一个，一直没来。\"\n“那为什么还有那么多人相信他？”\n“因为他一直值得相信。\"\n“即使一次次输？\"\n\"即使一次次输。\"\n\"即使卡托维兹？“\n\"即使卡托维兹。”\n\"即使波士顿？\"\n\"即使波士顿。\"\n\"即使哥本哈根？\"\n\"即使哥本哈根。\"\n\"为什么？\"\n“因为有的人追冠军，是为了证明自己。”\n\"那Niko呢？\"\n“Niko追冠军，是因为他本来就配得上冠军。\"\n“可这么多年过去了。\"\n\"是啊。\"\n“很多人都退役了。”\n“很多人都离开了。\"\n\"很多人都不再相信了。\"\n\"但他还在。\"\n\"所以今天不一样？\"\n\"今天不一样。\"\n“哪里不一样？\"\n“以前举起奖杯的人里，没有Niko。”\n“现在呢？“\n“现在历史里有了。\"\n\"当他捧起奖杯的时候，你在想什么？”\n“我想起一句话。”\n“什么话？“\n“不是所有坚持都会有结果。\"\n\"然后呢？\"\n“但有些结果，值得你坚持十年。“\n“所以冠军终于来了？\"\n\"嗯。\"\n\"晚了吗？\"\n“对于二十八岁的Niko来说，也许有点晚。\"\n\"对于CS来说呢？“\n“刚刚好。”"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "\"你看比赛了吗？“\n\"看了。\"\n\"Falcons赢了。\"\n\"嗯。\"\n“Niko终于赢得Major了。\"\n“我知道。\"\n\"你不是一直觉得他拿不到了吗？\"\n\"我不是觉得他拿不到。\"\n“那是什么？\"\n“我是怕时间等不到。\"\n“什么意思？\"\n“有些选手输掉比赛，是因为状态不好。可有些选手输掉比赛，是因为时间太久了。\"\n\"Niko 是哪种？\" https://t.co/fxFXfHTGNA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2068882591911235584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYlwYTb0AAJqw6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068882591911235584"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "2068882598647222342",
+        "created_at": "2026-06-22T02:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068882598647222342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fxFXfHTGNA",
+              "end": 191,
+              "expanded_url": "https://x.com/Akinoyo_desu/status/2068882598647222342/photo/1",
+              "media_key": "3_2068882591911235584",
+              "start": 168,
+              "url": "https://t.co/fxFXfHTGNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068882598647222342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "\"你看比赛了吗？“\n\"看了。\"\n\"Falcons赢了。\"\n\"嗯。\"\n“Niko终于赢得Major了。\"\n“我知道。\"\n\"你不是一直觉得他拿不到了吗？\"\n\"我不是觉得他拿不到。\"\n“那是什么？\"\n“我是怕时间等不到。\"\n“什么意思？\"\n“有些选手输掉比赛，是因为状态不好。可有些选手输掉比赛，是因为时间太久了。\"\n\"Niko 是哪种？\"\n“第二种。\"\n\"这些年很难吗？\"\n\"难。\"\n\"有多难？\"\n“你看着一个人，从天才少年打成传奇老将。看着他的队友拿冠军，对手拿冠军，后辈拿冠军。可属于他的那一个，一直没来。\"\n“那为什么还有那么多人相信他？”\n“因为他一直值得相信。\"\n“即使一次次输？\"\n\"即使一次次输。\"\n\"即使卡托维兹？“\n\"即使卡托维兹。”\n\"即使波士顿？\"\n\"即使波士顿。\"\n\"即使哥本哈根？\"\n\"即使哥本哈根。\"\n\"为什么？\"\n“因为有的人追冠军，是为了证明自己。”\n\"那Niko呢？\"\n“Niko追冠军，是因为他本来就配得上冠军。\"\n“可这么多年过去了。\"\n\"是啊。\"\n“很多人都退役了。”\n“很多人都离开了。\"\n\"很多人都不再相信了。\"\n\"但他还在。\"\n\"所以今天不一样？\"\n\"今天不一样。\"\n“哪里不一样？\"\n“以前举起奖杯的人里，没有Niko。”\n“现在呢？“\n“现在历史里有了。\"\n\"当他捧起奖杯的时候，你在想什么？”\n“我想起一句话。”\n“什么话？“\n“不是所有坚持都会有结果。\"\n\"然后呢？\"\n“但有些结果，值得你坚持十年。“\n“所以冠军终于来了？\"\n\"嗯。\"\n\"晚了吗？\"\n“对于二十八岁的Niko来说，也许有点晚。\"\n\"对于CS来说呢？“\n“刚刚好。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "\"你看比赛了吗？“\n\"看了。\"\n\"Falcons赢了。\"\n\"嗯。\"\n“Niko终于赢得Major了。\"\n“我知道。\"\n\"你不是一直觉得他拿不到了吗？\"\n\"我不是觉得他拿不到。\"\n“那是什么？\"\n“我是怕时间等不到。\"\n“什么意思？\"\n“有些选手输掉比赛，是因为状态不好。可有些选手输掉比赛，是因为时间太久了。\"\n\"Niko 是哪种？\" https://t.co/fxFXfHTGNA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 1060,
+          "like_count": 5049,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1737
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

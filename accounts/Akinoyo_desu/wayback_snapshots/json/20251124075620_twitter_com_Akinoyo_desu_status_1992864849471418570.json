@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1992634364874924476",
+    "created_at": "2025-11-24T07:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T08:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992864849471418570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944225210284314624",
+          "start": 0,
+          "username": "DongMing101"
+        },
+        {
+          "end": 24,
+          "id": "1658664482632253441",
+          "start": 13,
+          "username": "jujube8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992864849471418570",
+    "in_reply_to_user_id": "1944225210284314624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992635301718884441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DongMing101 @jujube8964 你以为的应该没错）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1992634364874924476",
+        "created_at": "2025-11-24T07:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T08:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992864849471418570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944225210284314624",
+              "start": 0,
+              "username": "DongMing101"
+            },
+            {
+              "end": 24,
+              "id": "1658664482632253441",
+              "start": 13,
+              "username": "jujube8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992864849471418570",
+        "in_reply_to_user_id": "1944225210284314624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992635301718884441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DongMing101 @jujube8964 你以为的应该没错）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944225210284314624",
+        "conversation_id": "1992634364874924476",
+        "created_at": "2025-11-23T16:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992635301718884441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1658664482632253441",
+              "start": 0,
+              "username": "jujube8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992635301718884441",
+        "in_reply_to_user_id": "1658664482632253441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992634364874924476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jujube8964 我一直以为你是女生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870431669808951297/LZfqETLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 142,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T02:40:02.000Z",
+        "description": "波尔布特主义|包蜜|膜蛤|膜胡|入🚪89.64|主人@TheNan19930731|不互fo找自己问题|三无号敢关注我一律block|粉红青鸟和极端支黑吃59式去别来烦我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "TheNan19930731"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/APOiQu75Ih"
+              }
+            ]
+          }
+        },
+        "id": "1944225210284314624",
+        "location": "野獸邸",
+        "name": "波头鹰🇰🇭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988545427986374656/lFEH2zw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 348,
+          "like_count": 54019,
+          "listed_count": 9,
+          "media_count": 558,
+          "tweet_count": 1945
+        },
+        "url": "https://t.co/APOiQu75Ih",
+        "username": "DongMing101",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T02:43:36.000Z",
+        "description": "深爱着我的爱人，直到永远             \n                我个人阳痿/风湿/前列腺炎/腰间盘突出        回fo私信立马回喵",
+        "id": "1658664482632253441",
+        "location": "爱人的怀抱",
+        "name": "冬枣（恩师刁大大）",
+        "pinned_tweet_id": "1987143944019620187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984312223637151744/2QZKQVoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 698,
+          "like_count": 2435,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 4510
+        },
+        "username": "jujube8964",
+        "verified": false
+      }
+    ]
+  }
+}

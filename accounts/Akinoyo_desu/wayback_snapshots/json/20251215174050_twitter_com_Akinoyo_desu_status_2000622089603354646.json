@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2000574704495776223",
+    "created_at": "2025-12-15T17:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T18:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000622089603354646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778696847563104256",
+          "start": 0,
+          "username": "gold_bihu"
+        },
+        {
+          "end": 20,
+          "id": "1551813602553757697",
+          "start": 11,
+          "username": "mimi_VnV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000622089603354646",
+    "in_reply_to_user_id": "1778696847563104256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000587918319235581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gold_bihu @mimi_VnV 你还想站着吃？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2000574704495776223",
+        "created_at": "2025-12-15T17:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T18:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000622089603354646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778696847563104256",
+              "start": 0,
+              "username": "gold_bihu"
+            },
+            {
+              "end": 20,
+              "id": "1551813602553757697",
+              "start": 11,
+              "username": "mimi_VnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000622089603354646",
+        "in_reply_to_user_id": "1778696847563104256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000587918319235581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gold_bihu @mimi_VnV 你还想站着吃？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778696847563104256",
+        "conversation_id": "2000574704495776223",
+        "created_at": "2025-12-15T15:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000587918319235581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1551813602553757697",
+              "start": 0,
+              "username": "mimi_VnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000587918319235581",
+        "in_reply_to_user_id": "1551813602553757697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000578530405454050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimi_VnV 还要跪着吃，？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 364,
+          "like_count": 467,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 189
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "性别是🦖 ｜od区?｜同类互fo｜喜欢一切有意思的东西｜请不要和我吵架｜处方放在https://t.co/MS7VCxzFgu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dddlg28",
+                "end": 63,
+                "expanded_url": "https://t.me/dddlg28",
+                "start": 40,
+                "url": "https://t.co/MS7VCxzFgu"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "name": "多拉贡",
+        "pinned_tweet_id": "1999827971180490853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996121294568558592/oUNZCOVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 349,
+          "like_count": 8867,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 2210
+        },
+        "username": "gold_bihu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T06:16:28.000Z",
+        "description": "天才",
+        "id": "1551813602553757697",
+        "name": "离离原上咪",
+        "pinned_tweet_id": "1999555259333497156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999355828642676743/TgO3_l-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 679,
+          "like_count": 11158,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1460
+        },
+        "username": "mimi_VnV",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2027417282738319727",
+    "created_at": "2026-03-03T13:31:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T14:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028825610651664589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1920704053031694336",
+          "start": 0,
+          "username": "AB3806514087983"
+        },
+        {
+          "end": 30,
+          "id": "1888428282192039936",
+          "start": 17,
+          "username": "babystar1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028825610651664589",
+    "in_reply_to_user_id": "1920704053031694336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027738569725383056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AB3806514087983 @babystar1204 差评，狗有了地雷呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2027738559541874693",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCP5efrbEAUquGf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2027417282738319727",
+        "created_at": "2026-03-03T13:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028825610651664589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1920704053031694336",
+              "start": 0,
+              "username": "AB3806514087983"
+            },
+            {
+              "end": 30,
+              "id": "1888428282192039936",
+              "start": 17,
+              "username": "babystar1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028825610651664589",
+        "in_reply_to_user_id": "1920704053031694336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027738569725383056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AB3806514087983 @babystar1204 差评，狗有了地雷呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027738559541874693"
+          ]
+        },
+        "author_id": "1920704053031694336",
+        "conversation_id": "2027417282738319727",
+        "created_at": "2026-02-28T13:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T14:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027738569725383056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1888428282192039936",
+              "start": 0,
+              "username": "babystar1204"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eS47BEv9Ar",
+              "end": 50,
+              "expanded_url": "https://x.com/AB3806514087983/status/2027738569725383056/photo/1",
+              "media_key": "3_2027738559541874693",
+              "start": 27,
+              "url": "https://t.co/eS47BEv9Ar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027738569725383056",
+        "in_reply_to_user_id": "1888428282192039936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1547,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027417282738319727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babystar1204 我来交作业啦，你和地雷狗 https://t.co/eS47BEv9Ar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平/ 涘🧊@winterfruit_1 /聖 🍜@shungleemain /♠️🅰️@w0sh1Asak1 /渡 🚣‍♂️@justyanwu14/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shungleemain"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "justyanwu14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 119,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 96,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 773,
+          "like_count": 2904,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 852
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-09T04:55:19.000Z",
+        "description": "09 一条蛆",
+        "id": "1920704053031694336",
+        "location": "Japan",
+        "name": "Abel",
+        "pinned_tweet_id": "2024564803248021800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028191039799037952/mVh74C4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 16,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 76
+        },
+        "username": "AB3806514087983",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T03:22:53.000Z",
+        "description": "So long, nice to know you, I'll be moving on/臭臭的小狗@gold_bihu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "gold_bihu"
+              }
+            ]
+          }
+        },
+        "id": "1888428282192039936",
+        "name": "我今天回去就跟你妈把婚离了",
+        "pinned_tweet_id": "2022572133617189374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004573979886178304/aiijHy_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 21,
+          "like_count": 242,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 353
+        },
+        "username": "babystar1204",
+        "verified": false
+      }
+    ]
+  }
+}

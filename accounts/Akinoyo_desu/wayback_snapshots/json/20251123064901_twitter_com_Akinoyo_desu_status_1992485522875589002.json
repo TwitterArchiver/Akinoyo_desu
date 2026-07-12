@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992485511727140864"
+      ]
+    },
+    "author_id": "1567203042872926208",
+    "conversation_id": "1992485522875589002",
+    "created_at": "2025-11-23T06:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T07:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992485522875589002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MYFeHb9DjG",
+          "end": 42,
+          "expanded_url": "https://x.com/Akinoyo_desu/status/1992485522875589002/photo/1",
+          "media_key": "3_1992485511727140864",
+          "start": 19,
+          "url": "https://t.co/MYFeHb9DjG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992485522875589002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不让回fo😭😭😭😭等我之后再fo大家 https://t.co/MYFeHb9DjG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 483,
+        "media_key": "3_1992485511727140864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6a7BCqb0AAL4NS.jpg",
+        "width": 477
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992485511727140864"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "1992485522875589002",
+        "created_at": "2025-11-23T06:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T07:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992485522875589002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MYFeHb9DjG",
+              "end": 42,
+              "expanded_url": "https://x.com/Akinoyo_desu/status/1992485522875589002/photo/1",
+              "media_key": "3_1992485511727140864",
+              "start": 19,
+              "url": "https://t.co/MYFeHb9DjG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992485522875589002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不让回fo😭😭😭😭等我之后再fo大家 https://t.co/MYFeHb9DjG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！",
+        "id": "1567203042872926208",
+        "name": "Akinoyo_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870431669808951297/LZfqETLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 35,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      }
+    ]
+  }
+}

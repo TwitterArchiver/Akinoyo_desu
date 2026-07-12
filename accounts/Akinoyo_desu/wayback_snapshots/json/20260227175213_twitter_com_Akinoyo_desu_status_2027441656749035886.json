@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2027046156090609948",
+    "created_at": "2026-02-27T17:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027441656749035886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1898058525072670720",
+          "start": 0,
+          "username": "WilliamLan49496"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027441656749035886",
+    "in_reply_to_user_id": "1898058525072670720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027441057194250307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WilliamLan49496 切全局试试呢看看能不能上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2027046156090609948",
+        "created_at": "2026-02-27T17:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027441656749035886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1898058525072670720",
+              "start": 0,
+              "username": "WilliamLan49496"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027441656749035886",
+        "in_reply_to_user_id": "1898058525072670720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027441057194250307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WilliamLan49496 切全局试试呢看看能不能上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898058525072670720",
+        "conversation_id": "2027046156090609948",
+        "created_at": "2026-02-27T17:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027441057194250307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567203042872926208",
+              "start": 0,
+              "username": "Akinoyo_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027441057194250307",
+        "in_reply_to_user_id": "1567203042872926208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027440878575554813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_desu 开了啊，不开我怎么上推特跟你说话捏（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平/ 涘🧊@winterfruit_1 /聖 🍜@shungleemain /♠️🅰️@w0sh1Asak1 /渡 🚣‍♂️@justyanwu14/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shungleemain"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "justyanwu14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 119,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 96,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 747,
+          "like_count": 2729,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 822
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-07T17:10:10.000Z",
+        "description": "顺直男/友跨/14 岁/初二/出厂日期 2011.10.29/ ENTP-T/中度抑郁/自残/不 od/183cm 81kg/CS2 Minecraft 喵斯快跑 三厨/术术人/键政人/社自党/比较外向/希望被很多人在意！/欢迎互 fo😉 /TG：@niconico_william",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 124,
+                "username": "niconico_william"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/niconico_willi…",
+                "end": 23,
+                "expanded_url": "http://t.me/niconico_william",
+                "start": 0,
+                "url": "https://t.co/fLcSKKVA0K"
+              }
+            ]
+          }
+        },
+        "id": "1898058525072670720",
+        "name": "niconeko🇺🇦🇵🇸🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019066668295806976/-FBSWEwD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 45,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 160
+        },
+        "url": "https://t.co/fLcSKKVA0K",
+        "username": "WilliamLan49496",
+        "verified": false
+      }
+    ]
+  }
+}

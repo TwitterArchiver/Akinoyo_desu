@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1999401395666182338",
+    "created_at": "2025-12-12T10:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T11:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999424581971640409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975125847339315200",
+          "start": 0,
+          "username": "ji00000zi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999424581971640409",
+    "in_reply_to_user_id": "1975125847339315200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999401395666182338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji00000zi 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_1999401243547226112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79M1nUbUAAiO7v.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1999401395666182338",
+        "created_at": "2025-12-12T10:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999424581971640409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975125847339315200",
+              "start": 0,
+              "username": "ji00000zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999424581971640409",
+        "in_reply_to_user_id": "1975125847339315200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999401395666182338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji00000zi 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999401243547226112"
+          ]
+        },
+        "author_id": "1975125847339315200",
+        "conversation_id": "1999401395666182338",
+        "created_at": "2025-12-12T08:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999401395666182338"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i1ppIHMExg",
+              "end": 35,
+              "expanded_url": "https://x.com/ji00000zi/status/1999401395666182338/photo/1",
+              "media_key": "3_1999401243547226112",
+              "start": 12,
+              "url": "https://t.co/i1ppIHMExg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999401395666182338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点看有彩蛋🥵 #xyn https://t.co/i1ppIHMExg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 354,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 167
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-06T09:08:02.000Z",
+        "description": "退役xyn？ 精神状态还行？ 可以找我打三角洲 06 168 60\n神秘坐标 0771\n前3个千of号去世，现在老实了\n乱七八糟涩涩发电号 @ji0000zi  这号暂时不用了(被标记了)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "ji0000zi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ji1zi1",
+                "end": 23,
+                "expanded_url": "https://t.me/ji1zi1",
+                "start": 0,
+                "url": "https://t.co/ZVJNbGmUi6"
+              }
+            ]
+          }
+        },
+        "id": "1975125847339315200",
+        "location": "4km",
+        "name": "💊好吃的小猫咪🍥",
+        "pinned_tweet_id": "1976962525620236672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998140604539342848/oYEsf5X1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 96,
+          "like_count": 233,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/ZVJNbGmUi6",
+        "username": "ji00000zi",
+        "verified": false
+      }
+    ]
+  }
+}

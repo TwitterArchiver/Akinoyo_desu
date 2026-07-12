@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2008499252813824311",
+    "created_at": "2026-01-07T08:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T09:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008813420418920906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796937387899064320",
+          "start": 0,
+          "username": "CleverFf050755"
+        },
+        {
+          "end": 27,
+          "id": "1816148552764252169",
+          "start": 16,
+          "username": "w0sh1Asak1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008813420418920906",
+    "in_reply_to_user_id": "1796937387899064320",
+    "lang": "no",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008794761411654030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CleverFf050755 @w0sh1Asak1 dinner"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_2008794737306955776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-CsK6fa8AAeS7a.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2008499252813824311",
+        "created_at": "2026-01-07T08:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T09:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008813420418920906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796937387899064320",
+              "start": 0,
+              "username": "CleverFf050755"
+            },
+            {
+              "end": 27,
+              "id": "1816148552764252169",
+              "start": 16,
+              "username": "w0sh1Asak1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008813420418920906",
+        "in_reply_to_user_id": "1796937387899064320",
+        "lang": "no",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008794761411654030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CleverFf050755 @w0sh1Asak1 dinner"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008794737306955776"
+          ]
+        },
+        "author_id": "1796937387899064320",
+        "conversation_id": "2008499252813824311",
+        "created_at": "2026-01-07T06:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T07:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008794761411654030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567203042872926208",
+              "start": 0,
+              "username": "Akinoyo_desu"
+            },
+            {
+              "end": 25,
+              "id": "1816148552764252169",
+              "start": 14,
+              "username": "w0sh1Asak1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejUYG153JY",
+              "end": 49,
+              "expanded_url": "https://x.com/CleverFf050755/status/2008794761411654030/photo/1",
+              "media_key": "3_2008794737306955776",
+              "start": 26,
+              "url": "https://t.co/ejUYG153JY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008794761411654030",
+        "in_reply_to_user_id": "1567203042872926208",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008762870516117574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_desu @w0sh1Asak1 https://t.co/ejUYG153JY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008592556121354244/0zcv1U4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 518,
+          "like_count": 1282,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 470
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。\n提问盒：https://t.co/ZSBub0KBoe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 57,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 34,
+                "url": "https://t.co/ZSBub0KBoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#缄默",
+        "pinned_tweet_id": "2000592634600149206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984526675133280256/FEBTrBQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 227,
+          "like_count": 167,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 1868
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T16:29:11.000Z",
+        "description": "♦️ACE 性格恶劣 oder  可可@Truffaut897456/ 唧唧@Jiji_O_o_jiiii/鸟兽兽@abt514514/前卫@vanofthess/妈妈呀@winterfruit_1/小K @akinoyo_desu/江别@cy79p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "Truffaut897456"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "Jiji_O_o_jiiii"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "abt514514"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "vanofthess"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "akinoyo_desu"
+              },
+              {
+                "end": 125,
+                "start": 119,
+                "username": "cy79p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lovesick7.com",
+                "end": 23,
+                "expanded_url": "http://www.lovesick7.com",
+                "start": 0,
+                "url": "https://t.co/J2XoZ64NLw"
+              }
+            ]
+          }
+        },
+        "id": "1816148552764252169",
+        "location": "空悲切！",
+        "name": "天才美少女Asaak1#天津四",
+        "pinned_tweet_id": "2004187063462322192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008628562233008128/GBx47JNJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 746,
+          "like_count": 26013,
+          "listed_count": 4,
+          "media_count": 512,
+          "tweet_count": 11660
+        },
+        "url": "https://t.co/J2XoZ64NLw",
+        "username": "w0sh1Asak1",
+        "verified": false
+      }
+    ]
+  }
+}

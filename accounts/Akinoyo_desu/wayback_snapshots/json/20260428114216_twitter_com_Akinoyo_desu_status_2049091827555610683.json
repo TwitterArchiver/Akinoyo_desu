@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049091816620965888"
+      ]
+    },
+    "author_id": "1567203042872926208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2049091827555610683",
+    "created_at": "2026-04-28T11:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049091827555610683"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ntUet0e2Iq",
+          "end": 168,
+          "expanded_url": "https://x.com/Akinoyo_desu/status/2049091827555610683/photo/1",
+          "media_key": "3_2049091816620965888",
+          "start": 145,
+          "url": "https://t.co/ntUet0e2Iq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049091827555610683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "《奶蛙学院》是文艺复兴大师拉斐尔·桑西于1509至1511年间创作的经典壁画，位于梵蒂冈宗座宫内。作品以古希腊哲学为主题，在宏伟而理想化的古典建筑空间中汇集了众多哲学家与学者，展现人类理性与智慧的巅峰。其中中央的柏拉奶蛙与亚里士多奶蛙通过手势分别象征理念世界与现实经验，两者形成鲜明对比与统一。整幅画运用严谨的透视与对称构图，使人物与空间高度和谐，体现了文艺复兴时期对人文主义、理性精神以及古典文化复兴的追求，是西方艺术史上极具代表性的杰作之一。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《奶蛙学院》是文艺复兴大师拉斐尔·桑西于1509至1511年间创作的经典壁画，位于梵蒂冈宗座宫内。作品以古希腊哲学为主题，在宏伟而理想化的古典建筑空间中汇集了众多哲学家与学者，展现人类理性与智慧的巅峰。其中中央的柏拉奶蛙与亚里士多奶蛙通过手势分别象征理念世界与现实经验，两者形成鲜明对比与 https://t.co/ntUet0e2Iq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 952,
+        "media_key": "3_2049091816620965888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_WJpHaQAAk0nP.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049091816620965888"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2049091827555610683",
+        "created_at": "2026-04-28T11:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049091827555610683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntUet0e2Iq",
+              "end": 168,
+              "expanded_url": "https://x.com/Akinoyo_desu/status/2049091827555610683/photo/1",
+              "media_key": "3_2049091816620965888",
+              "start": 145,
+              "url": "https://t.co/ntUet0e2Iq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049091827555610683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《奶蛙学院》是文艺复兴大师拉斐尔·桑西于1509至1511年间创作的经典壁画，位于梵蒂冈宗座宫内。作品以古希腊哲学为主题，在宏伟而理想化的古典建筑空间中汇集了众多哲学家与学者，展现人类理性与智慧的巅峰。其中中央的柏拉奶蛙与亚里士多奶蛙通过手势分别象征理念世界与现实经验，两者形成鲜明对比与统一。整幅画运用严谨的透视与对称构图，使人物与空间高度和谐，体现了文艺复兴时期对人文主义、理性精神以及古典文化复兴的追求，是西方艺术史上极具代表性的杰作之一。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《奶蛙学院》是文艺复兴大师拉斐尔·桑西于1509至1511年间创作的经典壁画，位于梵蒂冈宗座宫内。作品以古希腊哲学为主题，在宏伟而理想化的古典建筑空间中汇集了众多哲学家与学者，展现人类理性与智慧的巅峰。其中中央的柏拉奶蛙与亚里士多奶蛙通过手势分别象征理念世界与现实经验，两者形成鲜明对比与 https://t.co/ntUet0e2Iq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "旧名义：仿生喹硫平/关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/\n♠️🅰️@w0sh1Asak1 /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "shungleemain"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "w0sh1Asak1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 968,
+          "like_count": 4290,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1379
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

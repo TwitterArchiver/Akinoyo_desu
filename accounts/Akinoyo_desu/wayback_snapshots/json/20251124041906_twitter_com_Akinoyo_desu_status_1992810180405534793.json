@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1992810180405534793",
+    "created_at": "2025-11-24T04:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T05:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992810180405534793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/milkstarneko/s…",
+          "end": 124,
+          "expanded_url": "https://twitter.com/milkstarneko/status/1991795635780198447",
+          "start": 101,
+          "url": "https://t.co/2eFth7HSvk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992810180405534793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991795635780198447",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！ https://t.co/2eFth7HSvk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1992810180405534793",
+        "created_at": "2025-11-24T04:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992810180405534793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/milkstarneko/s…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/milkstarneko/status/1991795635780198447",
+              "start": 101,
+              "url": "https://t.co/2eFth7HSvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992810180405534793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991795635780198447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！ https://t.co/2eFth7HSvk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "1991795635780198447",
+        "created_at": "2025-11-21T09:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T10:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991795635780198447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/StarNekOvO/sta…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/StarNekOvO/status/1991791630157025704",
+              "start": 101,
+              "url": "https://t.co/g8rAKcb2T3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991795635780198447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1440,
+          "like_count": 25,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991791630157025704",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！爪爪要冻僵了喵！好冷喵！ https://t.co/g8rAKcb2T3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！",
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870431669808951297/LZfqETLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 108,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "牛奶貓🐈系統&水母🪼系統。坏猫@StarNekOvO。杭州・シンガポール・東京・深圳・重慶あたりに出没するかも。 INFJ｜双極性II型・重度うつ・不安・BPD・ADHD・地雷注意｜已失去夢想",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "StarNekOvO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarNekOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarNekOvO",
+                "start": 0,
+                "url": "https://t.co/nVL53sBbua"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島",
+        "name": "牛奶猫",
+        "pinned_tweet_id": "1983982521051418829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979924394630619136/ScimS47h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4359,
+          "following_count": 2050,
+          "like_count": 32001,
+          "listed_count": 17,
+          "media_count": 1297,
+          "tweet_count": 10890
+        },
+        "url": "https://t.co/nVL53sBbua",
+        "username": "MilkStarNeko",
+        "verified": true
+      }
+    ]
+  }
+}

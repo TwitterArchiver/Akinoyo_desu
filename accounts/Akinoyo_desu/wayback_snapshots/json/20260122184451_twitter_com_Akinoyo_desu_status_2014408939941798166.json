@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2014408939941798166",
+    "created_at": "2026-01-22T18:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T19:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014408939941798166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nmd_china/stat…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/nmd_china/status/2013936575969907131",
+          "start": 69,
+          "url": "https://t.co/1XSHzlqimT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014408939941798166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013936575969907131",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你都做到这一步了，直接给他说的话全打打印出来整理好，整一个小一点的本子弄个红皮给装订成册，A学长会抢着买的，之前有人这样搞结晶粉库库爆浆 https://t.co/1XSHzlqimT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2013936564846608384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_LwoqvaQAAcZn2.jpg",
+        "width": 969
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2014408939941798166",
+        "created_at": "2026-01-22T18:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T19:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014408939941798166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nmd_china/stat…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/nmd_china/status/2013936575969907131",
+              "start": 69,
+              "url": "https://t.co/1XSHzlqimT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014408939941798166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013936575969907131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你都做到这一步了，直接给他说的话全打打印出来整理好，整一个小一点的本子弄个红皮给装订成册，A学长会抢着买的，之前有人这样搞结晶粉库库爆浆 https://t.co/1XSHzlqimT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013936564846608384"
+          ]
+        },
+        "author_id": "1944225210284314624",
+        "conversation_id": "2013936575969907131",
+        "created_at": "2026-01-21T11:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013936575969907131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aty5myWhGg",
+              "end": 36,
+              "expanded_url": "https://x.com/NMD_China/status/2013936575969907131/photo/1",
+              "media_key": "3_2013936564846608384",
+              "start": 13,
+              "url": "https://t.co/Aty5myWhGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013936575969907131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 39707,
+          "like_count": 747,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "三天不学习，赶不上斯奎奇 https://t.co/Aty5myWhGg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平/ 涘🧊@winterfruit_1 /聖 🍜@shungleemain / 🧂@C21koy_7c / ♠️🅰️@w0sh1Asak1 /渡 🚣‍♂️@justyanwu14/提问：https://t.co/IopkqyyRYu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shungleemain"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "C21koy_7c"
+              },
+              {
+                "end": 87,
+                "start": 76,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "justyanwu14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 134,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 111,
+                "url": "https://t.co/IopkqyyRYu"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 586,
+          "like_count": 1745,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 628
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T02:40:02.000Z",
+        "description": "波尔布特|包蜜|面向未来，目光如炬|入🚪89.64|主人@TheNan19930731|不互fo找自己问题|锁推的和三无号去死|永远是你的波头鹰|加速！加速！崩溃！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "TheNan19930731"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/APOiQu75Ih"
+              }
+            ]
+          }
+        },
+        "id": "1944225210284314624",
+        "location": "野獸邸",
+        "name": "波头鹰🇰🇭",
+        "pinned_tweet_id": "1984621180251484239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009065279201095680/OWiNletC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2536,
+          "following_count": 605,
+          "like_count": 98186,
+          "listed_count": 26,
+          "media_count": 910,
+          "tweet_count": 4251
+        },
+        "url": "https://t.co/APOiQu75Ih",
+        "username": "NMD_China",
+        "verified": false
+      }
+    ]
+  }
+}

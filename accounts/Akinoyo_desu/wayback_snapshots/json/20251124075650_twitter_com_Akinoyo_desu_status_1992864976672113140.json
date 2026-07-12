@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1991830066775695781",
+    "created_at": "2025-11-24T07:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T08:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992864976672113140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892114014563598339",
+          "start": 0,
+          "username": "3He2_Ka1R0"
+        },
+        {
+          "end": 26,
+          "id": "1390110140091625473",
+          "start": 12,
+          "username": "kinoko_kunsub"
+        },
+        {
+          "end": 36,
+          "id": "715183792697303041",
+          "start": 27,
+          "username": "HuoQubot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992864976672113140",
+    "in_reply_to_user_id": "1892114014563598339",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992532842979664352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3He2_Ka1R0 @kinoko_kunsub @HuoQubot hyw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1991830066775695781",
+        "created_at": "2025-11-24T07:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T08:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992864976672113140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892114014563598339",
+              "start": 0,
+              "username": "3He2_Ka1R0"
+            },
+            {
+              "end": 26,
+              "id": "1390110140091625473",
+              "start": 12,
+              "username": "kinoko_kunsub"
+            },
+            {
+              "end": 36,
+              "id": "715183792697303041",
+              "start": 27,
+              "username": "HuoQubot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992864976672113140",
+        "in_reply_to_user_id": "1892114014563598339",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992532842979664352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3He2_Ka1R0 @kinoko_kunsub @HuoQubot hyw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892114014563598339",
+        "conversation_id": "1991830066775695781",
+        "created_at": "2025-11-23T09:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T10:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992532842979664352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390110140091625473",
+              "start": 0,
+              "username": "kinoko_kunsub"
+            },
+            {
+              "end": 24,
+              "id": "715183792697303041",
+              "start": 15,
+              "username": "HuoQubot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992532842979664352",
+        "in_reply_to_user_id": "1390110140091625473",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 782,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991830066775695781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kinoko_kunsub @HuoQubot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870431669808951297/LZfqETLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 142,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 23
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  你有尝试变得真实吗?叫我 𝗞𝗮𝗶𝗿𝗼 就好ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "name": "xX梅妻鹤子Xx",
+        "pinned_tweet_id": "1962443374633644505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984261889027895296/4bprvd8Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 398,
+          "like_count": 64399,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 2500
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-06T01:04:43.000Z",
+        "description": "LINEスタンプのキャラクター、きのこの妖精でしゅ🍄大事なことなので2回言いましゅ“きのこの妖精”でしゅ🍄メインの活動場所はInstagram🍄#日本一健全なキャラクター🍄LINEスタンプや公式グッズは下のURLから⬇︎🍄お仕事依頼📩🍄💦ピュ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 72,
+                "tag": "日本一健全なキャラクター"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kinoko_kun0_0",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kinoko_kun0_0",
+                "start": 0,
+                "url": "https://t.co/XTWPZ3b9Na"
+              }
+            ]
+          }
+        },
+        "id": "1390110140091625473",
+        "name": "がんばれ！きのこ君【公式】LINEスタンプ/キノコ絵文字",
+        "pinned_tweet_id": "1909949288949670384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665938925482024961/khYZe9xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40102,
+          "following_count": 130,
+          "like_count": 1110,
+          "listed_count": 32,
+          "media_count": 1570,
+          "tweet_count": 2544
+        },
+        "url": "https://t.co/XTWPZ3b9Na",
+        "username": "kinoko_kunsub",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-30T14:27:58.000Z",
+        "description": "在推文中提及@HuoQubot 将在几秒回复你相关视频下载链接。 请关注我 获取通知。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "HuoQubot"
+              }
+            ]
+          }
+        },
+        "id": "715183792697303041",
+        "name": "获取影片机器人",
+        "pinned_tweet_id": "1987161956810432835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805124494555750400/A_atuS58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301692,
+          "following_count": 114,
+          "like_count": 19,
+          "listed_count": 658,
+          "media_count": 1,
+          "tweet_count": 838819
+        },
+        "username": "HuoQubot",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1993407490453914026",
+    "created_at": "2025-11-25T19:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T20:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993407490453914026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1912916776519954432",
+          "start": 3,
+          "username": "liu_lu43456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993407490453914026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993405634331742489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liu_lu43456: 说点难绷的，我房间衣柜最下面有一箱子我小时候的玩具，我把我的斐济杯和假牛牛全藏里面了，然后还在学校的时候我家里给我打电话问我“你那玩家还要不要，不要送你侄子了”我想了想本来就都是别人玩剩下给我的，就不要了，完全忘了里面有东西这回事了，回家发现怎…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1993407490453914026",
+        "created_at": "2025-11-25T19:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T20:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993407490453914026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1912916776519954432",
+              "start": 3,
+              "username": "liu_lu43456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993407490453914026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993405634331742489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liu_lu43456: 说点难绷的，我房间衣柜最下面有一箱子我小时候的玩具，我把我的斐济杯和假牛牛全藏里面了，然后还在学校的时候我家里给我打电话问我“你那玩家还要不要，不要送你侄子了”我想了想本来就都是别人玩剩下给我的，就不要了，完全忘了里面有东西这回事了，回家发现怎…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912916776519954432",
+        "conversation_id": "1993405634331742489",
+        "created_at": "2025-11-25T19:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T20:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993405634331742489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993405634331742489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "说点难绷的，我房间衣柜最下面有一箱子我小时候的玩具，我把我的斐济杯和假牛牛全藏里面了，然后还在学校的时候我家里给我打电话问我“你那玩家还要不要，不要送你侄子了”我想了想本来就都是别人玩剩下给我的，就不要了，完全忘了里面有东西这回事了，回家发现怎么找都找不到牛牛，意识到大事不妙（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870431669808951297/LZfqETLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 166,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 40
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T17:11:35.000Z",
+        "description": "🟣🟪MBTI:INTP-T🟣/5w4🧬/处女座♍/null/🟪🟣⚖️⚖️⚖️/💊OD💊/自伤🔪/双相👥/♥️泛性恋♥️/       ❌❌不参与政治讨论，烦/最害怕一种生物，大傻逼/       ⭕⭕音乐🎶/绘画🎨/阅读📖/动漫与电影🎬/新知识📚  ‼️我什么推文都有概率发，祝你开心呢‼️",
+        "id": "1912916776519954432",
+        "location": "石家庄市",
+        "name": "Gyouboshi小鹿＃毕宿五",
+        "pinned_tweet_id": "1988624434773557593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985065808847044608/Uat0xkD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 107,
+          "like_count": 342,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 1043
+        },
+        "username": "liu_lu43456",
+        "verified": false
+      }
+    ]
+  }
+}

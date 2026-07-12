@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2043010612763189616",
+    "created_at": "2026-04-11T16:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T17:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043010612763189616"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuukiwfn/statu…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/kuukiwfn/status/2042983706852565127",
+          "start": 57,
+          "url": "https://t.co/JJOXo11TsH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043010612763189616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042983706852565127",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对于这个我只想说，小时候看看抗日神剧都知道要悄悄地进村，打枪滴不要，██说的od区██低简直没有比这更真理的话了 https://t.co/JJOXo11TsH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2042983651819098112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoizqCbkAA_wID.jpg",
+        "width": 471
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2042983651852587015",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoizqKakAcmPpP.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2043010612763189616",
+        "created_at": "2026-04-11T16:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043010612763189616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuukiwfn/statu…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/kuukiwfn/status/2042983706852565127",
+              "start": 57,
+              "url": "https://t.co/JJOXo11TsH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043010612763189616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042983706852565127",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对于这个我只想说，小时候看看抗日神剧都知道要悄悄地进村，打枪滴不要，██说的od区██低简直没有比这更真理的话了 https://t.co/JJOXo11TsH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042983651819098112",
+            "3_2042983651852587015"
+          ]
+        },
+        "author_id": "1775833048493240320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042983706852565127",
+        "created_at": "2026-04-11T15:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042983706852565127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KTHcosOEph",
+              "end": 59,
+              "expanded_url": "https://x.com/kuukiwfn/status/2042983706852565127/photo/1",
+              "media_key": "3_2042983651819098112",
+              "start": 36,
+              "url": "https://t.co/KTHcosOEph"
+            },
+            {
+              "display_url": "pic.x.com/KTHcosOEph",
+              "end": 59,
+              "expanded_url": "https://x.com/kuukiwfn/status/2042983706852565127/photo/1",
+              "media_key": "3_2042983651852587015",
+              "start": 36,
+              "url": "https://t.co/KTHcosOEph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042983706852565127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 135,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢张警官 谢谢陈医生\n呃呃我这样用处方但只买一盒会不会太浪费处方了（ https://t.co/KTHcosOEph"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ \n旧名义：仿生喹硫平/\n梨❤️@Eternal1uv9/\n涘🧊@winterfruit_1 /\n渡 🚣‍♂️@noth1nghere14/\n♠️🅰️@w0sh1Asak1 /\n聖 🍜@shungleemain /\n提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "shungleemain"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 143,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 120,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 873,
+          "like_count": 3952,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 1251
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-04T10:29:48.000Z",
+        "description": "✝️2010transgender 🏳️‍⚧️ 🖤\n 💊overdose lover 🩸喜欢非主流 🥰\n❤️ rebzyyx ,kets4eki..scenecore ..💉 \n🥰dm互fo 😋😋 |",
+        "id": "1775833048493240320",
+        "location": "kuuki小黒屋",
+        "name": "✝️kuuki✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041491910490304512/juOj7D4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 734,
+          "like_count": 34081,
+          "listed_count": 0,
+          "media_count": 738,
+          "tweet_count": 2772
+        },
+        "username": "kuukiwfn",
+        "verified": false
+      }
+    ]
+  }
+}

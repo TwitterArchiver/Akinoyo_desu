@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2013921189895496028",
+    "created_at": "2026-01-21T10:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T11:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013927505602703695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012786155847368704",
+          "start": 0,
+          "username": "duoru_Dusk"
+        },
+        {
+          "end": 22,
+          "id": "1811690667720212480",
+          "start": 12,
+          "username": "y0zarashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013927505602703695",
+    "in_reply_to_user_id": "2012786155847368704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013921189895496028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoru_Dusk @y0zarashi 李哥结束了罪恶的一生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2013921189895496028",
+        "created_at": "2026-01-21T10:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T11:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013927505602703695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012786155847368704",
+              "start": 0,
+              "username": "duoru_Dusk"
+            },
+            {
+              "end": 22,
+              "id": "1811690667720212480",
+              "start": 12,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013927505602703695",
+        "in_reply_to_user_id": "2012786155847368704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013921189895496028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoru_Dusk @y0zarashi 李哥结束了罪恶的一生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012786155847368704",
+        "conversation_id": "2013921189895496028",
+        "created_at": "2026-01-21T10:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T11:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013921189895496028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1811690667720212480",
+              "start": 11,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013921189895496028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "讣告，经确认，李君豪\n@y0zarashi\n凌晨告知被人陷害后，彻底失去联系，目前情况不妙，\n让我们带着最后的怀念，送别他\n祝他早日归来\nRIP 🕯️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平/ 涘🧊@winterfruit_1 /聖 🍜@shungleemain / 🧂@C21koy_7c / ♠️🅰️@w0sh1Asak1 /渡 🚣‍♂️@justyanwu14/提问：https://t.co/IopkqyyRYu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shungleemain"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "C21koy_7c"
+              },
+              {
+                "end": 87,
+                "start": 76,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "justyanwu14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 134,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 111,
+                "url": "https://t.co/IopkqyyRYu"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 584,
+          "like_count": 1713,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 615
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T07:16:46.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "2012786155847368704",
+        "name": "蓝狗🏳️‍⚧️🍥（不想起床",
+        "pinned_tweet_id": "2012858638914797572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012788589038374912/pKP29pwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 126,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 249
+        },
+        "username": "duoru_Dusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "文学会改变人的心性，轻易的影响一个人使他走火入魔做不了凡人，读完一定程度的世界文学，十几年就过去了，而这条路才刚开始，而且读书之后大部分会忘却需要重新复读，留下来的比例如同鲁迅说的“炼炭”，精神会被前人之精神改造，如果你有诗歌或宗教的天赋，会更加偏离常人，你的友人家人同辈都会跟你谈不到一块，也很难有女人适合你。",
+        "id": "1811690667720212480",
+        "location": "2026元旦",
+        "name": "CallumL1（老婆孩子我的命）",
+        "pinned_tweet_id": "1969768959525421212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006577292462657536/9e_wGI8Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 122,
+          "like_count": 33,
+          "listed_count": 5,
+          "media_count": 181,
+          "tweet_count": 618
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

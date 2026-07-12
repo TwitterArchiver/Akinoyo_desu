@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1995500199373091097",
+    "created_at": "2025-12-02T03:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T04:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995699377311244647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882936483662663680",
+          "start": 0,
+          "username": "jngyn298282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995699377311244647",
+    "in_reply_to_user_id": "1882936483662663680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995500199373091097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jngyn298282 唉所有人都没有模仿到鸡哥那张照片的精髓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1995499575747182592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FwSqHagAA3PXX.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1995499615656058880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FwU-yboAAbWEX.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1995500199373091097",
+        "created_at": "2025-12-02T03:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T04:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995699377311244647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882936483662663680",
+              "start": 0,
+              "username": "jngyn298282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995699377311244647",
+        "in_reply_to_user_id": "1882936483662663680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995500199373091097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jngyn298282 唉所有人都没有模仿到鸡哥那张照片的精髓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995499575747182592",
+            "3_1995499615656058880"
+          ]
+        },
+        "author_id": "1882936483662663680",
+        "conversation_id": "1995500199373091097",
+        "created_at": "2025-12-01T14:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T15:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995500199373091097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xRWjfGUum",
+              "end": 44,
+              "expanded_url": "https://x.com/jngyn298282/status/1995500199373091097/photo/1",
+              "media_key": "3_1995499575747182592",
+              "start": 21,
+              "url": "https://t.co/1xRWjfGUum"
+            },
+            {
+              "display_url": "pic.x.com/1xRWjfGUum",
+              "end": 44,
+              "expanded_url": "https://x.com/jngyn298282/status/1995500199373091097/photo/1",
+              "media_key": "3_1995499615656058880",
+              "start": 21,
+              "url": "https://t.co/1xRWjfGUum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995500199373091097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1813,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢🐔哥开源，小女子不会抽烟就用糖代替了 https://t.co/1xRWjfGUum"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 217,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 81
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼/\n \n口粮：@420420420CTL/\n\n接受药圈新闻投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1882936483662663680",
+        "location": "🚪88/188/388/520",
+        "name": "镜音",
+        "pinned_tweet_id": "1992943700444688618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 205,
+          "like_count": 16440,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 2557
+        },
+        "username": "jngyn298282",
+        "verified": false
+      }
+    ]
+  }
+}

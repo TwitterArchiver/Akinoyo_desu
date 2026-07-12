@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1993865502876467574",
+    "created_at": "2025-11-27T10:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T11:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993994960396517391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974036716727201792",
+          "start": 0,
+          "username": "jilianmeing"
+        },
+        {
+          "end": 29,
+          "id": "1970359036014141442",
+          "start": 13,
+          "username": "Janeschanshadow"
+        },
+        {
+          "end": 44,
+          "id": "1982268780559626240",
+          "start": 30,
+          "username": "allthistime42"
+        },
+        {
+          "end": 61,
+          "id": "1948038442790866945",
+          "start": 45,
+          "username": "Janeschan118623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993994960396517391",
+    "in_reply_to_user_id": "1974036716727201792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993954259700945234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jilianmeing @Janeschanshadow @allthistime42 @Janeschan118623 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1993865502876467574",
+        "created_at": "2025-11-27T10:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T11:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993994960396517391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974036716727201792",
+              "start": 0,
+              "username": "jilianmeing"
+            },
+            {
+              "end": 29,
+              "id": "1970359036014141442",
+              "start": 13,
+              "username": "Janeschanshadow"
+            },
+            {
+              "end": 44,
+              "id": "1982268780559626240",
+              "start": 30,
+              "username": "allthistime42"
+            },
+            {
+              "end": 61,
+              "id": "1948038442790866945",
+              "start": 45,
+              "username": "Janeschan118623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993994960396517391",
+        "in_reply_to_user_id": "1974036716727201792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993954259700945234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jilianmeing @Janeschanshadow @allthistime42 @Janeschan118623 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974036716727201792",
+        "conversation_id": "1993865502876467574",
+        "created_at": "2025-11-27T08:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993954259700945234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970359036014141442",
+              "start": 0,
+              "username": "Janeschanshadow"
+            },
+            {
+              "end": 30,
+              "id": "1567203042872926208",
+              "start": 17,
+              "username": "Akinoyo_desu"
+            },
+            {
+              "end": 45,
+              "id": "1982268780559626240",
+              "start": 31,
+              "username": "allthistime42"
+            },
+            {
+              "end": 62,
+              "id": "1948038442790866945",
+              "start": 46,
+              "username": "Janeschan118623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993954259700945234",
+        "in_reply_to_user_id": "1970359036014141442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993951580429930906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Janeschanshadow @Akinoyo_desu @allthistime42 @Janeschan118623 我来画"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870431669808951297/LZfqETLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 189,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 61
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T09:00:31.000Z",
+        "description": "如果有人想惩罚我26分的地理 应该给我十本五三 而不是给我发一堆冬虫夏草一样的金针菇\n女朋友@jlmeing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "jlmeing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jilianmeing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jilianmeing",
+                "start": 0,
+                "url": "https://t.co/puTamLGbh5"
+              }
+            ]
+          }
+        },
+        "id": "1974036716727201792",
+        "location": "我还有好多话想说",
+        "name": "我削下来的洋葱头怎么被人装上了假齐刘海",
+        "pinned_tweet_id": "1989677471206387770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993002485909536770/Ou383EN4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 153,
+          "like_count": 14093,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 3432
+        },
+        "url": "https://t.co/puTamLGbh5",
+        "username": "jilianmeing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T05:26:35.000Z",
+        "description": "刹那间的星光闪烁，是你我相遇的火花‖INFP-T‖喜欢fumo‖间歇性悲伤‖期待与你成为朋友\n「本账号用于记录生活」\n「音乐分享号@allthistime42」\n「阅读摘抄号@Janeschan118623」\n「已丢失账号@twiays114514」\n欢迎问问题https://t.co/WJU6VpEFoR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "allthistime42"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Janeschan118623"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "twiays114514"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/janeschan1",
+                "end": 154,
+                "expanded_url": "https://ngl.link/janeschan1",
+                "start": 131,
+                "url": "https://t.co/WJU6VpEFoR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/TJgjpe8v",
+                "end": 23,
+                "expanded_url": "https://discord.gg/TJgjpe8v",
+                "start": 0,
+                "url": "https://t.co/gBWfokfySy"
+              }
+            ]
+          }
+        },
+        "id": "1970359036014141442",
+        "location": "法国 奥尔良",
+        "name": "Janes_ chan（淡推）",
+        "pinned_tweet_id": "1976071598206783821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992997673448898560/hqzyNcw1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 354,
+          "like_count": 9624,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1394
+        },
+        "url": "https://t.co/gBWfokfySy",
+        "username": "Janeschanshadow",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T02:11:50.000Z",
+        "description": "或许稍微休息一会，我就能飞得更好\n主帐号@Janeschanshadow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "Janeschanshadow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/janeschan1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/janeschan1",
+                "start": 0,
+                "url": "https://t.co/OXT5xpvtlQ"
+              }
+            ]
+          }
+        },
+        "id": "1982268780559626240",
+        "location": "云层之上☁",
+        "name": "不擅飞翔的伊卡洛斯（淡推）",
+        "pinned_tweet_id": "1982468736629272584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982820979890860032/wB4sGYMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 275,
+          "like_count": 7689,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1672
+        },
+        "url": "https://t.co/OXT5xpvtlQ",
+        "username": "allthistime42",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T15:12:23.000Z",
+        "description": "“重重的顾虑使我们全变成了懦夫，决心的炽热的光彩，被审慎的思维盖上了一层灰色”——《哈姆雷特》‖摘抄随笔专用号 主账号@Janeschanshadow 音乐分享账号@allthistime42",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 59,
+                "username": "Janeschanshadow"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "allthistime42"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/janeschan1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/janeschan1",
+                "start": 0,
+                "url": "https://t.co/1VKPhMux68"
+              }
+            ]
+          }
+        },
+        "id": "1948038442790866945",
+        "location": "法国 奥尔良",
+        "name": "Janes.（淡推）",
+        "pinned_tweet_id": "1978136516611146145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970444132163502080/eaP-BXS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 235,
+          "like_count": 10874,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1169
+        },
+        "url": "https://t.co/1VKPhMux68",
+        "username": "Janeschan118623",
+        "verified": false
+      }
+    ]
+  }
+}

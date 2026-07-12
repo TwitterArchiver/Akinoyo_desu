@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2062245180036493541",
+    "created_at": "2026-06-04T01:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T02:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062344977745850438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1625377150940614656",
+          "start": 0,
+          "username": "Nicebabycat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062344977745850438",
+    "in_reply_to_user_id": "1625377150940614656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062245180036493541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nicebabycat 主要是当年娄烨真被禁了，姜文也就真信了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2062245180036493541",
+        "created_at": "2026-06-04T01:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062344977745850438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1625377150940614656",
+              "start": 0,
+              "username": "Nicebabycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062344977745850438",
+        "in_reply_to_user_id": "1625377150940614656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062245180036493541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nicebabycat 主要是当年娄烨真被禁了，姜文也就真信了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625377150940614656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2062245180036493541",
+        "created_at": "2026-06-03T18:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062245180036493541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062245180036493541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 62795,
+          "like_count": 120,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姜文当年因为私自送电影去国外参加影展，被禁了好几年的导演资格。\n他算着日子熬到解禁期，跑去电影局要求恢复导演身份。\n结果人家回应得特别干脆：“从来没禁过你啊，解什么禁？”\n有人还记得这件事情吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 1015,
+          "like_count": 4734,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1600
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-14T06:11:40.000Z",
+        "description": "情感导师 | 媒体创作者 | All in AI \n\n～写人性、历史、情感与社会真相",
+        "id": "1625377150940614656",
+        "location": "United States",
+        "name": "洛阳韦小宝",
+        "pinned_tweet_id": "2060564237546885616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060515338564050944/035CJpg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26264,
+          "following_count": 1263,
+          "like_count": 9225,
+          "listed_count": 72,
+          "media_count": 1380,
+          "tweet_count": 8366
+        },
+        "username": "Nicebabycat",
+        "verified": true
+      }
+    ]
+  }
+}

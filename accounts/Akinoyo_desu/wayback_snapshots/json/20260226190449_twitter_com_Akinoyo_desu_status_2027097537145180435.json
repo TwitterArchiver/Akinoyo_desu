@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2026783868435718402",
+    "created_at": "2026-02-26T19:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T20:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027097537145180435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2014859848899559427",
+          "start": 0,
+          "username": "xuen12011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027097537145180435",
+    "in_reply_to_user_id": "2014859848899559427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026783868435718402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuen12011 没有娱乐价值"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026783856842706944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCCVLe-bEAAN1Wj.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2026783868435718402",
+        "created_at": "2026-02-26T19:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T20:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027097537145180435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2014859848899559427",
+              "start": 0,
+              "username": "xuen12011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027097537145180435",
+        "in_reply_to_user_id": "2014859848899559427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026783868435718402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuen12011 没有娱乐价值"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026783856842706944"
+          ]
+        },
+        "author_id": "2014859848899559427",
+        "conversation_id": "2026783868435718402",
+        "created_at": "2026-02-25T22:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T23:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026783868435718402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fUoW1sZbpd",
+              "end": 32,
+              "expanded_url": "https://x.com/xuen12011/status/2026783868435718402/photo/1",
+              "media_key": "3_2026783856842706944",
+              "start": 9,
+              "url": "https://t.co/fUoW1sZbpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026783868435718402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 645,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没吃过这个唉！ https://t.co/fUoW1sZbpd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平/ 涘🧊@winterfruit_1 /聖 🍜@shungleemain /♠️🅰️@w0sh1Asak1 /渡 🚣‍♂️@justyanwu14/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shungleemain"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "justyanwu14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 119,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 96,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 727,
+          "like_count": 2662,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 795
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-24T00:36:48.000Z",
+        "description": "od 惨妹🔪预警｜厌蠢 厌猪 谢谢｜只是喜欢发点碎碎念/ENTP 同类宝宝互fo 不聊骚 不是m不是s（破防来看我主页的 我只能说我比你幸福｜↓匿名提问˃ ᵕ ᵒ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/enlyn520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/enlyn520",
+                "start": 0,
+                "url": "https://t.co/dGEE5c2nYf"
+              }
+            ]
+          }
+        },
+        "id": "2014859848899559427",
+        "location": "下次见",
+        "name": "不是说好下次见吗",
+        "pinned_tweet_id": "2026833090682012073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025123808680763392/DpEAUrjM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 105,
+          "like_count": 1920,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 500
+        },
+        "url": "https://t.co/dGEE5c2nYf",
+        "username": "xuen12011",
+        "verified": false
+      }
+    ]
+  }
+}

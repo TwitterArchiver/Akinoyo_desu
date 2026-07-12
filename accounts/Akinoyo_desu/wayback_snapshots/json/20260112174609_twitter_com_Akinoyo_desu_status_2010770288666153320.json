@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2010604815211245964",
+    "created_at": "2026-01-12T17:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T18:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010770288666153320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796937387899064320",
+          "start": 0,
+          "username": "CleverFf050755"
+        },
+        {
+          "end": 27,
+          "id": "1769351732004544512",
+          "start": 16,
+          "username": "DDR5_SDRAM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010770288666153320",
+    "in_reply_to_user_id": "1796937387899064320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010749511782859067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CleverFf050755 @DDR5_SDRAM 教人od的来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2010604815211245964",
+        "created_at": "2026-01-12T17:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T18:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010770288666153320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796937387899064320",
+              "start": 0,
+              "username": "CleverFf050755"
+            },
+            {
+              "end": 27,
+              "id": "1769351732004544512",
+              "start": 16,
+              "username": "DDR5_SDRAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010770288666153320",
+        "in_reply_to_user_id": "1796937387899064320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010749511782859067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CleverFf050755 @DDR5_SDRAM 教人od的来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796937387899064320",
+        "conversation_id": "2010604815211245964",
+        "created_at": "2026-01-12T16:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010749511782859067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1769351732004544512",
+              "start": 0,
+              "username": "DDR5_SDRAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010749511782859067",
+        "in_reply_to_user_id": "1769351732004544512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010740549972901903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDR5_SDRAM 30片先来看看效果先"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009541246482829314/cnnYLUUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 556,
+          "like_count": 1521,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 556
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。\n提问盒：https://t.co/ZSBub0KBoe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 57,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 34,
+                "url": "https://t.co/ZSBub0KBoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#缄默",
+        "pinned_tweet_id": "2000592634600149206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009457486680760321/2cLUiZf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 241,
+          "like_count": 181,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 1981
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T13:15:24.000Z",
+        "description": "世界写满不公，社会布满荆棘。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miyu.link/RAM",
+                "end": 23,
+                "expanded_url": "https://miyu.link/RAM",
+                "start": 0,
+                "url": "https://t.co/0x6RB2MCHc"
+              }
+            ]
+          }
+        },
+        "id": "1769351732004544512",
+        "location": "   Shaanxi   PRC",
+        "name": "RAM",
+        "pinned_tweet_id": "2008538759428796788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998376731003248641/JbInyszK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 38,
+          "like_count": 843,
+          "listed_count": 0,
+          "media_count": 757,
+          "tweet_count": 1583
+        },
+        "url": "https://t.co/0x6RB2MCHc",
+        "username": "DDR5_SDRAM",
+        "verified": false
+      }
+    ]
+  }
+}

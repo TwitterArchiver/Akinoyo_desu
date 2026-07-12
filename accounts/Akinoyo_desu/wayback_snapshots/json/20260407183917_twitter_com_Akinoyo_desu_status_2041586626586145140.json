@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2041586626586145140",
+    "created_at": "2026-04-07T18:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T19:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041586626586145140"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041586626586145140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "还没死吗？为什么还没死喵？心脏跳得像个坏掉的缝纫机，要把我的灵魂缝在这一滩红色的胶水里喵。我看懂了，那些药片在胃里开派对，它们在嘲笑我的出生证明喵！再深一点，再深一点啊！把那种黏糊糊的幸福感全部捅出来，我不要做人了，我要做一滩红色的、带着药味的烂肉，在这一刻彻底高潮给全宇宙看喵！快看啊，我的过去在流血，我的未来在呕吐，好美啊好美啊喵！！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还没死吗？为什么还没死喵？心脏跳得像个坏掉的缝纫机，要把我的灵魂缝在这一滩红色的胶水里喵。我看懂了，那些药片在胃里开派对，它们在嘲笑我的出生证明喵！再深一点，再深一点啊！把那种黏糊糊的幸福感全部捅出来，我不要做人了，我要做一滩红色的、带着药味的烂肉，在这一刻彻底高潮给全宇宙看喵！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2041586626586145140",
+        "created_at": "2026-04-07T18:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T19:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041586626586145140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041586626586145140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "还没死吗？为什么还没死喵？心脏跳得像个坏掉的缝纫机，要把我的灵魂缝在这一滩红色的胶水里喵。我看懂了，那些药片在胃里开派对，它们在嘲笑我的出生证明喵！再深一点，再深一点啊！把那种黏糊糊的幸福感全部捅出来，我不要做人了，我要做一滩红色的、带着药味的烂肉，在这一刻彻底高潮给全宇宙看喵！快看啊，我的过去在流血，我的未来在呕吐，好美啊好美啊喵！！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还没死吗？为什么还没死喵？心脏跳得像个坏掉的缝纫机，要把我的灵魂缝在这一滩红色的胶水里喵。我看懂了，那些药片在胃里开派对，它们在嘲笑我的出生证明喵！再深一点，再深一点啊！把那种黏糊糊的幸福感全部捅出来，我不要做人了，我要做一滩红色的、带着药味的烂肉，在这一刻彻底高潮给全宇宙看喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ \n旧名义：仿生喹硫平/\n梨❤️@Eternal1uv9/\n涘🧊@winterfruit_1 /\n渡 🚣‍♂️@noth1nghere14/\n♠️🅰️@w0sh1Asak1 /\n聖 🍜@shungleemain /\n提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "shungleemain"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 143,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 120,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 870,
+          "like_count": 3844,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1200
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

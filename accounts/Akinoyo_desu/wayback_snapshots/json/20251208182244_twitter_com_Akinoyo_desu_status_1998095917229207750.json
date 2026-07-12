@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1998095917229207750",
+    "created_at": "2025-12-08T18:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T19:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998095917229207750"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/beloveduren896…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/beloveduren8964/status/1998080207887245688",
+          "start": 8,
+          "url": "https://t.co/W9AoNlvVny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998095917229207750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998080207887245688",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有顾而，，， https://t.co/W9AoNlvVny"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1998080199825711104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qbWv9aYAAqdQP.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1998095917229207750",
+        "created_at": "2025-12-08T18:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T19:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998095917229207750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/beloveduren896…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/beloveduren8964/status/1998080207887245688",
+              "start": 8,
+              "url": "https://t.co/W9AoNlvVny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998095917229207750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998080207887245688",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有顾而，，， https://t.co/W9AoNlvVny"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998080199825711104"
+          ]
+        },
+        "author_id": "1484072544009347072",
+        "conversation_id": "1998080207887245688",
+        "created_at": "2025-12-08T17:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T18:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998080207887245688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 71,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1997466543241011200/epyTbHc3?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1997466543241011200/epyTbHc3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 48,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/9BuHFI51bR"
+            },
+            {
+              "display_url": "pic.x.com/TnkcLgUXSy",
+              "end": 95,
+              "expanded_url": "https://x.com/BelovedUren8964/status/1998080207887245688/photo/1",
+              "media_key": "3_1998080199825711104",
+              "start": 72,
+              "url": "https://t.co/TnkcLgUXSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998080207887245688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @ @\n👰 配偶: @\n👶 孩子: @ @\n\n➡️ https://t.co/9BuHFI51bR https://t.co/TnkcLgUXSy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 305,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 132
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "叫我雨怜，我是善良猫猫。 无性别者/💊oder 我支持为OD正名/自由万岁！自由永远高于一切/这还用说吗，我是汉奸哪🇯🇵 / 台湾支那，一边一国🇹🇼 / 反男反女反跨反人类反一切/支那人没有一个是无辜的/Soulmate 真正的知音 忘れられないの:@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uren68329",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uren68329",
+                "start": 0,
+                "url": "https://t.co/DgJHLTrKH9"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "滨边雨怜会成为真正的传奇",
+        "pinned_tweet_id": "1808346704829468916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984506531275300864/Xx-IuiTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 521,
+          "like_count": 4809,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 3571
+        },
+        "url": "https://t.co/DgJHLTrKH9",
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

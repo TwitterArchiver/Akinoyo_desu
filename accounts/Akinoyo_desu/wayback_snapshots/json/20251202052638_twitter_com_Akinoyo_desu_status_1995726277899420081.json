@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1995726277899420081",
+    "created_at": "2025-12-02T05:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T06:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995726277899420081"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995726277899420081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "\"唔...让我再睡五分钟嘛...\"Winit420像小猫一样往后后后藤怀里钻，晨光为他翘起的呆毛镀上金边。后后后藤揉着他的头发轻笑：\"再不起来就赶不上摩天轮了。\"\nWinit420迷迷糊糊睁开眼：\"抱抱才起来～\"后后后藤无奈地将他捞起来，拍拍他的背：\"沐雨该笑你了。\"\n\"他敢！\"Winit420嘟着嘴爬起来，头发乱得像鸟窝。\n厨房里，Winit420从背后抱住正在煎蛋的后后后藤：\"要溏心的哦～\"后后后藤差点掉了铲子：\"你这样蛋要糊了。\"又宠溺地给他加了双倍奶的咖啡。\n游乐园里，Winit420兴奋地拉着后后后藤到处跑。过山车上，当Winit420紧张闭眼时，后后后藤悄悄握住他的手：\"别怕，有我在呢～\""
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "\"唔...让我再睡五分钟嘛...\"Winit420像小猫一样往后后后藤怀里钻，晨光为他翘起的呆毛镀上金边。后后后藤揉着他的头发轻笑：\"再不起来就赶不上摩天轮了。\"\nWinit420迷迷糊糊睁开眼：\"抱抱才起来～\"后后后藤无奈地将他捞起来，拍拍他的背：\"沐雨该笑你了。\""
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1995726277899420081",
+        "created_at": "2025-12-02T05:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T06:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995726277899420081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995726277899420081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "\"唔...让我再睡五分钟嘛...\"Winit420像小猫一样往后后后藤怀里钻，晨光为他翘起的呆毛镀上金边。后后后藤揉着他的头发轻笑：\"再不起来就赶不上摩天轮了。\"\nWinit420迷迷糊糊睁开眼：\"抱抱才起来～\"后后后藤无奈地将他捞起来，拍拍他的背：\"沐雨该笑你了。\"\n\"他敢！\"Winit420嘟着嘴爬起来，头发乱得像鸟窝。\n厨房里，Winit420从背后抱住正在煎蛋的后后后藤：\"要溏心的哦～\"后后后藤差点掉了铲子：\"你这样蛋要糊了。\"又宠溺地给他加了双倍奶的咖啡。\n游乐园里，Winit420兴奋地拉着后后后藤到处跑。过山车上，当Winit420紧张闭眼时，后后后藤悄悄握住他的手：\"别怕，有我在呢～\""
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "\"唔...让我再睡五分钟嘛...\"Winit420像小猫一样往后后后藤怀里钻，晨光为他翘起的呆毛镀上金边。后后后藤揉着他的头发轻笑：\"再不起来就赶不上摩天轮了。\"\nWinit420迷迷糊糊睁开眼：\"抱抱才起来～\"后后后藤无奈地将他捞起来，拍拍他的背：\"沐雨该笑你了。\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 226,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 87
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

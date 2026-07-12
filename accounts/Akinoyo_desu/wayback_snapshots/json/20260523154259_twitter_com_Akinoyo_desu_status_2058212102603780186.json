@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2058205364701864214",
+    "created_at": "2026-05-23T15:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058212102603780186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1757979305379041280",
+          "start": 0,
+          "username": "dddlg28"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058212102603780186",
+    "in_reply_to_user_id": "1757979305379041280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058205364701864214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dddlg28 神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058205358292893696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJA23lfagAAXdZk.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2058205364701864214",
+        "created_at": "2026-05-23T15:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058212102603780186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1757979305379041280",
+              "start": 0,
+              "username": "dddlg28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058212102603780186",
+        "in_reply_to_user_id": "1757979305379041280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058205364701864214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddlg28 神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058205358292893696"
+          ]
+        },
+        "author_id": "1757979305379041280",
+        "conversation_id": "2058205364701864214",
+        "created_at": "2026-05-23T15:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058205364701864214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/89blwD9KkB",
+              "end": 33,
+              "expanded_url": "https://x.com/dddlg28/status/2058205364701864214/photo/1",
+              "media_key": "3_2058205358292893696",
+              "start": 10,
+              "url": "https://t.co/89blwD9KkB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058205364701864214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛魔的这到底谁啊？ https://t.co/89blwD9KkB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 991,
+          "like_count": 4564,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1504
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "二世🦖 ｜od🐛｜同类互fo｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜😽心爱的猫:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 50,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 27,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 58,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl29",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl29",
+                "start": 0,
+                "url": "https://t.co/qHlW9k4b2v"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2032875772025909459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 263,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 114
+        },
+        "url": "https://t.co/qHlW9k4b2v",
+        "username": "dddlg28",
+        "verified": false
+      }
+    ]
+  }
+}

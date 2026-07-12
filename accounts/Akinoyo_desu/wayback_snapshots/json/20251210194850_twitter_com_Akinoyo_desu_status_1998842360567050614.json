@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1998706707753791577",
+    "created_at": "2025-12-10T19:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T20:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998842360567050614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778696847563104256",
+          "start": 0,
+          "username": "gold_bihu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998842360567050614",
+    "in_reply_to_user_id": "1778696847563104256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998706707753791577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gold_bihu 压抑……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1998706707753791577",
+        "created_at": "2025-12-10T19:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T20:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998842360567050614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778696847563104256",
+              "start": 0,
+              "username": "gold_bihu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998842360567050614",
+        "in_reply_to_user_id": "1778696847563104256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998706707753791577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gold_bihu 压抑……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778696847563104256",
+        "conversation_id": "1998706707753791577",
+        "created_at": "2025-12-10T10:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998706707753791577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huimu420/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/huimu420/status/1998687531081040188",
+              "start": 17,
+              "url": "https://t.co/mmcYoKX9y2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998706707753791577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998687531081040188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来个胸大的把我闷死。我不想活了。 https://t.co/mmcYoKX9y2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 339,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 149
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "性别是🦖 ｜od区?｜同类互fo｜有我能帮上忙的请尽管私聊｜喜欢一切有意思的东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dldlg1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dldlg1",
+                "start": 0,
+                "url": "https://t.co/pj8qiCyzau"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "location": "距你0.001km",
+        "name": "多拉贡",
+        "pinned_tweet_id": "1988544986514608235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996121294568558592/oUNZCOVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 327,
+          "like_count": 8093,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 2110
+        },
+        "url": "https://t.co/pj8qiCyzau",
+        "username": "gold_bihu",
+        "verified": false
+      }
+    ]
+  }
+}

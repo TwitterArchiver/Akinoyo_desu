@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1992354410991919512",
+    "created_at": "2025-11-24T05:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T06:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992822108976787837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778696847563104256",
+          "start": 0,
+          "username": "gold_bihu"
+        },
+        {
+          "end": 25,
+          "id": "1960974569722011648",
+          "start": 11,
+          "username": "xiaokou100204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992822108976787837",
+    "in_reply_to_user_id": "1778696847563104256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992412859897438258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gold_bihu @xiaokou100204 纽币"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1992354410991919512",
+        "created_at": "2025-11-24T05:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T06:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992822108976787837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778696847563104256",
+              "start": 0,
+              "username": "gold_bihu"
+            },
+            {
+              "end": 25,
+              "id": "1960974569722011648",
+              "start": 11,
+              "username": "xiaokou100204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992822108976787837",
+        "in_reply_to_user_id": "1778696847563104256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992412859897438258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gold_bihu @xiaokou100204 纽币"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778696847563104256",
+        "conversation_id": "1992354410991919512",
+        "created_at": "2025-11-23T02:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T03:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992412859897438258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960974569722011648",
+              "start": 0,
+              "username": "xiaokou100204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992412859897438258",
+        "in_reply_to_user_id": "1960974569722011648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992354410991919512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaokou100204 内陷好涩🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！",
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870431669808951297/LZfqETLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 113,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "🦖 社恐｜纯把推当QQ空间用｜我爱视奸｜同类互fo｜有我能帮上忙的请尽管私聊｜喜欢一切有意思的东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dldlg1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dldlg1",
+                "start": 0,
+                "url": "https://t.co/pj8qiCyzau"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "location": "距你0.001km",
+        "name": "多拉贡",
+        "pinned_tweet_id": "1988544986514608235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984418575743139840/28rhrUp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 297,
+          "like_count": 6349,
+          "listed_count": 3,
+          "media_count": 116,
+          "tweet_count": 1968
+        },
+        "url": "https://t.co/pj8qiCyzau",
+        "username": "gold_bihu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T07:55:54.000Z",
+        "description": "叫我小扣 od/穿孔/🍺/魔童系/花刀/坐标重庆/🚪50/150 /200 喜欢请多多支持🥹线下只接纯绿",
+        "id": "1960974569722011648",
+        "location": "Osaka-shi Kita-ku, Osaka",
+        "name": "扌口口口",
+        "pinned_tweet_id": "1989492291669799072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992753360542576640/t7fAk0i8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 17,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 399
+        },
+        "username": "xiaokou100204",
+        "verified": false
+      }
+    ]
+  }
+}

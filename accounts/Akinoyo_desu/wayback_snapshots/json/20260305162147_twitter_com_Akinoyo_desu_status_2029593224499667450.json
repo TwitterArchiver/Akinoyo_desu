@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2029593224499667450",
+    "created_at": "2026-03-05T16:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T17:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029593224499667450"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/un_krvy/status…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/un_krvy/status/2029586099006492680",
+          "start": 33,
+          "url": "https://t.co/SE0Sakrc0E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029593224499667450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029586099006492680",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在psydrugs wiki正在使用邀请制处方单生成，快来试试 https://t.co/SE0Sakrc0E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2029593224499667450",
+        "created_at": "2026-03-05T16:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029593224499667450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/un_krvy/status…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/un_krvy/status/2029586099006492680",
+              "start": 33,
+              "url": "https://t.co/SE0Sakrc0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029593224499667450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029586099006492680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在psydrugs wiki正在使用邀请制处方单生成，快来试试 https://t.co/SE0Sakrc0E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327197298930028544",
+        "conversation_id": "2029586099006492680",
+        "created_at": "2026-03-05T15:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T16:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029586099006492680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/un_krvy/status…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/un_krvy/status/2027743850547339526",
+              "start": 40,
+              "url": "https://t.co/51yLpENRVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029586099006492680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027743850547339526",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "暂时公开邀请码 vneipack 限时一天，如果有好的建议可以直接在帖子下评论 https://t.co/51yLpENRVC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平/ 涘🧊@winterfruit_1 /聖 🍜@shungleemain /♠️🅰️@w0sh1Asak1 /渡 🚣‍♂️@justyanwu14/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shungleemain"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "justyanwu14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 119,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 96,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 773,
+          "like_count": 2959,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 862
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "https://t.co/sxGCC1hNAm 官方账号，专注于精神药物科普，一个神奇的工作台 https://t.co/5yfyOKiE0A",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/sxGCC1hNAm"
+              },
+              {
+                "display_url": "generator.psydrugs.org",
+                "end": 71,
+                "expanded_url": "http://generator.psydrugs.org",
+                "start": 48,
+                "url": "https://t.co/5yfyOKiE0A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "https://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/CB9yLA9IjF"
+              }
+            ]
+          }
+        },
+        "id": "1327197298930028544",
+        "location": "Kansai, Hyogo",
+        "name": "Psydrugs official by krvy #​心宿二",
+        "pinned_tweet_id": "2027743850547339526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015057185953263616/EoNq2pvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 219,
+          "like_count": 6217,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1249
+        },
+        "url": "https://t.co/CB9yLA9IjF",
+        "username": "un_krvy",
+        "verified": false
+      }
+    ]
+  }
+}

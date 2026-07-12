@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2062320347492524177",
+    "created_at": "2026-06-03T23:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T00:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062320347492524177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1652185181636231168",
+          "start": 3,
+          "username": "ayayaya1891276"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062320347492524177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062208720877314456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayayaya1891276: 我是一个平 \n压迫老百姓\n打败了左派四人帮\n赶跑了华国锋\n我是邓小平 \n坦克轧人民\n吾尔开希刘晓波\n王丹和柴玲\n诶嘿嘿\n坦克冲冲冲\n子弹乒乒乒\n管你工人学生\n一律碾似不留情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2062320347492524177",
+        "created_at": "2026-06-03T23:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T00:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062320347492524177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1652185181636231168",
+              "start": 3,
+              "username": "ayayaya1891276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062320347492524177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062208720877314456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayayaya1891276: 我是一个平 \n压迫老百姓\n打败了左派四人帮\n赶跑了华国锋\n我是邓小平 \n坦克轧人民\n吾尔开希刘晓波\n王丹和柴玲\n诶嘿嘿\n坦克冲冲冲\n子弹乒乒乒\n管你工人学生\n一律碾似不留情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652185181636231168",
+        "conversation_id": "2062208720877314456",
+        "created_at": "2026-06-03T16:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062208720877314456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062208720877314456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 2084,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我是一个平 \n压迫老百姓\n打败了左派四人帮\n赶跑了华国锋\n我是邓小平 \n坦克轧人民\n吾尔开希刘晓波\n王丹和柴玲\n诶嘿嘿\n坦克冲冲冲\n子弹乒乒乒\n管你工人学生\n一律碾似不留情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 1013,
+          "like_count": 4703,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1598
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-29T05:37:15.000Z",
+        "description": "马斯克你妈死啦",
+        "id": "1652185181636231168",
+        "location": "妖怪之山 文文。新闻报社",
+        "name": "射命文丸",
+        "pinned_tweet_id": "1683487744830349317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054032613598507008/aaz_LCmb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 764,
+          "like_count": 1936,
+          "listed_count": 5,
+          "media_count": 192,
+          "tweet_count": 872
+        },
+        "username": "ayayaya1891276",
+        "verified": false
+      }
+    ]
+  }
+}

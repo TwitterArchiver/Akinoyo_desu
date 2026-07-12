@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1995197322855383175",
+    "created_at": "2025-12-01T20:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T21:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995586600571646433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974036716727201792",
+          "start": 0,
+          "username": "jilianmeing"
+        },
+        {
+          "end": 21,
+          "id": "1948395176831131648",
+          "start": 13,
+          "username": "zy89644"
+        },
+        {
+          "end": 29,
+          "id": "1926313840557355008",
+          "start": 22,
+          "username": "yepa41"
+        },
+        {
+          "end": 44,
+          "id": "1657704267443232770",
+          "start": 30,
+          "username": "kaede_shigeru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995586600571646433",
+    "in_reply_to_user_id": "1974036716727201792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995504420264788231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jilianmeing @zy89644 @yepa41 @kaede_shigeru 改一下设置，，，"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1995504420264788231].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1995504420264788231",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1995504420264788231"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1995197322855383175",
+        "created_at": "2025-12-01T20:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T21:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995586600571646433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974036716727201792",
+              "start": 0,
+              "username": "jilianmeing"
+            },
+            {
+              "end": 21,
+              "id": "1948395176831131648",
+              "start": 13,
+              "username": "zy89644"
+            },
+            {
+              "end": 29,
+              "id": "1926313840557355008",
+              "start": 22,
+              "username": "yepa41"
+            },
+            {
+              "end": 44,
+              "id": "1657704267443232770",
+              "start": 30,
+              "username": "kaede_shigeru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995586600571646433",
+        "in_reply_to_user_id": "1974036716727201792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995504420264788231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jilianmeing @zy89644 @yepa41 @kaede_shigeru 改一下设置，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 213,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 78
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T09:00:31.000Z",
+        "description": "如果有人想惩罚我26分的地理 应该给我十本五三 而不是给我发一堆冬虫夏草一样的金针菇\n女朋友@jlmeing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "jlmeing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jilianmeing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jilianmeing",
+                "start": 0,
+                "url": "https://t.co/puTamLGbh5"
+              }
+            ]
+          }
+        },
+        "id": "1974036716727201792",
+        "location": "我还有好多话想说",
+        "name": "我削下来的洋葱头怎么被人装上了假齐刘海",
+        "pinned_tweet_id": "1989677471206387770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993002485909536770/Ou383EN4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 183,
+          "like_count": 16661,
+          "listed_count": 3,
+          "media_count": 262,
+          "tweet_count": 4526
+        },
+        "url": "https://t.co/puTamLGbh5",
+        "username": "jilianmeing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T14:50:02.000Z",
+        "description": "可以对我说很多话\n\n心情好可以和我分享\n\n心情不好可以对我讲述\n\n总之有困难可以找我的说",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zy89644",
+                "end": 23,
+                "expanded_url": "http://ngl.link/zy89644",
+                "start": 0,
+                "url": "https://t.co/tLgc8L3Uoh"
+              }
+            ]
+          }
+        },
+        "id": "1948395176831131648",
+        "location": "名叫 “人生” 的列车上",
+        "name": "卖冰淇淋的이이이先生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993278355576438793/0plnXNep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 143,
+          "like_count": 15166,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 2908
+        },
+        "url": "https://t.co/tLgc8L3Uoh",
+        "username": "zy89644",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-24T16:26:40.000Z",
+        "description": "山川异域 风月同天",
+        "id": "1926313840557355008",
+        "location": "百味轩",
+        "name": "斯德哥尔摩第二吉他手",
+        "pinned_tweet_id": "1990480589112422835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993998856816906240/KqOYCvzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 573,
+          "like_count": 52861,
+          "listed_count": 3,
+          "media_count": 455,
+          "tweet_count": 3006
+        },
+        "username": "yepa41",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-14T11:08:05.000Z",
+        "description": "幸甚至哉                                  歌以詠志",
+        "id": "1657704267443232770",
+        "location": "鎬京",
+        "name": "何其是",
+        "pinned_tweet_id": "1990073944963961330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992230323623440384/RrVWN_C7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 645,
+          "like_count": 19196,
+          "listed_count": 7,
+          "media_count": 155,
+          "tweet_count": 5752
+        },
+        "username": "kaede_shigeru",
+        "verified": false
+      }
+    ]
+  }
+}

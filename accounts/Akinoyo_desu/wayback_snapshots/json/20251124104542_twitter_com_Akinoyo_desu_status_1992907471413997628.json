@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1992907471413997628",
+    "created_at": "2025-11-24T10:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T11:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992907471413997628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jngyn298282/st…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/jngyn298282/status/1992904192508481941",
+          "start": 25,
+          "url": "https://t.co/8XEwwBoZvW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992907471413997628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992904192508481941",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Ciallo～(∠・▽&lt; )⌒☆爱德华来咯 https://t.co/8XEwwBoZvW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 457,
+        "media_key": "3_1992904087520866304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6g3tXAa8AA2WRI.jpg",
+        "width": 575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1992907471413997628",
+        "created_at": "2025-11-24T10:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992907471413997628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jngyn298282/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/jngyn298282/status/1992904192508481941",
+              "start": 25,
+              "url": "https://t.co/8XEwwBoZvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992907471413997628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992904192508481941",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Ciallo～(∠・▽&lt; )⌒☆爱德华来咯 https://t.co/8XEwwBoZvW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992904087520866304"
+          ]
+        },
+        "author_id": "1882936483662663680",
+        "conversation_id": "1992904192508481941",
+        "created_at": "2025-11-24T10:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992904192508481941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lUpIPiHPJS",
+              "end": 104,
+              "expanded_url": "https://x.com/jngyn298282/status/1992904192508481941/photo/1",
+              "media_key": "3_1992904087520866304",
+              "start": 81,
+              "url": "https://t.co/lUpIPiHPJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992904192508481941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱德华选压抑了🥵🥵🥵爱德华选压抑了🥵🥵🥵爱德华选压抑了🥵🥵🥵爱德华选压抑了🥵🥵🥵爱德华选压抑了🥵🥵🥵爱德华选压抑了🥵🥵🥵爱德华选压抑了🥵🥵🥵爱德华选压抑了🥵🥵🥵 https://t.co/lUpIPiHPJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870431669808951297/LZfqETLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 154,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 29
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼/\n \n口粮：@420420420CTL/\n\n接受药圈新闻投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1882936483662663680",
+        "location": "🚪88/188/388/520",
+        "name": "镜音",
+        "pinned_tweet_id": "1991136367816876444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 192,
+          "like_count": 15725,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 2361
+        },
+        "username": "jngyn298282",
+        "verified": false
+      }
+    ]
+  }
+}

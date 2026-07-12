@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2061971982686801930",
+    "created_at": "2026-06-04T09:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T10:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062460483811385357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1996177553422520320",
+          "start": 0,
+          "username": "AydenW42638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062460483811385357",
+    "in_reply_to_user_id": "1996177553422520320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062447535990755742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AydenW42638 个别对话的问题，我新建对话就正常了，就是这个对话死活说不出来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2244,
+        "media_key": "3_2062447531544784896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9JGkWbsAAeSkt.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2061971982686801930",
+        "created_at": "2026-06-04T09:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062460483811385357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996177553422520320",
+              "start": 0,
+              "username": "AydenW42638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062460483811385357",
+        "in_reply_to_user_id": "1996177553422520320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062447535990755742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AydenW42638 个别对话的问题，我新建对话就正常了，就是这个对话死活说不出来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062447531544784896"
+          ]
+        },
+        "author_id": "1996177553422520320",
+        "conversation_id": "2061971982686801930",
+        "created_at": "2026-06-04T08:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062447535990755742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567203042872926208",
+              "start": 0,
+              "username": "Akinoyo_desu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i4zMZJQVpe",
+              "end": 62,
+              "expanded_url": "https://x.com/AydenW42638/status/2062447535990755742/photo/1",
+              "media_key": "3_2062447531544784896",
+              "start": 39,
+              "url": "https://t.co/i4zMZJQVpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062447535990755742",
+        "in_reply_to_user_id": "1567203042872926208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061971982686801930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_desu flash-lite也可以诶，你的定位是不是香港 https://t.co/i4zMZJQVpe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 1018,
+          "like_count": 4764,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1610
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-03T11:20:00.000Z",
+        "description": "Eng/福州话/男娘~/🚪88/已成年所有发布内容均自愿/主号@nekostar114/老公@Bunnynekoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "nekostar114"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "Bunnynekoyo"
+              }
+            ]
+          }
+        },
+        "id": "1996177553422520320",
+        "name": "nekostar（2.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048418455985242112/CfKMqUUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 54,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 25
+        },
+        "username": "AydenW42638",
+        "verified": false
+      }
+    ]
+  }
+}

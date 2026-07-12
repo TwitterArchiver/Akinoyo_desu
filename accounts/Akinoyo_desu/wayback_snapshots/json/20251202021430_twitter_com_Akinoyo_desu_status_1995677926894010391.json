@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1995416077527027852",
+    "created_at": "2025-12-02T02:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T03:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995677926894010391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1821183623460257792",
+          "start": 0,
+          "username": "SamuelLiu544544"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995677926894010391",
+    "in_reply_to_user_id": "1821183623460257792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995421978870825060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SamuelLiu544544 那你别把泔水端上桌🤣🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1995416077527027852",
+        "created_at": "2025-12-02T02:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T03:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995677926894010391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1821183623460257792",
+              "start": 0,
+              "username": "SamuelLiu544544"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995677926894010391",
+        "in_reply_to_user_id": "1821183623460257792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995421978870825060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SamuelLiu544544 那你别把泔水端上桌🤣🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821183623460257792",
+        "conversation_id": "1995416077527027852",
+        "created_at": "2025-12-01T09:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T10:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995421978870825060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567203042872926208",
+              "start": 0,
+              "username": "Akinoyo_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995421978870825060",
+        "in_reply_to_user_id": "1567203042872926208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995416077527027852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_desu 反贼殖人可比我这农民吃的好🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 214,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 80
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-07T13:56:40.000Z",
+        "description": "A person who supports Taiwan’s military reunification, a young man born in the 1990s, a Chinese nationalist, a peace-loving person who refutes all Chinese rumor",
+        "id": "1821183623460257792",
+        "location": "中国山东",
+        "name": "Samuel Liu🇨🇳(刘)",
+        "pinned_tweet_id": "1842458726420431263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821190458602594304/SOHCe9zO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 129,
+          "like_count": 3688,
+          "listed_count": 11,
+          "media_count": 1332,
+          "tweet_count": 3552
+        },
+        "username": "SamuelLiu544544",
+        "verified": false
+      }
+    ]
+  }
+}

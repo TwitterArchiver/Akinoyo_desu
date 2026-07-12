@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2060454156985659402",
+    "created_at": "2026-05-29T20:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T21:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060454156985659402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/psydrugswiki/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/psydrugswiki/status/2060453295102304341",
+          "start": 9,
+          "url": "https://t.co/UIGsSkhKLz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060454156985659402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060453295102304341",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没人类了没人类了 https://t.co/UIGsSkhKLz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1173,
+        "media_key": "3_2060453292875079680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgzWmYaYAA9XeP.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2060454156985659402",
+        "created_at": "2026-05-29T20:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T21:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060454156985659402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/psydrugswiki/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/psydrugswiki/status/2060453295102304341",
+              "start": 9,
+              "url": "https://t.co/UIGsSkhKLz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060454156985659402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060453295102304341",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没人类了没人类了 https://t.co/UIGsSkhKLz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060453292875079680"
+          ]
+        },
+        "author_id": "1327197298930028544",
+        "conversation_id": "2060453295102304341",
+        "created_at": "2026-05-29T20:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T21:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060453295102304341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6dch5lr1Yc",
+              "end": 23,
+              "expanded_url": "https://x.com/Psydrugswiki/status/2060453295102304341/photo/1",
+              "media_key": "3_2060453292875079680",
+              "start": 0,
+              "url": "https://t.co/6dch5lr1Yc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060453295102304341",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6dch5lr1Yc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 1001,
+          "like_count": 4613,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1528
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "精神活性物质指栏 Psydrugs Wiki官方账号，多人运营中，https://t.co/CB9yLA9IjF 专注于精神药物科普, Krvy的主人是 @luobodoul",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 77,
+                "username": "luobodoul"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 56,
+                "expanded_url": "https://psydrugs.org",
+                "start": 33,
+                "url": "https://t.co/CB9yLA9IjF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "https://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/CB9yLA9IjF"
+              }
+            ]
+          }
+        },
+        "id": "1327197298930028544",
+        "location": "Kansai, Hyogo",
+        "name": "Psydrugs official",
+        "pinned_tweet_id": "2060449609210831206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015057185953263616/EoNq2pvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 231,
+          "like_count": 6279,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 1341
+        },
+        "url": "https://t.co/CB9yLA9IjF",
+        "username": "Psydrugswiki",
+        "verified": false
+      }
+    ]
+  }
+}

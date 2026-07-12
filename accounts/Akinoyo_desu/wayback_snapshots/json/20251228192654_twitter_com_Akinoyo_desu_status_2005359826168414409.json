@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2005359826168414409",
+    "created_at": "2025-12-28T19:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T20:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005359826168414409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yunxvan1/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/yunxvan1/status/2005131773387440221",
+          "start": 10,
+          "url": "https://t.co/e0tGWw83hb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005359826168414409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005131773387440221",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到底如何才算是朋友 https://t.co/e0tGWw83hb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1274,
+        "media_key": "3_2005131686095486976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9OopRWaAAACIXJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2005359826168414409",
+        "created_at": "2025-12-28T19:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T20:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005359826168414409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yunxvan1/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/yunxvan1/status/2005131773387440221",
+              "start": 10,
+              "url": "https://t.co/e0tGWw83hb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005359826168414409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005131773387440221",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底如何才算是朋友 https://t.co/e0tGWw83hb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005131686095486976"
+          ]
+        },
+        "author_id": "1504630614578073600",
+        "conversation_id": "2005131773387440221",
+        "created_at": "2025-12-28T04:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T05:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005131773387440221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GbdB9gzcyF",
+              "end": 23,
+              "expanded_url": "https://x.com/yunxvan1/status/2005131773387440221/photo/1",
+              "media_key": "3_2005131686095486976",
+              "start": 0,
+              "url": "https://t.co/GbdB9gzcyF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005131773387440221",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 131379,
+          "like_count": 2112,
+          "quote_count": 6,
+          "reply_count": 38,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GbdB9gzcyF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 430,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 359
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-18T01:27:56.000Z",
+        "description": "我重生了。女孩子请和我互fo前世@kimukimu557188  性格很烂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "kimukimu557188"
+              }
+            ]
+          }
+        },
+        "id": "1504630614578073600",
+        "location": "冰岛",
+        "name": "圣诞猫",
+        "pinned_tweet_id": "2002250159384899692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003097612799598592/tpc5iV9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 533,
+          "like_count": 2740,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 310
+        },
+        "username": "yunxvan1",
+        "verified": false
+      }
+    ]
+  }
+}

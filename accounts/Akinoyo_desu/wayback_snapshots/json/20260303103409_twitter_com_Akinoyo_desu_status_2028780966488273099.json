@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2028780966488273099",
+    "created_at": "2026-03-03T10:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T11:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028780966488273099"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akinoyo_desu/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/akinoyo_desu/status/2028585252667691332",
+          "start": 8,
+          "url": "https://t.co/2Zy2YFu0WB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028780966488273099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028585252667691332",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是，后藤？！ https://t.co/2Zy2YFu0WB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1115,
+        "media_key": "3_2028585244832731136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCb7iELakAAZux6.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2028780966488273099",
+        "created_at": "2026-03-03T10:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028780966488273099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akinoyo_desu/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/akinoyo_desu/status/2028585252667691332",
+              "start": 8,
+              "url": "https://t.co/2Zy2YFu0WB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028780966488273099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028585252667691332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是，后藤？！ https://t.co/2Zy2YFu0WB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028585244832731136"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "2028585252667691332",
+        "created_at": "2026-03-02T21:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028585252667691332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XCSV1HJxCE",
+              "end": 39,
+              "expanded_url": "https://x.com/Akinoyo_desu/status/2028585252667691332/photo/1",
+              "media_key": "3_2028585244832731136",
+              "start": 16,
+              "url": "https://t.co/XCSV1HJxCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028585252667691332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Gemini说我是asd？？？ https://t.co/XCSV1HJxCE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平/ 涘🧊@winterfruit_1 /聖 🍜@shungleemain /♠️🅰️@w0sh1Asak1 /渡 🚣‍♂️@justyanwu14/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shungleemain"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "justyanwu14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 119,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 96,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 767,
+          "like_count": 2892,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

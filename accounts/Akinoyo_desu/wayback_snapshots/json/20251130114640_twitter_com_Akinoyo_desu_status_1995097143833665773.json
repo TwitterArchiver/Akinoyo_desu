@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1995073490442137985",
+    "created_at": "2025-11-30T11:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T12:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995097143833665773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982268780559626240",
+          "start": 0,
+          "username": "allthistime42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995097143833665773",
+    "in_reply_to_user_id": "1982268780559626240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995073490442137985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allthistime42 怎么啦，你很可爱不要坠落"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1995073490442137985",
+        "created_at": "2025-11-30T11:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T12:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995097143833665773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1982268780559626240",
+              "start": 0,
+              "username": "allthistime42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995097143833665773",
+        "in_reply_to_user_id": "1982268780559626240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995073490442137985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allthistime42 怎么啦，你很可爱不要坠落"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982268780559626240",
+        "conversation_id": "1995073490442137985",
+        "created_at": "2025-11-30T10:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T11:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995073490442137985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995073490442137985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "伊卡洛斯还是坠落了，\n在最后可以恳求你们描述一下对我的印象吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 204,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 68
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T02:11:50.000Z",
+        "description": "或许稍微休息一会，我就能飞得更好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/janeschan1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/janeschan1",
+                "start": 0,
+                "url": "https://t.co/OXT5xpvtlQ"
+              }
+            ]
+          }
+        },
+        "id": "1982268780559626240",
+        "location": "云层之上☁",
+        "name": "不擅飞翔的伊卡洛斯",
+        "pinned_tweet_id": "1982468736629272584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994081910696587264/5Dq9LWSz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 288,
+          "like_count": 8560,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1777
+        },
+        "url": "https://t.co/OXT5xpvtlQ",
+        "username": "allthistime42",
+        "verified": false
+      }
+    ]
+  }
+}

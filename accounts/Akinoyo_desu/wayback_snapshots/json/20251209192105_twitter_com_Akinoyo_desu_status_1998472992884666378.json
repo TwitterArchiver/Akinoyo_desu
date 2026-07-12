@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1998472992884666378",
+    "created_at": "2025-12-09T19:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T20:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998472992884666378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jzm1919810/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/jzm1919810/status/1998321708936138960",
+          "start": 7,
+          "url": "https://t.co/vDLThF89zF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998472992884666378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998321708936138960",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "组一辈子药圈 https://t.co/vDLThF89zF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1998472992884666378",
+        "created_at": "2025-12-09T19:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T20:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998472992884666378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jzm1919810/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/jzm1919810/status/1998321708936138960",
+              "start": 7,
+              "url": "https://t.co/vDLThF89zF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998472992884666378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998321708936138960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "组一辈子药圈 https://t.co/vDLThF89zF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912109703133646848",
+        "conversation_id": "1998292883989057574",
+        "created_at": "2025-12-09T09:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T10:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998321708936138960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1796427186557100032",
+              "start": 0,
+              "username": "wplaceqwq"
+            },
+            {
+              "end": 27,
+              "id": "1804587925805596672",
+              "start": 11,
+              "username": "OverSpring_wiki"
+            },
+            {
+              "end": 38,
+              "id": "1659962043460354050",
+              "start": 28,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998321708936138960",
+        "in_reply_to_user_id": "1796427186557100032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998320341802782831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wplaceqwq @OverSpring_wiki @SalviaSWC 我这段时间做了医美怕光敏啊，做医美前每天吃3g rue 1/4片司来，和反苯也不差多少，但是也依然充满爱\n\n我觉得是药圈人已经在药圈里面了，被恩怨牵扯着。从看八卦的人的角度看，中推药圈的挚友、宿敌，是不输任何经典动漫的故事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 318,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 135
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "昼と夜の間で 時が止まる 終わりのない 永遠の夕暮れ時\n🐦‍⬛\n请锁推且fo我的人一定让我回关，好吗？否则我的强迫症会受不了，只好取掉。谢谢。",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994454700624928768/48DA8PMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 202,
+          "like_count": 210,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 929
+        },
+        "username": "jzm1919810",
+        "verified": false
+      }
+    ]
+  }
+}

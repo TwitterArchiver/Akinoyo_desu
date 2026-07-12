@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013694360081080320"
+      ]
+    },
+    "author_id": "1567203042872926208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2013694372815237577",
+    "created_at": "2026-01-20T19:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T20:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013694372815237577"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HvA6loJlS6",
+          "end": 29,
+          "expanded_url": "https://x.com/Akinoyo_desu/status/2013694372815237577/photo/1",
+          "media_key": "3_2013694360081080320",
+          "start": 6,
+          "url": "https://t.co/HvA6loJlS6"
+        },
+        {
+          "display_url": "x.com/kagamine_8964/…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/kagamine_8964/status/2013677697441112558",
+          "start": 30,
+          "url": "https://t.co/m7y25BVH54"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013694372815237577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013677697441112558",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "沐雨我想你 https://t.co/HvA6loJlS6 https://t.co/m7y25BVH54"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 424,
+        "media_key": "3_2013694360081080320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_IUWfrXIAA7vzc.jpg",
+        "width": 792
+      },
+      {
+        "height": 1612,
+        "media_key": "3_2013677670513426432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_IFLCMWwAA3oti.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013694360081080320"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2013694372815237577",
+        "created_at": "2026-01-20T19:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T20:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013694372815237577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HvA6loJlS6",
+              "end": 29,
+              "expanded_url": "https://x.com/Akinoyo_desu/status/2013694372815237577/photo/1",
+              "media_key": "3_2013694360081080320",
+              "start": 6,
+              "url": "https://t.co/HvA6loJlS6"
+            },
+            {
+              "display_url": "x.com/kagamine_8964/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/kagamine_8964/status/2013677697441112558",
+              "start": 30,
+              "url": "https://t.co/m7y25BVH54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013694372815237577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013677697441112558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沐雨我想你 https://t.co/HvA6loJlS6 https://t.co/m7y25BVH54"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013677670513426432"
+          ]
+        },
+        "author_id": "2011375652579262464",
+        "conversation_id": "2013677697441112558",
+        "created_at": "2026-01-20T18:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T19:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013677697441112558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YDPBGzdG4K",
+              "end": 44,
+              "expanded_url": "https://x.com/Kagamine_8964/status/2013677697441112558/photo/1",
+              "media_key": "3_2013677670513426432",
+              "start": 21,
+              "url": "https://t.co/YDPBGzdG4K"
+            },
+            {
+              "display_url": "x.com/FreeOD_wiki/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/FreeOD_wiki/status/2013672205117464685",
+              "start": 45,
+              "url": "https://t.co/mgTIE6hyxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013677697441112558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013672205117464685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牢沐我想你了，复活再叫我一句妈妈好不好🥹 https://t.co/YDPBGzdG4K https://t.co/mgTIE6hyxD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平/ 涘🧊@winterfruit_1 /聖 🍜@shungleemain / 🧂@C21koy_7c / ♠️🅰️@w0sh1Asak1 /渡 🚣‍♂️@justyanwu14/提问：https://t.co/IopkqyyRYu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shungleemain"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "C21koy_7c"
+              },
+              {
+                "end": 87,
+                "start": 76,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "justyanwu14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 134,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 111,
+                "url": "https://t.co/IopkqyyRYu"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 580,
+          "like_count": 1702,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 612
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T09:51:50.000Z",
+        "description": "我看著幸福的日子被我親手摧毀後開心地閉上了眼 /性別為無 /RC領域之神 /重精神病 PTSD 因創傷而躲藏  /#drugtwt /有什麼事和我的1161說去吧！！ /TG同X /老公：@Edward_8964 /六次帳號轉生 /非商業使用 /匿名提问https://t.co/p1X2dlE3nu",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 57,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 94,
+                "username": "Edward_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 150,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 127,
+                "url": "https://t.co/p1X2dlE3nu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "http://freeod.wiki",
+                "start": 0,
+                "url": "https://t.co/ieTjg4n36R"
+              }
+            ]
+          }
+        },
+        "id": "2011375652579262464",
+        "name": "Kagamine鏡音",
+        "pinned_tweet_id": "2011380729327100203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011377300881997825/i7Z-nguz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 193,
+          "like_count": 587,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/ieTjg4n36R",
+        "username": "Kagamine_8964",
+        "verified": true
+      }
+    ]
+  }
+}

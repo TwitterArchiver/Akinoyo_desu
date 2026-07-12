@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2006756537990345007",
+    "created_at": "2026-01-01T16:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T17:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006762535090000116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1922473225436725248",
+          "start": 0,
+          "username": "_Yuyuko_FTZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006762535090000116",
+    "in_reply_to_user_id": "1922473225436725248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006756537990345007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Yuyuko_FTZ 何意味"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2006756537990345007].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2006756537990345007",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2006756537990345007"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2006756537990345007",
+        "created_at": "2026-01-01T16:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T17:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006762535090000116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1922473225436725248",
+              "start": 0,
+              "username": "_Yuyuko_FTZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006762535090000116",
+        "in_reply_to_user_id": "1922473225436725248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006756537990345007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Yuyuko_FTZ 何意味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 469,
+          "like_count": 1017,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 430
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-14T02:05:17.000Z",
+        "description": "无法预知的亚热带气旋",
+        "id": "1922473225436725248",
+        "location": "波江座",
+        "name": "狂批舔后后后藤黑甘蔗，绝对踢不了",
+        "pinned_tweet_id": "1985029865809318306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984512731085750277/cqH0Caow_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 71,
+          "like_count": 1243,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 341
+        },
+        "username": "_Yuyuko_FTZ",
+        "verified": false
+      }
+    ]
+  }
+}

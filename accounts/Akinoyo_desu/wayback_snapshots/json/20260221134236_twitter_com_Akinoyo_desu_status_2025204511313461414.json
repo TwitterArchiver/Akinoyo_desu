@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2025204460029706244"
+      ]
+    },
+    "author_id": "1567203042872926208",
+    "conversation_id": "2025204511313461414",
+    "created_at": "2026-02-21T13:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T14:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025204511313461414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z435rCss7C",
+          "end": 45,
+          "expanded_url": "https://x.com/Akinoyo_desu/status/2025204511313461414/photo/1",
+          "media_key": "16_2025204460029706244",
+          "start": 22,
+          "url": "https://t.co/z435rCss7C"
+        },
+        {
+          "display_url": "x.com/un_krvy/status…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/un_krvy/status/2025180992802357576",
+          "start": 46,
+          "url": "https://t.co/VEijkv1Ix2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025204511313461414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025180992802357576",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "快来用我们的处方生成器，建议打印后拍照使用 https://t.co/z435rCss7C https://t.co/VEijkv1Ix2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 402,
+        "media_key": "16_2025204460029706244",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBr4ufWbgAQghEI.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBr4ufWbgAQghEI.mp4"
+          }
+        ],
+        "width": 402
+      },
+      {
+        "height": 1988,
+        "media_key": "3_2025180245335441409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBritAlbgAEezR_.jpg",
+        "width": 2865
+      },
+      {
+        "height": 2699,
+        "media_key": "3_2025180403364188161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBri2NSa0AEOO9Z.jpg",
+        "width": 573
+      },
+      {
+        "height": 1328,
+        "media_key": "3_2025180918324023296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrjULqaUAAqm1x.jpg",
+        "width": 2037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2025204460029706244"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "2025204511313461414",
+        "created_at": "2026-02-21T13:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025204511313461414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z435rCss7C",
+              "end": 45,
+              "expanded_url": "https://x.com/Akinoyo_desu/status/2025204511313461414/photo/1",
+              "media_key": "16_2025204460029706244",
+              "start": 22,
+              "url": "https://t.co/z435rCss7C"
+            },
+            {
+              "display_url": "x.com/un_krvy/status…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/un_krvy/status/2025180992802357576",
+              "start": 46,
+              "url": "https://t.co/VEijkv1Ix2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025204511313461414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025180992802357576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快来用我们的处方生成器，建议打印后拍照使用 https://t.co/z435rCss7C https://t.co/VEijkv1Ix2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025180245335441409",
+            "3_2025180403364188161",
+            "3_2025180918324023296"
+          ]
+        },
+        "author_id": "1327197298930028544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025180992802357576",
+        "created_at": "2026-02-21T12:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025180992802357576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "医院处方单生成工具",
+              "display_url": "psydrugs.org/prescription-g…",
+              "end": 32,
+              "expanded_url": "https://psydrugs.org/prescription-generator/",
+              "start": 9,
+              "status": 200,
+              "title": "处方生成器",
+              "unwound_url": "https://psydrugs.org/prescription-generator/",
+              "url": "https://t.co/ncgYxoTJb5"
+            },
+            {
+              "display_url": "pic.x.com/L7KepNp7V7",
+              "end": 56,
+              "expanded_url": "https://x.com/un_krvy/status/2025180992802357576/photo/1",
+              "media_key": "3_2025180245335441409",
+              "start": 33,
+              "url": "https://t.co/L7KepNp7V7"
+            },
+            {
+              "display_url": "pic.x.com/L7KepNp7V7",
+              "end": 56,
+              "expanded_url": "https://x.com/un_krvy/status/2025180992802357576/photo/1",
+              "media_key": "3_2025180403364188161",
+              "start": 33,
+              "url": "https://t.co/L7KepNp7V7"
+            },
+            {
+              "display_url": "pic.x.com/L7KepNp7V7",
+              "end": 56,
+              "expanded_url": "https://x.com/un_krvy/status/2025180992802357576/photo/1",
+              "media_key": "3_2025180918324023296",
+              "start": 33,
+              "url": "https://t.co/L7KepNp7V7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025180992802357576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 377,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "修复了处方生成器 https://t.co/ncgYxoTJb5 https://t.co/L7KepNp7V7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平/ 涘🧊@winterfruit_1 /聖 🍜@shungleemain /♠️🅰️@w0sh1Asak1 /渡 🚣‍♂️@justyanwu14/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shungleemain"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "justyanwu14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 119,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 96,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 685,
+          "like_count": 2486,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 752
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "https://t.co/sxGCC1hNAm 官方账号，专注于精神药物科普",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/sxGCC1hNAm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/sxGCC1hNAm"
+              }
+            ]
+          }
+        },
+        "id": "1327197298930028544",
+        "location": "Macragge",
+        "name": "Psydrugs official by krvy #​心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015057185953263616/EoNq2pvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 218,
+          "like_count": 6185,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1204
+        },
+        "url": "https://t.co/sxGCC1hNAm",
+        "username": "un_krvy",
+        "verified": false
+      }
+    ]
+  }
+}

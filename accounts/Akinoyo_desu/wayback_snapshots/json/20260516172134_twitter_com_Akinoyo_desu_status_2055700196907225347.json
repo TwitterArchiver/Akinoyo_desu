@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055700187704930304"
+      ]
+    },
+    "author_id": "1567203042872926208",
+    "conversation_id": "2055700196907225347",
+    "created_at": "2026-05-16T17:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055700196907225347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IyPSeh2BjY",
+          "end": 42,
+          "expanded_url": "https://x.com/Akinoyo_desu/status/2055700196907225347/photo/1",
+          "media_key": "3_2055700187704930304",
+          "start": 19,
+          "url": "https://t.co/IyPSeh2BjY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055700196907225347",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么叫法尔孔的副狙把黑豹主狙打爆了？ https://t.co/IyPSeh2BjY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 386,
+        "media_key": "3_2055700187704930304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdQbdzbMAA5UWx.jpg",
+        "width": 476
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055700187704930304"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "2055700196907225347",
+        "created_at": "2026-05-16T17:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055700196907225347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IyPSeh2BjY",
+              "end": 42,
+              "expanded_url": "https://x.com/Akinoyo_desu/status/2055700196907225347/photo/1",
+              "media_key": "3_2055700187704930304",
+              "start": 19,
+              "url": "https://t.co/IyPSeh2BjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055700196907225347",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫法尔孔的副狙把黑豹主狙打爆了？ https://t.co/IyPSeh2BjY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "旧名义：仿生喹硫平/关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "shungleemain"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 994,
+          "like_count": 4510,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 1481
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

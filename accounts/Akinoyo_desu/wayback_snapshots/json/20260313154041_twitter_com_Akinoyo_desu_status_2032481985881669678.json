@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2032480351399059880",
+    "created_at": "2026-03-13T15:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T16:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032481985881669678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1920704053031694336",
+          "start": 0,
+          "username": "AB3806514087983"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032481985881669678",
+    "in_reply_to_user_id": "1920704053031694336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032480351399059880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AB3806514087983 我能不能变成东京的美女"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12510,
+        "height": 1062,
+        "media_key": "13_2032480280624422912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032480280624422912/img/57DLJbk2UWI8TdIC.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032480280624422912/vid/avc1/320x472/8FbuOcgdSlmWiku5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032480280624422912/vid/avc1/480x708/atUIeuLtNlAYKmTz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032480280624422912/vid/avc1/720x1062/1lWxaAf0XJkxUMwx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032480280624422912/pl/fdsh7DT3I3Gpt4dP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2032480351399059880",
+        "created_at": "2026-03-13T15:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032481985881669678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1920704053031694336",
+              "start": 0,
+              "username": "AB3806514087983"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032481985881669678",
+        "in_reply_to_user_id": "1920704053031694336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032480351399059880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AB3806514087983 我能不能变成东京的美女"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032480280624422912"
+          ]
+        },
+        "author_id": "1920704053031694336",
+        "conversation_id": "2032480351399059880",
+        "created_at": "2026-03-13T15:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032480351399059880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AYgtFpOBT",
+              "end": 37,
+              "expanded_url": "https://x.com/AB3806514087983/status/2032480351399059880/video/1",
+              "media_key": "13_2032480280624422912",
+              "start": 14,
+              "url": "https://t.co/7AYgtFpOBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032480351399059880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很想成为东京的帅哥😀 https://t.co/7AYgtFpOBT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平/ 涘🧊@winterfruit_1 /聖 🍜@shungleemain /♠️🅰️@w0sh1Asak1 /渡 🚣‍♂️@noth1nghere14/梨🍐@Eternal1uv9/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shungleemain"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "username": "Eternal1uv9"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 136,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 113,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 805,
+          "like_count": 3320,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 969
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-09T04:55:19.000Z",
+        "description": "09 一条蛆 不会弹吉他",
+        "id": "1920704053031694336",
+        "location": "Japan",
+        "name": "Abel",
+        "pinned_tweet_id": "2024564803248021800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028191039799037952/mVh74C4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 24,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 241
+        },
+        "username": "AB3806514087983",
+        "verified": false
+      }
+    ]
+  }
+}

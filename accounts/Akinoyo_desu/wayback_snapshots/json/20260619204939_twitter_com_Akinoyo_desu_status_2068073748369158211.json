@@ -1,0 +1,508 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2067893748500144246",
+    "created_at": "2026-06-19T20:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T21:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068073748369158211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1997534285256142848",
+          "start": 0,
+          "username": "uffxHZDyDL33948"
+        },
+        {
+          "end": 29,
+          "id": "1383473182854684674",
+          "start": 17,
+          "username": "yuanwangnan"
+        },
+        {
+          "end": 38,
+          "id": "1363466678852411397",
+          "start": 30,
+          "username": "fabedv1"
+        },
+        {
+          "end": 52,
+          "id": "1798166426576150528",
+          "start": 39,
+          "username": "Tyson153936T"
+        },
+        {
+          "end": 61,
+          "id": "2262723812",
+          "start": 53,
+          "username": "abskoop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068073748369158211",
+    "in_reply_to_user_id": "1997534285256142848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067995073590284427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uffxHZDyDL33948 @yuanwangnan @fabedv1 @Tyson153936T @abskoop 神了，5g信号只会比4g差好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2067893748500144246",
+        "created_at": "2026-06-19T20:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T21:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068073748369158211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1997534285256142848",
+              "start": 0,
+              "username": "uffxHZDyDL33948"
+            },
+            {
+              "end": 29,
+              "id": "1383473182854684674",
+              "start": 17,
+              "username": "yuanwangnan"
+            },
+            {
+              "end": 38,
+              "id": "1363466678852411397",
+              "start": 30,
+              "username": "fabedv1"
+            },
+            {
+              "end": 52,
+              "id": "1798166426576150528",
+              "start": 39,
+              "username": "Tyson153936T"
+            },
+            {
+              "end": 61,
+              "id": "2262723812",
+              "start": 53,
+              "username": "abskoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068073748369158211",
+        "in_reply_to_user_id": "1997534285256142848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067995073590284427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uffxHZDyDL33948 @yuanwangnan @fabedv1 @Tyson153936T @abskoop 神了，5g信号只会比4g差好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997534285256142848",
+        "conversation_id": "2067893748500144246",
+        "created_at": "2026-06-19T15:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067995073590284427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1383473182854684674",
+              "start": 0,
+              "username": "yuanwangnan"
+            },
+            {
+              "end": 21,
+              "id": "1363466678852411397",
+              "start": 13,
+              "username": "fabedv1"
+            },
+            {
+              "end": 35,
+              "id": "1798166426576150528",
+              "start": 22,
+              "username": "Tyson153936T"
+            },
+            {
+              "end": 44,
+              "id": "2262723812",
+              "start": 36,
+              "username": "abskoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067995073590284427",
+        "in_reply_to_user_id": "1383473182854684674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067984412533490147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanwangnan @fabedv1 @Tyson153936T @abskoop 4G多慢，信号多不好，以前不知道？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 1045,
+          "like_count": 4984,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1724
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-07T05:12:08.000Z",
+        "description": "",
+        "id": "1997534285256142848",
+        "name": "王鹏飞",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 17,
+          "like_count": 1319,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "uffxHZDyDL33948",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T17:31:36.000Z",
+        "description": "06",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/14isfourteen",
+                "end": 23,
+                "expanded_url": "http://github.com/14isfourteen",
+                "start": 0,
+                "url": "https://t.co/RbV99qPMjr"
+              }
+            ]
+          }
+        },
+        "id": "1383473182854684674",
+        "location": "广州 🚪20",
+        "name": "十四",
+        "pinned_tweet_id": "1996625486861185077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829038118617088/OvMjP30T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3916,
+          "following_count": 178,
+          "like_count": 55445,
+          "listed_count": 17,
+          "media_count": 2277,
+          "tweet_count": 24217
+        },
+        "url": "https://t.co/RbV99qPMjr",
+        "username": "yuanwangnan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-21T12:32:47.000Z",
+        "description": "",
+        "id": "1363466678852411397",
+        "name": "fabedv",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 69,
+          "like_count": 70788,
+          "listed_count": 4,
+          "media_count": 421,
+          "tweet_count": 17559
+        },
+        "url": "",
+        "username": "fabedv1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T01:34:41.000Z",
+        "description": "",
+        "id": "1798166426576150528",
+        "location": "Hong Kong",
+        "name": "goTys0o0n",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798673625933058048/O8D8J7_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 82,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "Tyson153936T",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "🔍 挖掘互联网宝藏工具｜AI 工具 · 开源项目 · 在线工具 · 效率神器\n投稿 欢迎 DM｜备用号 @ahhhhfs\n🔔 TG 频道：https://t.co/OmSvNms9yl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 92,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 69,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751376,
+          "following_count": 1255,
+          "like_count": 26002,
+          "listed_count": 2711,
+          "media_count": 24451,
+          "tweet_count": 62096
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

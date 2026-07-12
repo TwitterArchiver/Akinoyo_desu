@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070506919761199105",
+        "3_2070506943781928961"
+      ],
+      "media_source_tweet_id": [
+        "2070506951575048629",
+        "2070506951575048629"
+      ]
+    },
+    "author_id": "1567203042872926208",
+    "conversation_id": "2070754446397813029",
+    "created_at": "2026-06-27T06:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070754446397813029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1090424011035619328",
+          "start": 3,
+          "username": "ShuiP_SP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a9x848jhNB",
+          "end": 55,
+          "expanded_url": "https://x.com/ShuiP_SP/status/2070506951575048629/photo/1",
+          "media_key": "3_2070506919761199105",
+          "start": 32,
+          "url": "https://t.co/a9x848jhNB"
+        },
+        {
+          "display_url": "pic.x.com/a9x848jhNB",
+          "end": 55,
+          "expanded_url": "https://x.com/ShuiP_SP/status/2070506951575048629/photo/1",
+          "media_key": "3_2070506943781928961",
+          "start": 32,
+          "url": "https://t.co/a9x848jhNB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070754446397813029",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070506951575048629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShuiP_SP: 男的没有味 是我欠那个了\n哦齁齁哦 https://t.co/a9x848jhNB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2070506919761199105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvrEtFawAEIXsn.jpg",
+        "width": 3000
+      },
+      {
+        "height": 622,
+        "media_key": "3_2070506943781928961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvrGGkaAAE--nN.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070506919761199105",
+            "3_2070506943781928961"
+          ],
+          "media_source_tweet_id": [
+            "2070506951575048629",
+            "2070506951575048629"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "2070754446397813029",
+        "created_at": "2026-06-27T06:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070754446397813029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1090424011035619328",
+              "start": 3,
+              "username": "ShuiP_SP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9x848jhNB",
+              "end": 55,
+              "expanded_url": "https://x.com/ShuiP_SP/status/2070506951575048629/photo/1",
+              "media_key": "3_2070506919761199105",
+              "start": 32,
+              "url": "https://t.co/a9x848jhNB"
+            },
+            {
+              "display_url": "pic.x.com/a9x848jhNB",
+              "end": 55,
+              "expanded_url": "https://x.com/ShuiP_SP/status/2070506951575048629/photo/1",
+              "media_key": "3_2070506943781928961",
+              "start": 32,
+              "url": "https://t.co/a9x848jhNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070754446397813029",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070506951575048629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShuiP_SP: 男的没有味 是我欠那个了\n哦齁齁哦 https://t.co/a9x848jhNB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070506919761199105",
+            "3_2070506943781928961"
+          ]
+        },
+        "author_id": "1090424011035619328",
+        "conversation_id": "2070506951575048629",
+        "created_at": "2026-06-26T13:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070506951575048629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9x848jhNB",
+              "end": 41,
+              "expanded_url": "https://x.com/ShuiP_SP/status/2070506951575048629/photo/1",
+              "media_key": "3_2070506919761199105",
+              "start": 18,
+              "url": "https://t.co/a9x848jhNB"
+            },
+            {
+              "display_url": "pic.x.com/a9x848jhNB",
+              "end": 41,
+              "expanded_url": "https://x.com/ShuiP_SP/status/2070506951575048629/photo/1",
+              "media_key": "3_2070506943781928961",
+              "start": 18,
+              "url": "https://t.co/a9x848jhNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070506951575048629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 35759,
+          "like_count": 676,
+          "quote_count": 1,
+          "reply_count": 37,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "男的没有味 是我欠那个了\n哦齁齁哦 https://t.co/a9x848jhNB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 1061,
+          "like_count": 5068,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1742
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-30T01:38:38.000Z",
+        "description": "無謂再關心你 我沒資格慰問你",
+        "id": "1090424011035619328",
+        "name": "ShuiP水瓶",
+        "pinned_tweet_id": "1966165672448372875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677188313172803585/BgYku_8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4180,
+          "following_count": 856,
+          "like_count": 5897,
+          "listed_count": 22,
+          "media_count": 115,
+          "tweet_count": 3913
+        },
+        "url": "",
+        "username": "ShuiP_SP",
+        "verified": false
+      }
+    ]
+  }
+}

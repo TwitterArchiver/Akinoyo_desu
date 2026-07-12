@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2048458713800069459",
+    "created_at": "2026-04-26T17:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T18:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048458713800069459"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048458713800069459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "难道我只是一个离开滥用药物就活不下去的傻逼吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2048458713800069459",
+        "created_at": "2026-04-26T17:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048458713800069459"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048458713800069459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难道我只是一个离开滥用药物就活不下去的傻逼吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/\n♠️🅰️@w0sh1Asak1 /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 52,
+                "start": 40,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "shungleemain"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "w0sh1Asak1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 912,
+          "like_count": 4287,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1366
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002729190802776064"
+      ],
+      "media_source_tweet_id": [
+        "2002729234620653603"
+      ]
+    },
+    "author_id": "1567203042872926208",
+    "conversation_id": "2002730961176535343",
+    "created_at": "2025-12-21T13:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T14:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002730961176535343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2405324646",
+          "start": 3,
+          "username": "alexavad"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aaYKkfSMzw",
+          "end": 82,
+          "expanded_url": "https://x.com/alexavad/status/2002729234620653603/photo/1",
+          "media_key": "3_2002729190802776064",
+          "start": 59,
+          "url": "https://t.co/aaYKkfSMzw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002730961176535343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002729234620653603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alexavad: 200fo感谢喵\n关注+转发、点赞、评论此条推文，\n抽10个20r，\n25.12.28开 https://t.co/aaYKkfSMzw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1120,
+        "media_key": "3_2002729190802776064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sflo8a4AAEeED.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002729190802776064"
+          ],
+          "media_source_tweet_id": [
+            "2002729234620653603"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "2002730961176535343",
+        "created_at": "2025-12-21T13:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T14:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002730961176535343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2405324646",
+              "start": 3,
+              "username": "alexavad"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aaYKkfSMzw",
+              "end": 82,
+              "expanded_url": "https://x.com/alexavad/status/2002729234620653603/photo/1",
+              "media_key": "3_2002729190802776064",
+              "start": 59,
+              "url": "https://t.co/aaYKkfSMzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002730961176535343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002729234620653603",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alexavad: 200fo感谢喵\n关注+转发、点赞、评论此条推文，\n抽10个20r，\n25.12.28开 https://t.co/aaYKkfSMzw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002729190802776064"
+          ]
+        },
+        "author_id": "2405324646",
+        "conversation_id": "2002729234620653603",
+        "created_at": "2025-12-21T13:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T14:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002729234620653603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aaYKkfSMzw",
+              "end": 68,
+              "expanded_url": "https://x.com/alexavad/status/2002729234620653603/photo/1",
+              "media_key": "3_2002729190802776064",
+              "start": 45,
+              "url": "https://t.co/aaYKkfSMzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002729234620653603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "200fo感谢喵\n关注+转发、点赞、评论此条推文，\n抽10个20r，\n25.12.28开 https://t.co/aaYKkfSMzw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 388,
+          "like_count": 617,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 249
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2014-03-23T00:20:59.000Z",
+        "description": "何时归",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ChuangChuangha…",
+                "end": 23,
+                "expanded_url": "https://t.me/ChuangChuanghajimi",
+                "start": 0,
+                "url": "https://t.co/dq6IelJn5p"
+              }
+            ]
+          }
+        },
+        "id": "2405324646",
+        "location": "桃源1.6.4",
+        "name": "пока-пока #战狼二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001369805899862016/4Pljgg_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 241,
+          "like_count": 3312,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1754
+        },
+        "url": "https://t.co/dq6IelJn5p",
+        "username": "alexavad",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2061715258956497094",
+    "created_at": "2026-06-02T17:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T18:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061861846479712648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1464881036127793152",
+          "start": 0,
+          "username": "Rury_VRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061861846479712648",
+    "in_reply_to_user_id": "1464881036127793152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061715258956497094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rury_VRC 完全自杀手册"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2061715258956497094",
+        "created_at": "2026-06-02T17:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061861846479712648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464881036127793152",
+              "start": 0,
+              "username": "Rury_VRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061861846479712648",
+        "in_reply_to_user_id": "1464881036127793152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061715258956497094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rury_VRC 完全自杀手册"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464881036127793152",
+        "conversation_id": "2061715258956497094",
+        "created_at": "2026-06-02T07:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061715258956497094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061715258956497094",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 967,
+          "impression_count": 332318,
+          "like_count": 4975,
+          "quote_count": 242,
+          "reply_count": 32,
+          "retweet_count": 441
+        },
+        "reply_settings": "everyone",
+        "text": "예전에 뭐더라 일본에서 파는 ㅈ살방법 개많이 적혀있는 책 있었는데 거기 엄청나게 자세히 설명되어있는 방법당 고통과 실패시 후유증이 엄청난 공포를 불러와서 오히려 죽을생각이 사라짐\n애초에 위험을 알리고 시도를 막는 의도의 책인거같더라"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 1011,
+          "like_count": 4666,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1580
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-28T08:57:14.000Z",
+        "description": "Otherkin\n\n일상계 / 말랑말랑쇼트케이크한일상 |",
+        "id": "1464881036127793152",
+        "location": "💕 사랑스러운 약혼자씨랑 러브러브중 💕",
+        "name": "루리",
+        "pinned_tweet_id": "1906788403829784994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944825553858478080/cIRi03C2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2632,
+          "following_count": 649,
+          "like_count": 25586,
+          "listed_count": 5,
+          "media_count": 1413,
+          "tweet_count": 22133
+        },
+        "username": "Rury_VRC",
+        "verified": false
+      }
+    ]
+  }
+}

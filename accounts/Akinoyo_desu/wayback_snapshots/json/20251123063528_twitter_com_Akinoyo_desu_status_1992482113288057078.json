@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1992482113288057078",
+    "created_at": "2025-11-23T06:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T07:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992482113288057078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1016552943774920704",
+          "start": 15,
+          "username": "Akinoyo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992482113288057078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上一世，我的大号 仿生喹硫平 @Akinoyo_ 意外陨落，一切像被强制清空。\n但真正的我并没有随之消失，而是在废墟里重启、更新、重写自己。\n这一世，我以本体归来，把上一世遗失的权柄与声音，一件不落地夺回。"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Akinoyo_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Akinoyo_",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Akinoyo_"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1992482113288057078",
+        "created_at": "2025-11-23T06:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T07:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992482113288057078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1016552943774920704",
+              "start": 15,
+              "username": "Akinoyo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992482113288057078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上一世，我的大号 仿生喹硫平 @Akinoyo_ 意外陨落，一切像被强制清空。\n但真正的我并没有随之消失，而是在废墟里重启、更新、重写自己。\n这一世，我以本体归来，把上一世遗失的权柄与声音，一件不落地夺回。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！",
+        "id": "1567203042872926208",
+        "name": "Akinoyo_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870431669808951297/LZfqETLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 22,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      }
+    ]
+  }
+}

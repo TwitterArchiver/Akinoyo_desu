@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2044107499679465562",
+    "created_at": "2026-04-14T17:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T18:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044107499679465562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdose_osdd/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/overdose_osdd/status/2044107335644438652",
+          "start": 4,
+          "url": "https://t.co/CnE2yJPboK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044107499679465562",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044107335644438652",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。？？ https://t.co/CnE2yJPboK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2044107499679465562",
+        "created_at": "2026-04-14T17:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044107499679465562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose_osdd/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/overdose_osdd/status/2044107335644438652",
+              "start": 4,
+              "url": "https://t.co/CnE2yJPboK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044107499679465562",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044107335644438652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。？？ https://t.co/CnE2yJPboK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033892007937249284",
+        "conversation_id": "2044107335644438652",
+        "created_at": "2026-04-14T17:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044107335644438652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044107335644438652",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我本早就离开了这地方，但今天我被某几位神明气急逼疯了，倒好像越不管越让各个Kaisers得寸进尺蹬鼻子上脸。打扰到圈外我这啮齿科的生活了\n现在我は，只要保卫我平静的日子，不稀罕你们传的鬼王位，也不想管啥事，更懒得辟谣或减害\n只是为了保卫退圈生活，希望你们能明白，谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 里推@Aki_MountainE\n旧名义：仿生喹硫平/\n梨❤️@Eternal1uv9/\n渡 ⛵️@noth1nghere14/\n♠️🅰️@w0sh1Asak1 /\n聖 🍜@shungleemain /\n提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "shungleemain"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 138,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 115,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 880,
+          "like_count": 4035,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1287
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-17T13:04:15.000Z",
+        "description": "谁的🔑？",
+        "id": "2033892007937249284",
+        "location": "Carina",
+        "name": "超级后后后庭",
+        "pinned_tweet_id": "2033899613711962256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044105705884659712/436qJd6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 45,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "Overdose_OSDD",
+        "verified": false
+      }
+    ]
+  }
+}

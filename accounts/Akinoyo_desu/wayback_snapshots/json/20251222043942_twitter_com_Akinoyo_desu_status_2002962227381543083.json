@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1980354025766994089",
+    "created_at": "2025-12-22T04:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T05:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002962227381543083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1918279776969842688",
+          "start": 0,
+          "username": "2TejHqfgsS69569"
+        },
+        {
+          "end": 26,
+          "id": "2405324646",
+          "start": 17,
+          "username": "alexavad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002962227381543083",
+    "in_reply_to_user_id": "1918279776969842688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002955511755641260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2TejHqfgsS69569 @alexavad 什么富区配置"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1303,
+        "media_key": "3_2002953547361792000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8vro6QbsAAOQ_V.png",
+        "width": 2545
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1980354025766994089",
+        "created_at": "2025-12-22T04:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T05:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002962227381543083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1918279776969842688",
+              "start": 0,
+              "username": "2TejHqfgsS69569"
+            },
+            {
+              "end": 26,
+              "id": "2405324646",
+              "start": 17,
+              "username": "alexavad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002962227381543083",
+        "in_reply_to_user_id": "1918279776969842688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002955511755641260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2TejHqfgsS69569 @alexavad 什么富区配置"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002953547361792000"
+          ]
+        },
+        "author_id": "1918279776969842688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "1980354025766994089",
+        "created_at": "2025-12-22T04:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T05:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002955511755641260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2405324646",
+              "start": 0,
+              "username": "alexavad"
+            },
+            {
+              "end": 23,
+              "id": "1567203042872926208",
+              "start": 10,
+              "username": "Akinoyo_desu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2uNzsf4Q7B",
+              "end": 219,
+              "expanded_url": "https://x.com/2TejHqfgsS69569/status/2002955511755641260/photo/1",
+              "media_key": "3_2002953547361792000",
+              "start": 196,
+              "url": "https://t.co/2uNzsf4Q7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002955511755641260",
+        "in_reply_to_user_id": "2405324646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002953051800514812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexavad @Akinoyo_desu 这位女士，我必须向你隆重的介绍一下我的这台设备\nCPU为9800X3D，主频可达5.2GHZ，超频可达5.5GHZ。\n内存条为2*24G的阿拉斯加女武神彩条。\n显卡是技嘉魔鹰9070xt\n硬盘是三星990pro。\n屏幕是一块4k185hz一块2k165hz。\nVPN用的是专线\n综上所述，我使用的设备应该有足够的性能运行好网页版的推特而不卡顿 https://t.co/2uNzsf4Q7B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 394,
+          "like_count": 624,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 266
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:22:12.000Z",
+        "description": "世界很好，你也不赖。Student in FPGA/ASIC\n \n匿名提问箱\nhttps://t.co/J4wVJFT545",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2tejhqfgss69569",
+                "end": 62,
+                "expanded_url": "https://ngl.link/2tejhqfgss69569",
+                "start": 39,
+                "url": "https://t.co/J4wVJFT545"
+              }
+            ]
+          }
+        },
+        "id": "1918279776969842688",
+        "name": "小白覆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998236948713086976/pxAnc45g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 39,
+          "like_count": 2915,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 2481
+        },
+        "username": "2TejHqfgsS69569",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-23T00:20:59.000Z",
+        "description": "何时归",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ChuangChuangha…",
+                "end": 23,
+                "expanded_url": "https://t.me/ChuangChuanghajimi",
+                "start": 0,
+                "url": "https://t.co/dq6IelJn5p"
+              }
+            ]
+          }
+        },
+        "id": "2405324646",
+        "location": "桃源1.6.4",
+        "name": "пока-пока #战狼二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001369805899862016/4Pljgg_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 247,
+          "like_count": 3397,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1795
+        },
+        "url": "https://t.co/dq6IelJn5p",
+        "username": "alexavad",
+        "verified": true
+      }
+    ]
+  }
+}

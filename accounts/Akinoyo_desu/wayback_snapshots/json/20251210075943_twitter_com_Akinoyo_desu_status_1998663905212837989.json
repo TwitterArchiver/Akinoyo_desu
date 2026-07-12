@@ -1,0 +1,591 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1998292883989057574",
+    "created_at": "2025-12-10T07:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T08:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998663905212837989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        },
+        {
+          "end": 25,
+          "id": "1912109703133646848",
+          "start": 14,
+          "username": "jzm1919810"
+        },
+        {
+          "end": 39,
+          "id": "1866458229527764992",
+          "start": 26,
+          "username": "Citrus_amara"
+        },
+        {
+          "end": 56,
+          "id": "1804587925805596672",
+          "start": 40,
+          "username": "OverSpring_wiki"
+        },
+        {
+          "end": 67,
+          "id": "1796427186557100032",
+          "start": 57,
+          "username": "wplaceqwq"
+        },
+        {
+          "end": 78,
+          "id": "1659962043460354050",
+          "start": 68,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998663905212837989",
+    "in_reply_to_user_id": "1700948552078467072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998639980051312905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD @jzm1919810 @Citrus_amara @OverSpring_wiki @wplaceqwq @SalviaSWC 我上电视啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1998639963483848704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7yYdSFawAA40uk.jpg",
+        "width": 842
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1998639964142317575",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7yYdUiaMAcNdkc.jpg",
+        "width": 591
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1998639965346082821",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7yYdZBaMAUIbRo.jpg",
+        "width": 941
+      },
+      {
+        "height": 320,
+        "media_key": "16_1998639968068210689",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G7yYdjKakAEHh7K.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G7yYdjKakAEHh7K.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1998292883989057574",
+        "created_at": "2025-12-10T07:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T08:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998663905212837989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            },
+            {
+              "end": 25,
+              "id": "1912109703133646848",
+              "start": 14,
+              "username": "jzm1919810"
+            },
+            {
+              "end": 39,
+              "id": "1866458229527764992",
+              "start": 26,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 56,
+              "id": "1804587925805596672",
+              "start": 40,
+              "username": "OverSpring_wiki"
+            },
+            {
+              "end": 67,
+              "id": "1796427186557100032",
+              "start": 57,
+              "username": "wplaceqwq"
+            },
+            {
+              "end": 78,
+              "id": "1659962043460354050",
+              "start": 68,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998663905212837989",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998639980051312905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD @jzm1919810 @Citrus_amara @OverSpring_wiki @wplaceqwq @SalviaSWC 我上电视啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998639963483848704",
+            "3_1998639964142317575",
+            "3_1998639965346082821",
+            "16_1998639968068210689"
+          ]
+        },
+        "author_id": "1700948552078467072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1998292883989057574",
+        "created_at": "2025-12-10T06:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T07:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998639980051312905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912109703133646848",
+              "start": 0,
+              "username": "jzm1919810"
+            },
+            {
+              "end": 25,
+              "id": "1866458229527764992",
+              "start": 12,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 42,
+              "id": "1804587925805596672",
+              "start": 26,
+              "username": "OverSpring_wiki"
+            },
+            {
+              "end": 53,
+              "id": "1796427186557100032",
+              "start": 43,
+              "username": "wplaceqwq"
+            },
+            {
+              "end": 64,
+              "id": "1659962043460354050",
+              "start": 54,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zI2tm9NH3B",
+              "end": 158,
+              "expanded_url": "https://x.com/Overdose_DBD/status/1998639980051312905/photo/1",
+              "media_key": "3_1998639963483848704",
+              "start": 135,
+              "url": "https://t.co/zI2tm9NH3B"
+            },
+            {
+              "display_url": "pic.x.com/zI2tm9NH3B",
+              "end": 158,
+              "expanded_url": "https://x.com/Overdose_DBD/status/1998639980051312905/photo/1",
+              "media_key": "3_1998639964142317575",
+              "start": 135,
+              "url": "https://t.co/zI2tm9NH3B"
+            },
+            {
+              "display_url": "pic.x.com/zI2tm9NH3B",
+              "end": 158,
+              "expanded_url": "https://x.com/Overdose_DBD/status/1998639980051312905/photo/1",
+              "media_key": "3_1998639965346082821",
+              "start": 135,
+              "url": "https://t.co/zI2tm9NH3B"
+            },
+            {
+              "display_url": "pic.x.com/zI2tm9NH3B",
+              "end": 158,
+              "expanded_url": "https://x.com/Overdose_DBD/status/1998639980051312905/photo/1",
+              "media_key": "16_1998639968068210689",
+              "start": 135,
+              "url": "https://t.co/zI2tm9NH3B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998639980051312905",
+        "in_reply_to_user_id": "1912109703133646848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998637792327508063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jzm1919810 @Citrus_amara @OverSpring_wiki @wplaceqwq @SalviaSWC 你连这些都不知道，你先别说鸡哥是好人了。地雷女那个是沐鸡联合时期沐给鸡租出租屋，结果鸡在里边收养地雷女天天睡醒了就开操，甚至还特么想操沐雨 https://t.co/zI2tm9NH3B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 323,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 137
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/WnyZ64LosE\n有事请点击https://t.co/UdJgE8LpGT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/WnyZ64LosE"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/UdJgE8LpGT"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984623073275125760/eoadOp59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4236,
+          "following_count": 57,
+          "like_count": 2,
+          "listed_count": 11,
+          "media_count": 567,
+          "tweet_count": 6320
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "昼と夜の間で 時が止まる 終わりのない 永遠の夕暮れ時\n🐦‍⬛\n请锁推且fo我的人一定让我回关，好吗？否则我的强迫症会受不了，只好取掉。谢谢。",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994454700624928768/48DA8PMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 205,
+          "like_count": 218,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 952
+        },
+        "username": "jzm1919810",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体系统（OSDD）。enby🏳️‍⚧️，HRT：2025.8.28。\n#odtwt  #drugtwt 中文/Eng。\n跨性别/吸毒 妹妹@shsh548866 主人@nktblovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997561641211191296/Vcrn6ACd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 921,
+          "like_count": 14000,
+          "listed_count": 4,
+          "media_count": 243,
+          "tweet_count": 6435
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "本号为Oswiki编辑组人员多人共同使用/Transhumanism/Left-libertarian/Free market with UBI/Absolute cultural liberty",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/YS4b5CW7Im"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "location": "Transhumanism Paradise",
+        "name": "OverSpring Wiki",
+        "pinned_tweet_id": "1989628357081010426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998647469283094529/LM5S_m7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4619,
+          "following_count": 684,
+          "like_count": 23491,
+          "listed_count": 11,
+          "media_count": 405,
+          "tweet_count": 5573
+        },
+        "url": "https://t.co/YS4b5CW7Im",
+        "username": "OverSpring_wiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T06:23:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pubmed.ncbi.nlm.nih.gov",
+                "end": 23,
+                "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/",
+                "start": 0,
+                "url": "https://t.co/E8tmKN3Bdw"
+              }
+            ]
+          }
+        },
+        "id": "1796427186557100032",
+        "location": "Yakutat,Alaska",
+        "name": "橘 雪莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985415412910260224/DZO0cpci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 187,
+          "like_count": 273,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 130
+        },
+        "url": "https://t.co/E8tmKN3Bdw",
+        "username": "wplaceqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1991745849333047520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1953,
+          "following_count": 718,
+          "like_count": 15243,
+          "listed_count": 7,
+          "media_count": 184,
+          "tweet_count": 4145
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

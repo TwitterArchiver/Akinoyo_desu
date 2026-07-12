@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2047941731929468928"
+      ],
+      "media_source_tweet_id": [
+        "2047942018316517861"
+      ]
+    },
+    "author_id": "1567203042872926208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047945993870832015",
+    "created_at": "2026-04-25T07:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T08:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047945993870832015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908828125548546",
+          "start": 3,
+          "username": "bui_tu46916"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aVOyZsNa4d",
+          "end": 53,
+          "expanded_url": "https://x.com/bui_tu46916/status/2047942018316517861/video/1",
+          "media_key": "13_2047941731929468928",
+          "start": 30,
+          "url": "https://t.co/aVOyZsNa4d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047945993870832015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047942018316517861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bui_tu46916: overdose乐意效劳 https://t.co/aVOyZsNa4d"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76300,
+        "height": 1080,
+        "media_key": "13_2047941731929468928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047941731929468928/img/a_aUMGjT9B7QcC9p.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047941731929468928/vid/avc1/480x270/P-ltppTk7vNW_d6_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047941731929468928/vid/avc1/640x360/aGfxdU3k7PUORMXK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047941731929468928/vid/avc1/1280x720/T-J_4HH3cuwPFFXX.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047941731929468928/pl/McE2-s079xlwTVuT.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 76300,
+        "height": 1080,
+        "media_key": "13_2047941731929468928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047941731929468928/img/a_aUMGjT9B7QcC9p.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047941731929468928/vid/avc1/480x270/P-ltppTk7vNW_d6_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047941731929468928/vid/avc1/640x360/aGfxdU3k7PUORMXK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047941731929468928/vid/avc1/1280x720/T-J_4HH3cuwPFFXX.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047941731929468928/pl/McE2-s079xlwTVuT.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047941731929468928"
+          ],
+          "media_source_tweet_id": [
+            "2047942018316517861"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047945993870832015",
+        "created_at": "2026-04-25T07:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047945993870832015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908828125548546",
+              "start": 3,
+              "username": "bui_tu46916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aVOyZsNa4d",
+              "end": 53,
+              "expanded_url": "https://x.com/bui_tu46916/status/2047942018316517861/video/1",
+              "media_key": "13_2047941731929468928",
+              "start": 30,
+              "url": "https://t.co/aVOyZsNa4d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047945993870832015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047942018316517861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bui_tu46916: overdose乐意效劳 https://t.co/aVOyZsNa4d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047941731929468928"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2047942018316517861",
+        "created_at": "2026-04-25T07:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047942018316517861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aVOyZsNa4d",
+              "end": 36,
+              "expanded_url": "https://x.com/bui_tu46916/status/2047942018316517861/video/1",
+              "media_key": "13_2047941731929468928",
+              "start": 13,
+              "url": "https://t.co/aVOyZsNa4d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047942018316517861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "overdose乐意效劳 https://t.co/aVOyZsNa4d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/\n♠️🅰️@w0sh1Asak1 /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 52,
+                "start": 40,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "shungleemain"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "w0sh1Asak1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 906,
+          "like_count": 4277,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1357
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "你好/不见证/可能od/",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 198,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 620
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

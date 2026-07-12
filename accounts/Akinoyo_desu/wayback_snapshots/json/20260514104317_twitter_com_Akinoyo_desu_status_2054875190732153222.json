@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2054875190732153222",
+    "created_at": "2026-05-14T10:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T11:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054875190732153222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luoyonghao/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/luoyonghao/status/2054852744410996939",
+          "start": 9,
+          "url": "https://t.co/AkXGmAXaNX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054875190732153222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054852744410996939",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "严肃学习如何骂人 https://t.co/AkXGmAXaNX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2054875190732153222",
+        "created_at": "2026-05-14T10:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054875190732153222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoyonghao/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/luoyonghao/status/2054852744410996939",
+              "start": 9,
+              "url": "https://t.co/AkXGmAXaNX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054875190732153222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054852744410996939",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "严肃学习如何骂人 https://t.co/AkXGmAXaNX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "33853845",
+        "conversation_id": "2054852744410996939",
+        "created_at": "2026-05-14T09:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054852744410996939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sukiRinkagamin…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/sukiRinkagamine/status/2054848359794671787",
+              "start": 61,
+              "url": "https://t.co/sZT4DmOiJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054852744410996939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 87566,
+          "like_count": 694,
+          "quote_count": 22,
+          "reply_count": 339,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054848359794671787",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们俩加一起也没有你爹牛逼，你爹每次见到我都说，他已经洗干净了。我说我不好这口儿也没用...你爹真是个热心肠...... https://t.co/sZT4DmOiJq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "旧名义：仿生喹硫平/关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "shungleemain"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 996,
+          "like_count": 4470,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 1464
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-21T08:46:14.000Z",
+        "description": "",
+        "id": "33853845",
+        "name": "罗永浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054323238222893056/07lhgw6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220642,
+          "following_count": 40,
+          "like_count": 6,
+          "listed_count": 1250,
+          "media_count": 4,
+          "tweet_count": 41
+        },
+        "username": "luoyonghao",
+        "verified": true
+      }
+    ]
+  }
+}

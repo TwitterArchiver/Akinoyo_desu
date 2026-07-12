@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993192681141612544"
+      ]
+    },
+    "author_id": "1567203042872926208",
+    "conversation_id": "1993192691388367062",
+    "created_at": "2025-11-25T05:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T06:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993192691388367062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nYabdkcKTt",
+          "end": 42,
+          "expanded_url": "https://x.com/Akinoyo_desu/status/1993192691388367062/photo/1",
+          "media_key": "3_1993192681141612544",
+          "start": 19,
+          "url": "https://t.co/nYabdkcKTt"
+        },
+        {
+          "display_url": "x.com/ce_vdh543/stat…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/ce_vdh543/status/1993125283097108910",
+          "start": 43,
+          "url": "https://t.co/J3C6oJxWAx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993192691388367062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993125283097108910",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鉴定完毕，用时0.1秒\n你也来试试吧 https://t.co/nYabdkcKTt https://t.co/J3C6oJxWAx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993192681141612544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6k-LuBasAAHcKL.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993192681141612544"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "1993192691388367062",
+        "created_at": "2025-11-25T05:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T06:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993192691388367062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYabdkcKTt",
+              "end": 42,
+              "expanded_url": "https://x.com/Akinoyo_desu/status/1993192691388367062/photo/1",
+              "media_key": "3_1993192681141612544",
+              "start": 19,
+              "url": "https://t.co/nYabdkcKTt"
+            },
+            {
+              "display_url": "x.com/ce_vdh543/stat…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/ce_vdh543/status/1993125283097108910",
+              "start": 43,
+              "url": "https://t.co/J3C6oJxWAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993192691388367062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993125283097108910",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鉴定完毕，用时0.1秒\n你也来试试吧 https://t.co/nYabdkcKTt https://t.co/J3C6oJxWAx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979181977749315584",
+        "conversation_id": "1993125283097108910",
+        "created_at": "2025-11-25T01:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T02:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993125283097108910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/1992952453642543572",
+              "start": 16,
+              "url": "https://t.co/9Q3DaQalgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993125283097108910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992952453642543572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你直接去死就好了呀 谁在意你啊 https://t.co/9Q3DaQalgA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870431669808951297/LZfqETLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 159,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 35
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T13:45:38.000Z",
+        "description": "DEGEN\nTERA RR TRADER",
+        "id": "1979181977749315584",
+        "name": "Vdh Ce",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979182016269799424/X4BNt2S5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 475,
+          "like_count": 1168,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 189
+        },
+        "username": "ce_vdh543",
+        "verified": false
+      }
+    ]
+  }
+}

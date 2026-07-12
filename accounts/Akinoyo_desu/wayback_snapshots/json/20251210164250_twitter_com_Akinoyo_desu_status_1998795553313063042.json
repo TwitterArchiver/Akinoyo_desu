@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1998768091023683650",
+    "created_at": "2025-12-10T16:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T17:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998795553313063042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965531250447568896",
+          "start": 0,
+          "username": "jingyin_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998795553313063042",
+    "in_reply_to_user_id": "1965531250447568896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998768091023683650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyin_8964 爆！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1428,
+        "media_key": "3_1998765260841623552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G70KajHbIAAe_lM.jpg",
+        "width": 716
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1998765569869504512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G70KsiVaYAAAezG.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1998768091023683650",
+        "created_at": "2025-12-10T16:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T17:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998795553313063042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965531250447568896",
+              "start": 0,
+              "username": "jingyin_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998795553313063042",
+        "in_reply_to_user_id": "1965531250447568896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998768091023683650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyin_8964 爆！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998765260841623552",
+            "3_1998765569869504512"
+          ]
+        },
+        "author_id": "1965531250447568896",
+        "conversation_id": "1998768091023683650",
+        "created_at": "2025-12-10T14:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T15:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998768091023683650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/je2iar7AnG",
+              "end": 120,
+              "expanded_url": "https://x.com/jingyin_8964/status/1998768091023683650/photo/1",
+              "media_key": "3_1998765260841623552",
+              "start": 97,
+              "url": "https://t.co/je2iar7AnG"
+            },
+            {
+              "display_url": "pic.x.com/je2iar7AnG",
+              "end": 120,
+              "expanded_url": "https://x.com/jingyin_8964/status/1998768091023683650/photo/1",
+              "media_key": "3_1998765569869504512",
+              "start": 97,
+              "url": "https://t.co/je2iar7AnG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998768091023683650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1146,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "如图。\n哎这就是药圈老资历吗，何意味啊，骂人之前不撒泡尿照照自己的猪头吗，哪来的逼优越感辱骂别人，做人这点素质没有，嫌我长得丑把眼睛挖了呗天天视奸我干啥，脂肪把脑容量占完了只能用下体思考了是呗 https://t.co/je2iar7AnG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 326,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 141
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T21:43:35.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁以后开心地闭上了眼 \n/口粮：@420420420CTL \n/接受药圈新闻投稿\n/接RC代测\n镜音的匿名提问箱：https://t.co/Ko843XLkGn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "420420420CTL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 93,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 70,
+                "url": "https://t.co/Ko843XLkGn"
+              }
+            ]
+          }
+        },
+        "id": "1965531250447568896",
+        "location": "🚪88/288/520/1314可不固定",
+        "name": "镜音（二代目）",
+        "pinned_tweet_id": "1998694737906155891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996595366100361216/GWBNbt7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 106,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 236
+        },
+        "username": "jingyin_8964",
+        "verified": false
+      }
+    ]
+  }
+}

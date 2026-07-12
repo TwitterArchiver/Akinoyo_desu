@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2027056338183102958",
+    "created_at": "2026-02-26T16:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T17:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027056338183102958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1297226393005092864",
+          "start": 3,
+          "username": "Yuan67323446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027056338183102958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026653531596599693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuan67323446: 尼玛有的人是脑残吗是寿喜烧自助我服了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2027056338183102958",
+        "created_at": "2026-02-26T16:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027056338183102958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1297226393005092864",
+              "start": 3,
+              "username": "Yuan67323446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027056338183102958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026653531596599693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuan67323446: 尼玛有的人是脑残吗是寿喜烧自助我服了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1297226393005092864",
+        "conversation_id": "2026653531596599693",
+        "created_at": "2026-02-25T13:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T14:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026653531596599693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuan67323446/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/yuan67323446/status/2026504658022494373",
+              "start": 19,
+              "url": "https://t.co/ZLkITo1W6d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026653531596599693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 202310,
+          "like_count": 1066,
+          "quote_count": 22,
+          "reply_count": 199,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026504658022494373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尼玛有的人是脑残吗是寿喜烧自助我服了 https://t.co/ZLkITo1W6d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平/ 涘🧊@winterfruit_1 /聖 🍜@shungleemain /♠️🅰️@w0sh1Asak1 /渡 🚣‍♂️@justyanwu14/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shungleemain"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "justyanwu14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 119,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 96,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 717,
+          "like_count": 2650,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 793
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-22T17:37:40.000Z",
+        "description": "快乐冲浪🫰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "norton-cloud.kele812.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://norton-cloud.kele812.xyz/#/register?code=v5toZYpO",
+                "start": 0,
+                "url": "https://t.co/kGMxkGTENI"
+              }
+            ]
+          }
+        },
+        "id": "1297226393005092864",
+        "location": "自用vpn",
+        "name": "Yuan",
+        "pinned_tweet_id": "2025864346992366050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988279012620464131/UD7eZ_OT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2221,
+          "following_count": 588,
+          "like_count": 16961,
+          "listed_count": 13,
+          "media_count": 859,
+          "tweet_count": 11392
+        },
+        "url": "https://t.co/kGMxkGTENI",
+        "username": "Yuan67323446",
+        "verified": false
+      }
+    ]
+  }
+}

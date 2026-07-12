@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2000844807539966245",
+    "created_at": "2025-12-16T08:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T09:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000852214122950835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778696847563104256",
+          "start": 0,
+          "username": "gold_bihu"
+        },
+        {
+          "end": 22,
+          "id": "1999415746997420036",
+          "start": 11,
+          "username": "Xuzawanoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000852214122950835",
+    "in_reply_to_user_id": "1778696847563104256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000846227001553371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gold_bihu @Xuzawanoda 压抑沙东入"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2000844807539966245",
+        "created_at": "2025-12-16T08:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T09:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000852214122950835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778696847563104256",
+              "start": 0,
+              "username": "gold_bihu"
+            },
+            {
+              "end": 22,
+              "id": "1999415746997420036",
+              "start": 11,
+              "username": "Xuzawanoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000852214122950835",
+        "in_reply_to_user_id": "1778696847563104256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000846227001553371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gold_bihu @Xuzawanoda 压抑沙东入"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778696847563104256",
+        "conversation_id": "2000844807539966245",
+        "created_at": "2025-12-16T08:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T09:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000846227001553371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999415746997420036",
+              "start": 0,
+              "username": "Xuzawanoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000846227001553371",
+        "in_reply_to_user_id": "1999415746997420036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000844807539966245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuzawanoda 好萌 我要法你!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 369,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 208
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "性别是🦖 ｜od区?｜同类互fo｜喜欢一切有意思的东西｜请不要和我吵架｜处方放在https://t.co/MS7VCxzFgu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dddlg28",
+                "end": 63,
+                "expanded_url": "https://t.me/dddlg28",
+                "start": 40,
+                "url": "https://t.co/MS7VCxzFgu"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "name": "多拉贡",
+        "pinned_tweet_id": "1999827971180490853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996121294568558592/oUNZCOVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 350,
+          "like_count": 8944,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 2217
+        },
+        "username": "gold_bihu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T09:47:30.000Z",
+        "description": "妄言live二期生喏哒！\n无言势，点赞势",
+        "id": "1999415746997420036",
+        "location": "寒い嫌わ嫌",
+        "name": "苦呀西EX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999427918989246464/kiB9_w6m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 88,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 44
+        },
+        "username": "Xuzawanoda",
+        "verified": false
+      }
+    ]
+  }
+}

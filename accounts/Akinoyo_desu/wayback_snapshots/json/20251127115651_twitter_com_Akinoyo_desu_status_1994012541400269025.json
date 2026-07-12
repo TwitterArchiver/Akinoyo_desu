@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1993384526454960216",
+    "created_at": "2025-11-27T11:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T12:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994012541400269025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816148552764252169",
+          "start": 0,
+          "username": "w0sh1Asak1"
+        },
+        {
+          "end": 28,
+          "id": "1531874456997863424",
+          "start": 12,
+          "username": "guodongmaikefe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994012541400269025",
+    "in_reply_to_user_id": "1816148552764252169",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993733576312176848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w0sh1Asak1 @guodongmaikefe2 😆😆😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1993384526454960216",
+        "created_at": "2025-11-27T11:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T12:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994012541400269025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816148552764252169",
+              "start": 0,
+              "username": "w0sh1Asak1"
+            },
+            {
+              "end": 28,
+              "id": "1531874456997863424",
+              "start": 12,
+              "username": "guodongmaikefe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994012541400269025",
+        "in_reply_to_user_id": "1816148552764252169",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993733576312176848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w0sh1Asak1 @guodongmaikefe2 😆😆😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816148552764252169",
+        "conversation_id": "1993384526454960216",
+        "created_at": "2025-11-26T17:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T18:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993733576312176848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531874456997863424",
+              "start": 0,
+              "username": "guodongmaikefe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993733576312176848",
+        "in_reply_to_user_id": "1531874456997863424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993384526454960216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guodongmaikefe2 可能是鸡哥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870431669808951297/LZfqETLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 189,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 62
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T16:29:11.000Z",
+        "description": "本人性格相当恶劣 做好被炸死的准备再靠近\n五脏六腑 超级大大大果冻@Truffaut897456/唧唧@Jiji_O_o_jiiii/鸟兽兽@abt514514/前卫@vanofthess",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "Truffaut897456"
+              },
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Jiji_O_o_jiiii"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "abt514514"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "vanofthess"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lovesick7.com",
+                "end": 23,
+                "expanded_url": "http://www.lovesick7.com",
+                "start": 0,
+                "url": "https://t.co/J2XoZ65lB4"
+              }
+            ]
+          }
+        },
+        "id": "1816148552764252169",
+        "location": "空悲切！",
+        "name": "天才美少女Asaak1#天津四",
+        "pinned_tweet_id": "1988674535563067445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989428243003551745/DlJEx61J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 728,
+          "like_count": 24285,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 10994
+        },
+        "url": "https://t.co/J2XoZ65lB4",
+        "username": "w0sh1Asak1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "纵欲无故，嗑药无度/不要做药物的奴隶，不要被任何事物掌控/我会一直给你点赞⌓‿⌓/抑郁焦虑/我脑子有病/同类互fo/发癫/异性恋/恐gay/恐跨/",
+        "id": "1531874456997863424",
+        "location": "明天",
+        "name": "不开心就od",
+        "pinned_tweet_id": "1993933228068229311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984521028274700291/SnoaoxPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 123,
+          "like_count": 4967,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 683
+        },
+        "username": "guodongmaikefe2",
+        "verified": false
+      }
+    ]
+  }
+}

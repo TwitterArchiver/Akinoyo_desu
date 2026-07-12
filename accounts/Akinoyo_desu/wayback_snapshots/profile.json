@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "username": "@Akinoyo_desu",
+  "bio": "",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "urls": [
+      {
+        "display_url": "ngl.link/akinoyo",
+        "end": 35,
+        "expanded_url": "https://ngl.link/akinoyo",
+        "start": 12,
+        "url": "https://t.co/IopkqyzpO2"
+      }
+    ]
+  }
+}

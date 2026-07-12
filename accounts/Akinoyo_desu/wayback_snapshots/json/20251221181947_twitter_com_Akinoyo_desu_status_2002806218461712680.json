@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1978000335529754852",
+    "created_at": "2025-12-21T18:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T19:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002806218461712680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2405324646",
+          "start": 0,
+          "username": "alexavad"
+        },
+        {
+          "end": 26,
+          "id": "1918279776969842688",
+          "start": 10,
+          "username": "2TejHqfgsS69569"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002806218461712680",
+    "in_reply_to_user_id": "2405324646",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002739898160455969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alexavad @2TejHqfgsS69569 脱的毛送我（bushi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1978000335529754852",
+        "created_at": "2025-12-21T18:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T19:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002806218461712680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2405324646",
+              "start": 0,
+              "username": "alexavad"
+            },
+            {
+              "end": 26,
+              "id": "1918279776969842688",
+              "start": 10,
+              "username": "2TejHqfgsS69569"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002806218461712680",
+        "in_reply_to_user_id": "2405324646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002739898160455969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexavad @2TejHqfgsS69569 脱的毛送我（bushi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2405324646",
+        "conversation_id": "1978000335529754852",
+        "created_at": "2025-12-21T13:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T14:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002739898160455969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1918279776969842688",
+              "start": 0,
+              "username": "2TejHqfgsS69569"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002739898160455969",
+        "in_reply_to_user_id": "1918279776969842688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002739473302622651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2TejHqfgsS69569 我毛发也很多，但我定期脱毛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 394,
+          "like_count": 620,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 257
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2014-03-23T00:20:59.000Z",
+        "description": "何时归",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ChuangChuangha…",
+                "end": 23,
+                "expanded_url": "https://t.me/ChuangChuanghajimi",
+                "start": 0,
+                "url": "https://t.co/dq6IelJn5p"
+              }
+            ]
+          }
+        },
+        "id": "2405324646",
+        "location": "桃源1.6.4",
+        "name": "пока-пока #战狼二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001369805899862016/4Pljgg_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 245,
+          "like_count": 3374,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1781
+        },
+        "url": "https://t.co/dq6IelJn5p",
+        "username": "alexavad",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:22:12.000Z",
+        "description": "世界很好，你也不赖。Student in FPGA/ASIC\n \n匿名提问箱\nhttps://t.co/J4wVJFT545",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2tejhqfgss69569",
+                "end": 62,
+                "expanded_url": "https://ngl.link/2tejhqfgss69569",
+                "start": 39,
+                "url": "https://t.co/J4wVJFT545"
+              }
+            ]
+          }
+        },
+        "id": "1918279776969842688",
+        "name": "小白覆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998236948713086976/pxAnc45g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 39,
+          "like_count": 2888,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 2463
+        },
+        "username": "2TejHqfgsS69569",
+        "verified": false
+      }
+    ]
+  }
+}

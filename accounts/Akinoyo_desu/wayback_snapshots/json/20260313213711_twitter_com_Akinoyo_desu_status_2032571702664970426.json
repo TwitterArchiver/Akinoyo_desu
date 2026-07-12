@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2032571702664970426",
+    "created_at": "2026-03-13T21:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T22:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032571702664970426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hokusei06/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/hokusei06/status/2032306893973008386",
+          "start": 6,
+          "url": "https://t.co/t47EJBvKAe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032571702664970426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032306893973008386",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "百合太对了 https://t.co/t47EJBvKAe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1523,
+        "media_key": "3_2032306884670058497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQ0WA9W8AE37id.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2032571702664970426",
+        "created_at": "2026-03-13T21:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T22:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032571702664970426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hokusei06/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/hokusei06/status/2032306893973008386",
+              "start": 6,
+              "url": "https://t.co/t47EJBvKAe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032571702664970426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032306893973008386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "百合太对了 https://t.co/t47EJBvKAe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032306884670058497"
+          ]
+        },
+        "author_id": "1311723113265197056",
+        "conversation_id": "2032306893973008386",
+        "created_at": "2026-03-13T04:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032306893973008386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QREWKn6HiU",
+              "end": 23,
+              "expanded_url": "https://x.com/hokusei06/status/2032306893973008386/photo/1",
+              "media_key": "3_2032306884670058497",
+              "start": 0,
+              "url": "https://t.co/QREWKn6HiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032306893973008386",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 727,
+          "impression_count": 105869,
+          "like_count": 8441,
+          "quote_count": 91,
+          "reply_count": 29,
+          "retweet_count": 806
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QREWKn6HiU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ \n旧名义：仿生喹硫平/\n涘🧊@winterfruit_1 /\n聖 🍜@shungleemain /\n♠️🅰️@w0sh1Asak1 /\n渡 🚣‍♂️@noth1nghere14/\n梨❤️@Eternal1uv9/\n提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "shungleemain"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "Eternal1uv9"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 143,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 120,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 811,
+          "like_count": 3352,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 984
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-01T17:42:34.000Z",
+        "description": "...",
+        "id": "1311723113265197056",
+        "name": "kiru-sen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032310360636866564/9Q0ulQFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18579,
+          "following_count": 2292,
+          "like_count": 198581,
+          "listed_count": 57,
+          "media_count": 1235,
+          "tweet_count": 22171
+        },
+        "username": "hokusei06",
+        "verified": false
+      }
+    ]
+  }
+}

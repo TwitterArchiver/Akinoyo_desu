@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065278690871959552"
+      ]
+    },
+    "author_id": "1567203042872926208",
+    "conversation_id": "2065278705463910428",
+    "created_at": "2026-06-12T03:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065278705463910428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TtLHcg8IGg",
+          "end": 23,
+          "expanded_url": "https://x.com/Akinoyo_desu/status/2065278705463910428/photo/1",
+          "media_key": "3_2065278690871959552",
+          "start": 0,
+          "url": "https://t.co/TtLHcg8IGg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065278705463910428",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/TtLHcg8IGg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2065278690871959552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlYBuubYAAmfeD.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065278690871959552"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "2065278705463910428",
+        "created_at": "2026-06-12T03:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065278705463910428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtLHcg8IGg",
+              "end": 23,
+              "expanded_url": "https://x.com/Akinoyo_desu/status/2065278705463910428/photo/1",
+              "media_key": "3_2065278690871959552",
+              "start": 0,
+              "url": "https://t.co/TtLHcg8IGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065278705463910428",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TtLHcg8IGg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 1037,
+          "like_count": 4932,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1679
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

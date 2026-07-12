@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1992897970589564971",
+    "created_at": "2025-11-24T10:07:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T11:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992897970589564971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jngyn298282/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/jngyn298282/status/1992895586048073992",
+          "start": 16,
+          "url": "https://t.co/03KrxdkrIu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992897970589564971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992895586048073992",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "继你接kapau吗之后最新力作 https://t.co/03KrxdkrIu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992895571833790464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6gv9rmaIAAKWil.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1992897970589564971",
+        "created_at": "2025-11-24T10:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992897970589564971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jngyn298282/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/jngyn298282/status/1992895586048073992",
+              "start": 16,
+              "url": "https://t.co/03KrxdkrIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992897970589564971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992895586048073992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "继你接kapau吗之后最新力作 https://t.co/03KrxdkrIu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992895571833790464"
+          ]
+        },
+        "author_id": "1882936483662663680",
+        "conversation_id": "1992895586048073992",
+        "created_at": "2025-11-24T09:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T10:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992895586048073992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6k9S0hWmfR",
+              "end": 57,
+              "expanded_url": "https://x.com/jngyn298282/status/1992895586048073992/photo/1",
+              "media_key": "3_1992895571833790464",
+              "start": 34,
+              "url": "https://t.co/6k9S0hWmfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992895586048073992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "药圈投稿速递：\nCiallo～(∠・▽&lt; )⌒☆爱德华压抑咯 https://t.co/6k9S0hWmfR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870431669808951297/LZfqETLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 153,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 28
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼\n \n口粮：@420420420CTL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1882936483662663680",
+        "name": "镜音",
+        "pinned_tweet_id": "1991136367816876444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 192,
+          "like_count": 15719,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 2355
+        },
+        "username": "jngyn298282",
+        "verified": false
+      }
+    ]
+  }
+}

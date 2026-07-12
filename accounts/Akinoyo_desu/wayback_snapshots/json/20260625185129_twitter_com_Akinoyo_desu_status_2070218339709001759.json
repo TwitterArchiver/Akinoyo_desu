@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2070218339709001759",
+    "created_at": "2026-06-25T18:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T19:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070218339709001759"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hp2ai/status/2…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/hp2ai/status/2069938223938220171",
+          "start": 9,
+          "url": "https://t.co/BmoALbHhdB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070218339709001759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069938223938220171",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "史上最伟大的发现 https://t.co/BmoALbHhdB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069938210285764610",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLnl1dMXQAISzAZ.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2070218339709001759",
+        "created_at": "2026-06-25T18:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070218339709001759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hp2ai/status/2…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/hp2ai/status/2069938223938220171",
+              "start": 9,
+              "url": "https://t.co/BmoALbHhdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070218339709001759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069938223938220171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "史上最伟大的发现 https://t.co/BmoALbHhdB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069938210285764610"
+          ]
+        },
+        "author_id": "1468458312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2069938223938220171",
+        "created_at": "2026-06-25T00:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T01:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069938223938220171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/faXuw7XrS5",
+              "end": 100,
+              "expanded_url": "https://x.com/Hp2ai/status/2069938223938220171/photo/1",
+              "media_key": "3_2069938210285764610",
+              "start": 77,
+              "url": "https://t.co/faXuw7XrS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069938223938220171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2910,
+          "impression_count": 674053,
+          "like_count": 3619,
+          "quote_count": 35,
+          "reply_count": 316,
+          "retweet_count": 349
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识，在设置里面找到备忘录，(日历，联系人)都可以，\n添加你所有外区Apple ID账号，\n可以直接更新软件，不用去里Apple store切换账号。 https://t.co/faXuw7XrS5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 1062,
+          "like_count": 5062,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1739
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2013-05-29T23:27:33.000Z",
+        "description": "啥都想了解一点，港美股开户  全球银行卡💳\n全球电话卡\n🚀一起成长，一起闯关",
+        "id": "1468458312",
+        "location": "Fujian xiamen",
+        "name": "Hpp2",
+        "pinned_tweet_id": "2064624164628205992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042908617641463809/dTGZoq5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6295,
+          "following_count": 750,
+          "like_count": 2535,
+          "listed_count": 17,
+          "media_count": 468,
+          "tweet_count": 4341
+        },
+        "url": "",
+        "username": "Hp2ai",
+        "verified": true
+      }
+    ]
+  }
+}

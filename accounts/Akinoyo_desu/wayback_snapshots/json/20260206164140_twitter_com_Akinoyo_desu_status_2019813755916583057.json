@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2019813755916583057",
+    "created_at": "2026-02-06T16:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T17:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019813755916583057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1996563547007176704",
+          "start": 3,
+          "username": "gu_niu666"
+        },
+        {
+          "end": 25,
+          "id": "1963604135615631360",
+          "start": 15,
+          "username": "y0zarash1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019813755916583057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019797443756642812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gu_niu666: @y0zarash1 这人也是个婊子，聊了两句让他不高兴了，就双取关了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2019813755916583057",
+        "created_at": "2026-02-06T16:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019813755916583057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1996563547007176704",
+              "start": 3,
+              "username": "gu_niu666"
+            },
+            {
+              "end": 25,
+              "id": "1963604135615631360",
+              "start": 15,
+              "username": "y0zarash1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019813755916583057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019797443756642812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gu_niu666: @y0zarash1 这人也是个婊子，聊了两句让他不高兴了，就双取关了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996563547007176704",
+        "conversation_id": "2019766817703833944",
+        "created_at": "2026-02-06T15:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T16:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019797443756642812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1963604135615631360",
+              "start": 0,
+              "username": "y0zarash1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019797443756642812",
+        "in_reply_to_user_id": "1963604135615631360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019766817703833944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y0zarash1 这人也是个婊子，聊了两句让他不高兴了，就双取关了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平/ 涘🧊@winterfruit_1 /聖 🍜@shungleemain /♠️🅰️@w0sh1Asak1 /渡 🚣‍♂️@justyanwu14/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shungleemain"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "justyanwu14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 119,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 96,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 656,
+          "like_count": 2162,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 709
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T12:53:53.000Z",
+        "description": "三退 ：退圈 退药 退跨🫡\n 人格在立希和头模零之间来回切换\n🚫禁止未工作者🈚稳定资金来源者购买任何   🍥🍬💉\n 反lgbt/跨人乐子/重开药桶饭\n 理想是世界没有跨\n 安卓跨人 安卓救人 安卓共情力\n 纯乐子人 如果你对我认真，你就输了 \n 如果你对我感到破防 那祝你以后学会笑一笑就好",
+        "id": "1996563547007176704",
+        "location": "木桶星",
+        "name": "米（🏳️‍🌈🏳️‍⚧🍥心宿二和参宿四🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡💯互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018938146436894720/pmXDOh3W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 202,
+          "like_count": 2229,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1608
+        },
+        "username": "gu_niu666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T14:05:01.000Z",
+        "description": "星瞳身上是只有东亚人才能体会到的美。as是怪物，阿梓a是怪物，七海是怪物，她们是东亚女性，是沙文主义a，是强权，星瞳不是，她是顺从，是担忧，是献身，是毁灭，是内心深处的自轻自贱，她是紫姬，是洛丽塔，是爱丽丝，是马蒂尔达。东亚女性千百年来被视作美的事物被安排在一个虚拟女主播身上，美艳的不可方物",
+        "id": "1963604135615631360",
+        "location": "82568",
+        "name": "正乐瞳孙",
+        "pinned_tweet_id": "2019317215389184390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983987875856445442/vXFG3f5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 48,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 147
+        },
+        "username": "y0zarash1",
+        "verified": false
+      }
+    ]
+  }
+}

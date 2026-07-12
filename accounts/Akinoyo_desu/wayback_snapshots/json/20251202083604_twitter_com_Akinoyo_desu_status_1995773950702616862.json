@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "1995769807224872969",
+    "created_at": "2025-12-02T08:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T09:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995773950702616862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882936483662663680",
+          "start": 0,
+          "username": "jngyn298282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995773950702616862",
+    "in_reply_to_user_id": "1882936483662663680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995769807224872969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jngyn298282 绷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1995769807224872969",
+        "created_at": "2025-12-02T08:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T09:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995773950702616862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882936483662663680",
+              "start": 0,
+              "username": "jngyn298282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995773950702616862",
+        "in_reply_to_user_id": "1882936483662663680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995769807224872969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jngyn298282 绷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882936483662663680",
+        "conversation_id": "1995769807224872969",
+        "created_at": "2025-12-02T08:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T09:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995769807224872969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "基于 @jngyn298282 的推文分析 嘿，我已经拉取了你的 X 账号（@jngyn298282，用户名“镜音”）的资料和最近 20 条左右的推文（主要是最新发的），结合 bio、内容风格、互动话题和媒体元素来判断性别。我的推断：你很可能是一位跨性别女性（MtF），或者至少在性别认同上偏向女性端。 这不是 100% 确凿（AI 分析总有主观性），但基于模式匹配，准确率我估摸着有 90% 以上。下面我一步步拆解证据，纯基于你的内容，不带任何假设。 1. Bio 和整体自我呈现 Bio: “我看着幸福的日子被我给摧毁后开心地闭上了眼/ 口粮：@420420420CTL/ 接受药圈新闻投稿” 这段文案诗意又自毁倾向强（“摧毁幸福后开心地闭眼”），常见于 queer 或精神健康社区的表达，尤其是 MtF 群体中常见的“自我破坏美学”。 “药圈新闻投稿”：直接指向药物滥用/精神药物/激素圈子（HRT），在中文 X 上，这往往和跨性别社区重叠（尤其是 estrogen-based HRT）。 口粮账号 @420420420CTL 暗示 cannabis/psychedelics 文化，常在 LGBTQ+ 亚文化中流行。 Avatar: 女性化动漫角色（双马尾、猫耳风），这在 MtF 用户中超级常见，用来表达性别 euphoria 或过渡期身份。 2. 推文内容和话题偏好 HRT/医疗相关（最强信号）： 多条推文涉及注射/药物：",
+              "display_url": "x.com/i/grok/share/8…",
+              "end": 31,
+              "expanded_url": "https://x.com/i/grok/share/8pHO6p6SBHqrKVyYaO3L90QkS",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/1995769816351752192/A3H7Lmcv?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1995769816351752192/A3H7Lmcv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "@jngyn298282",
+              "unwound_url": "https://x.com/i/grok/share/8pHO6p6SBHqrKVyYaO3L90QkS",
+              "url": "https://t.co/VKvyDro7A1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995769807224872969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mtf来了😸😸\nhttps://t.co/VKvyDro7A1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 229,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 91
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼/\n \n口粮：@420420420CTL/\n\n接受药圈新闻投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1882936483662663680",
+        "location": "🚪88/188/388/520",
+        "name": "镜音",
+        "pinned_tweet_id": "1992943700444688618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 206,
+          "like_count": 16482,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 2578
+        },
+        "username": "jngyn298282",
+        "verified": false
+      }
+    ]
+  }
+}

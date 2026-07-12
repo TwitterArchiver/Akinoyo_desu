@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2065287598206304759",
+    "created_at": "2026-06-12T09:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065367009718837571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "989792932533223424",
+          "start": 0,
+          "username": "Kinodar_"
+        },
+        {
+          "end": 21,
+          "id": "1905496747637702659",
+          "start": 10,
+          "username": "xnm1213888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065367009718837571",
+    "in_reply_to_user_id": "989792932533223424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065304047880712242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kinodar_ @xnm1213888 冷知识，只有两个成灰了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2065287598206304759",
+        "created_at": "2026-06-12T09:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065367009718837571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "989792932533223424",
+              "start": 0,
+              "username": "Kinodar_"
+            },
+            {
+              "end": 21,
+              "id": "1905496747637702659",
+              "start": 10,
+              "username": "xnm1213888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065367009718837571",
+        "in_reply_to_user_id": "989792932533223424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065304047880712242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinodar_ @xnm1213888 冷知识，只有两个成灰了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "989792932533223424",
+        "conversation_id": "2065287598206304759",
+        "created_at": "2026-06-12T05:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065304047880712242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905496747637702659",
+              "start": 0,
+              "username": "xnm1213888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065304047880712242",
+        "in_reply_to_user_id": "1905496747637702659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065287598206304759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xnm1213888 就问wiki主们死没死吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 1037,
+          "like_count": 4936,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1681
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-27T09:06:39.000Z",
+        "description": "男/已婚/38岁 日记推 https://t.co/lTHzXm4cwc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kinodar",
+                "end": 36,
+                "expanded_url": "https://ngl.link/kinodar",
+                "start": 13,
+                "url": "https://t.co/lTHzXm4cwc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kinodarz.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://kinodarz.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/DtKsP3eOBk"
+              }
+            ]
+          }
+        },
+        "id": "989792932533223424",
+        "location": "Shanghai",
+        "name": "Kinodar",
+        "pinned_tweet_id": "1688373772225818624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005194038027436032/sbjch9Y7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 116,
+          "like_count": 16388,
+          "listed_count": 6,
+          "media_count": 2146,
+          "tweet_count": 9749
+        },
+        "url": "https://t.co/DtKsP3eOBk",
+        "username": "Kinodar_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T05:46:54.000Z",
+        "description": "日本留学の朝鮮族中国人🌟生活推｜🇨🇳🇯🇵🇰🇷🇬🇧ok ｜ 自由アートクリエイター 🎨创作者｜芸術文化 💕Art Concect Studio/絵画の依頼はご連絡ください｜Designer✍️｜杂谈絵系Vtuber（b站同名）｜泛性恋｜ 🏳️‍⚧️🏳️‍🌈友好｜ENTP ｜地雷系小女孩一枚｜",
+        "id": "1905496747637702659",
+        "name": "花見愛チヤ_i殿",
+        "pinned_tweet_id": "2002887421806162153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063028633082687488/Z1LDypqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2699,
+          "following_count": 540,
+          "like_count": 2230,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 530
+        },
+        "username": "xnm1213888",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2065275685640220871",
+    "created_at": "2026-06-12T03:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065275685640220871"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065275685640220871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "高考曾给我带来巨大的压力，那时的我经常会买上一根蓝色冰棒，把漏电的挑担含在嘴里，咬断冰棒的同时发出震耳欲聋的吼叫声，想象自己是一头成功吞下麒麟角的金狮子，在狂暴的电光中完成蜕变，成为强大无比的牙兽种之王。也只有幻想自己是一头在聚魔之地上窜下跳的猿神，感受着强大的雷电能量在我全身流转，我的灵魂才能得到一丝安宁"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "高考曾给我带来巨大的压力，那时的我经常会买上一根蓝色冰棒，把漏电的挑担含在嘴里，咬断冰棒的同时发出震耳欲聋的吼叫声，想象自己是一头成功吞下麒麟角的金狮子，在狂暴的电光中完成蜕变，成为强大无比的牙兽种之王。也只有幻想自己是一头在聚魔之地上窜下跳的猿神，感受着强大的雷电能量在我全身流"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2065275685640220871",
+        "created_at": "2026-06-12T03:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065275685640220871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065275685640220871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "高考曾给我带来巨大的压力，那时的我经常会买上一根蓝色冰棒，把漏电的挑担含在嘴里，咬断冰棒的同时发出震耳欲聋的吼叫声，想象自己是一头成功吞下麒麟角的金狮子，在狂暴的电光中完成蜕变，成为强大无比的牙兽种之王。也只有幻想自己是一头在聚魔之地上窜下跳的猿神，感受着强大的雷电能量在我全身流转，我的灵魂才能得到一丝安宁"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高考曾给我带来巨大的压力，那时的我经常会买上一根蓝色冰棒，把漏电的挑担含在嘴里，咬断冰棒的同时发出震耳欲聋的吼叫声，想象自己是一头成功吞下麒麟角的金狮子，在狂暴的电光中完成蜕变，成为强大无比的牙兽种之王。也只有幻想自己是一头在聚魔之地上窜下跳的猿神，感受着强大的雷电能量在我全身流"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 1037,
+          "like_count": 4929,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1677
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

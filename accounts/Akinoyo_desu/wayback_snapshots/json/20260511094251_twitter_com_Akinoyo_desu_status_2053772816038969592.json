@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2053722239640666238",
+    "created_at": "2026-05-11T09:42:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T10:42:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053772816038969592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1888428282192039936",
+          "start": 0,
+          "username": "babystar1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053772816038969592",
+    "in_reply_to_user_id": "1888428282192039936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053722239640666238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babystar1204 不带我玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2053722230446829568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBJfM0bMAA-yfC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2053722239640666238",
+        "created_at": "2026-05-11T09:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053772816038969592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1888428282192039936",
+              "start": 0,
+              "username": "babystar1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053772816038969592",
+        "in_reply_to_user_id": "1888428282192039936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053722239640666238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babystar1204 不带我玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053722230446829568"
+          ]
+        },
+        "author_id": "1888428282192039936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053722239640666238",
+        "created_at": "2026-05-11T06:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053722239640666238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jCAF1ybvdE",
+              "end": 27,
+              "expanded_url": "https://x.com/babystar1204/status/2053722239640666238/photo/1",
+              "media_key": "3_2053722230446829568",
+              "start": 4,
+              "url": "https://t.co/jCAF1ybvdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053722239640666238",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "集合！ https://t.co/jCAF1ybvdE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "旧名义：仿生喹硫平/关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 43,
+                "start": 29,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "shungleemain"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 992,
+          "like_count": 4501,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 1457
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-09T03:22:53.000Z",
+        "description": "他只是⋯轻轻地、慢慢地、摸着小小的猫。\n猫从没感觉过这样的暖，比太阳晒在背上还要安心。\n猫悄悄地想，\n这个暖暖的东西@dddlg28 可以当我的家吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "dddlg28"
+              }
+            ]
+          }
+        },
+        "id": "1888428282192039936",
+        "location": "终焉审判   降临",
+        "name": "生日快杀（纸烟电子烟🈶）",
+        "pinned_tweet_id": "2053460639990071333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053368656109948928/C8JAMyQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 73,
+          "like_count": 581,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 393
+        },
+        "username": "babystar1204",
+        "verified": false
+      }
+    ]
+  }
+}

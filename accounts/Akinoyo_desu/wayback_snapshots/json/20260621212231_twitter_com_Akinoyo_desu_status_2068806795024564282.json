@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068764476254695424"
+      ],
+      "media_source_tweet_id": [
+        "2068764481963094494"
+      ]
+    },
+    "author_id": "1567203042872926208",
+    "conversation_id": "2068806795024564282",
+    "created_at": "2026-06-21T21:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T22:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068806795024564282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1584397214461239296",
+          "start": 3,
+          "username": "aurumoxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xF2AfDqn64",
+          "end": 111,
+          "expanded_url": "https://x.com/aurumoxx/status/2068764481963094494/photo/1",
+          "media_key": "3_2068764476254695424",
+          "start": 88,
+          "url": "https://t.co/xF2AfDqn64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068806795024564282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068764481963094494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aurumoxx: 我的青春是NiKo尼古拉科维奇，52次EVP，10次TOP20，18次梦碎Major，3枪沙鹰，2次Major亚军，1次Major冠军，0次放弃！ https://t.co/xF2AfDqn64"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 468,
+        "media_key": "3_2068764476254695424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLW6VJMbsAAMQqy.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068764476254695424"
+          ],
+          "media_source_tweet_id": [
+            "2068764481963094494"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "2068806795024564282",
+        "created_at": "2026-06-21T21:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T22:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068806795024564282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1584397214461239296",
+              "start": 3,
+              "username": "aurumoxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xF2AfDqn64",
+              "end": 111,
+              "expanded_url": "https://x.com/aurumoxx/status/2068764481963094494/photo/1",
+              "media_key": "3_2068764476254695424",
+              "start": 88,
+              "url": "https://t.co/xF2AfDqn64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068806795024564282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068764481963094494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aurumoxx: 我的青春是NiKo尼古拉科维奇，52次EVP，10次TOP20，18次梦碎Major，3枪沙鹰，2次Major亚军，1次Major冠军，0次放弃！ https://t.co/xF2AfDqn64"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068764476254695424"
+          ]
+        },
+        "author_id": "1584397214461239296",
+        "conversation_id": "2068764481963094494",
+        "created_at": "2026-06-21T18:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068764481963094494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xF2AfDqn64",
+              "end": 97,
+              "expanded_url": "https://x.com/aurumoxx/status/2068764481963094494/photo/1",
+              "media_key": "3_2068764476254695424",
+              "start": 74,
+              "url": "https://t.co/xF2AfDqn64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068764481963094494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 229,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的青春是NiKo尼古拉科维奇，52次EVP，10次TOP20，18次梦碎Major，3枪沙鹰，2次Major亚军，1次Major冠军，0次放弃！ https://t.co/xF2AfDqn64"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 1051,
+          "like_count": 5023,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1733
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-24T04:11:59.000Z",
+        "description": "简中/繁中/ENG 刚高中毕业 https://t.co/W0JEc7ZdFM\n封图摄于新西兰 因佛卡吉尔|相机A7M4和奥巴em10|电子游戏|半个数字游民|半个烧佬|公路车|羽毛球|跑步|喜欢读社科、各种小说还有哲学和心理|杀软二次元(不纯)|钢琴和电吉他|重度数码爱好者",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurumo1",
+                "end": 39,
+                "expanded_url": "https://ngl.link/aurumo1",
+                "start": 16,
+                "url": "https://t.co/W0JEc7ZdFM"
+              }
+            ]
+          }
+        },
+        "id": "1584397214461239296",
+        "location": "泰拉 罗德岛",
+        "name": "Aurumo",
+        "pinned_tweet_id": "2065364900394975352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025543690190733312/oW0ovHyE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 206,
+          "like_count": 2096,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 409
+        },
+        "url": "",
+        "username": "aurumoxx",
+        "verified": true
+      }
+    ]
+  }
+}

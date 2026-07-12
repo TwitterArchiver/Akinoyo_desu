@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2029856466849648780",
+    "created_at": "2026-03-06T09:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T10:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029856466849648780"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/girlsbandcry/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/girlsbandcry/status/2029149864546672969",
+          "start": 6,
+          "url": "https://t.co/4MwMZehFSa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029856466849648780",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029149864546672969",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🕷️好可怕 https://t.co/4MwMZehFSa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2029071155878129664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCi1dz4bcAAxLyk.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2029856466849648780",
+        "created_at": "2026-03-06T09:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T10:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029856466849648780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/girlsbandcry/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/girlsbandcry/status/2029149864546672969",
+              "start": 6,
+              "url": "https://t.co/4MwMZehFSa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029856466849648780",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029149864546672969",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🕷️好可怕 https://t.co/4MwMZehFSa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029071155878129664"
+          ]
+        },
+        "author_id": "1646013705874976768",
+        "conversation_id": "2029149864546672969",
+        "created_at": "2026-03-04T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029149864546672969"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ガルクラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wk86ej9A5l",
+              "end": 29,
+              "expanded_url": "https://x.com/girlsbandcry/status/2029149864546672969/photo/1",
+              "media_key": "3_2029071155878129664",
+              "start": 6,
+              "url": "https://t.co/Wk86ej9A5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029149864546672969",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 292,
+          "impression_count": 379300,
+          "like_count": 5517,
+          "quote_count": 127,
+          "reply_count": 624,
+          "retweet_count": 600
+        },
+        "reply_settings": "everyone",
+        "text": "#ガルクラ https://t.co/Wk86ej9A5l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平/ 涘🧊@winterfruit_1 /聖 🍜@shungleemain /♠️🅰️@w0sh1Asak1 /渡 🚣‍♂️@justyanwu14/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shungleemain"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "justyanwu14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 119,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 96,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 777,
+          "like_count": 2984,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-12T04:53:52.000Z",
+        "description": "オリジナルアニメ『ガールズバンドクライ』公式アカウント\n各サービスにて全話配信中！劇場版総集編 前編・後編 製作決定！\n前編：10月3日(金)、後編：11月14日(金)公開！\n推奨ハッシュタグ： #ガルクラ #トゲナシトゲアリ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 98,
+                "tag": "ガルクラ"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "tag": "トゲナシトゲアリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "girls-band-cry.com",
+                "end": 23,
+                "expanded_url": "https://girls-band-cry.com/",
+                "start": 0,
+                "url": "https://t.co/HKW89YsJ1J"
+              }
+            ]
+          }
+        },
+        "id": "1646013705874976768",
+        "name": "アニメ『ガールズバンドクライ』公式",
+        "pinned_tweet_id": "1970458122259972378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741475331314536448/-CMk_tHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248991,
+          "following_count": 32,
+          "like_count": 3261,
+          "listed_count": 914,
+          "media_count": 2446,
+          "tweet_count": 5944
+        },
+        "url": "https://t.co/HKW89YsJ1J",
+        "username": "girlsbandcry",
+        "verified": true
+      }
+    ]
+  }
+}
