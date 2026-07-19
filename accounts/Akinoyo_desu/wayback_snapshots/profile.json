@@ -1,21 +1,45 @@
 {
   "name": "AkiNoYo！",
   "username": "@Akinoyo_desu",
-  "bio": "关注@PsydrugsWiki喵 里帐@Aki_MountainE 梨❤️@Eternal1uv9/@SummerTWT9 聖 🍜@shungleemain / 渡 ⛵️@noth1nghere14/",
+  "bio": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
   "location": "偉大的天國",
-  "link": "ngl.link/akinoyo",
+  "link": "https://ngl.link/akinoyo",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "",
   "bio_entities": {
-    "urls": [
+    "mentions": [
       {
-        "display_url": "ngl.link/akinoyo",
-        "end": 35,
-        "expanded_url": "https://ngl.link/akinoyo",
-        "start": 12,
-        "url": "https://t.co/IopkqyzpO2"
+        "end": 15,
+        "start": 2,
+        "username": "PsydrugsWiki"
+      },
+      {
+        "end": 33,
+        "start": 19,
+        "username": "Aki_MountainE"
+      },
+      {
+        "end": 49,
+        "start": 37,
+        "username": "Eternal1uv9"
+      },
+      {
+        "end": 61,
+        "start": 50,
+        "username": "SummerTWT9"
+      },
+      {
+        "end": 78,
+        "start": 65,
+        "username": "shungleemain"
+      },
+      {
+        "end": 99,
+        "start": 85,
+        "username": "noth1nghere14"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg"
 }
