@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2085691062589513740",
+    "created_at": "2026-08-07T11:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085691062589513740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1461457652576186371",
+          "start": 3,
+          "username": "Help35710585"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085691062589513740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964008708448702974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Help35710585: 重新写一个帖子吧\n真的很抱歉给很多人不停的发信息 发私信\n先给大家说一声对不起\n我真的是想求得大家的一次帮助 希望大家能帮帮我这一次 帮我一点一滴也好转发也好\n前面的帖子写的也好乱我重新整理了一下\n\n我的母亲是肺癌 小细胞肺癌\n我们是去年发现…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2085691062589513740",
+        "created_at": "2026-08-07T11:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085691062589513740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1461457652576186371",
+              "start": 3,
+              "username": "Help35710585"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085691062589513740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964008708448702974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Help35710585: 重新写一个帖子吧\n真的很抱歉给很多人不停的发信息 发私信\n先给大家说一声对不起\n我真的是想求得大家的一次帮助 希望大家能帮帮我这一次 帮我一点一滴也好转发也好\n前面的帖子写的也好乱我重新整理了一下\n\n我的母亲是肺癌 小细胞肺癌\n我们是去年发现…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1461457652576186371",
+        "conversation_id": "1964008708448702974",
+        "created_at": "2025-09-05T16:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T17:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964008708448702974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964008708448702974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "重新写一个帖子吧\n真的很抱歉给很多人不停的发信息 发私信\n先给大家说一声对不起\n我真的是想求得大家的一次帮助 希望大家能帮帮我这一次 帮我一点一滴也好转发也好\n前面的帖子写的也好乱我重新整理了一下\n\n我的母亲是肺癌 小细胞肺癌\n我们是去年发现的 去年发现了之后经历了6次化疗30次放疗 加上免疫治疗\n每次化疗完长效升白针是自费药\n免疫药是不在医保范围内的 也是自费药\n\n院内的我们有医保 还有商业保险基本上自己是不怎么花钱的 可能就是一些路费之类的不算多\n\n贵就贵在免疫药上 之前我们用的是国产阿得贝利 21天一次19800 买3次送3次\n再买三次2年内免费\n\n一直到今年七月我们又复发了 很多人其实不知道小细胞肺癌 小细胞肺癌是基本上癌症里最凶险的 五年生存率可以几乎说是没有吧\n\n复发之后现在正在化疗 免疫药就得更换\n要用进口的 也是买3次送三次 后面再买两次然后再援助\n\n我之前也是一个币圈的普通人吧 赚赚亏亏\n21年的时候亏挺多后面也放弃了几年\n一直在还债说实话 我妈也在替我还之前的债务\n\n我们如今是第九次化疗了我每个月给我妈也给钱 就还差这一点了其实 几万块钱\n可能圈外的人对我们这些不是很了解 很多人知道我以前炒币 亏钱什么根本不愿意借我\n我的微信除了送快递的开超市的说实在话我真的问完了 \n\n但凡我还有一丝一毫的办法 我真的不会这么卑微的求助\n\n我想说一下我的可以说是希望吧\n\n我希望大家能帮帮我 帮我筹到7000u\n这些可能在很多大v里不算多 但是对于我们普通人真的也算不小了 积少成多吧\n\n也许很多人说工作呀什么的\n我在工作 也不敢停 但是时间真的很紧迫\n我不敢把时间拉长去寄希望于运气\n希望他在我有足够钱的时候不要恶化\n\n当然也有人说贷款 水滴筹\n我疫情期间逾期过 这也怪我自己\n水滴筹呢我也加过 他们需要高额的花费才可以而且我们有保险院内的花费其实并不算大\n\n所以我真的是请求大家 恳请大家 \n帮帮我这一次 唯一的一次\n帮帮我这个曾经犯过错但是还想弥补 还想让妈妈开心的多活一点点时间的儿子的请求\n\n我是单亲家庭真的亲人也不算多\n外婆80多现在也在吃自费药血小板一直在10以下 这是我小姨在负担\n所以我真的没有能力去承担这次的费用了\n\n但是希望真的在眼前 我不想放弃\n再买就可以赠药了\n\n所以真的恳请大家帮帮我 \n帮帮我这唯一的一次\n帮帮我这个不算孝顺但是仍想弥补的儿子一次\n\n我的usdt收款trc\n\nTYUpqLAjW4AwkHitPeeufdbxx26pPGVxVd\n\n支付宝 18991553311\n\n我会记录好每一笔收到的钱\n后面我好起来也会一点一点一笔一笔的偿还\n\n真的拜托大家"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 67783,
+          "like_count": 75,
+          "quote_count": 10,
+          "reply_count": 42,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "重新写一个帖子吧\n真的很抱歉给很多人不停的发信息 发私信\n先给大家说一声对不起\n我真的是想求得大家的一次帮助 希望大家能帮帮我这一次 帮我一点一滴也好转发也好\n前面的帖子写的也好乱我重新整理了一下\n\n我的母亲是肺癌 小细胞肺癌\n我们是去年发现的 去年发现了之后经历了6次化疗30次放疗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 1083,
+          "like_count": 5272,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 1794
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-18T22:13:58.000Z",
+        "description": "",
+        "id": "1461457652576186371",
+        "name": "起名字真费事儿",
+        "pinned_tweet_id": "1964008708448702974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896903813493297152/k_dkPXvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 561,
+          "like_count": 8284,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 3119
+        },
+        "url": "",
+        "username": "Help35710585",
+        "verified": true
+      }
+    ]
+  }
+}

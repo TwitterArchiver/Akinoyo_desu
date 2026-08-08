@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2078897361729036314",
+    "created_at": "2026-07-22T05:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T06:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079797854529548766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063957681984225280",
+          "start": 0,
+          "username": "YuwenMewo"
+        },
+        {
+          "end": 25,
+          "id": "1790448736629301248",
+          "start": 11,
+          "username": "xijinping_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079797854529548766",
+    "in_reply_to_user_id": "2063957681984225280",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078897361729036314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuwenMewo @xijinping_bot Edward Play"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1740,
+        "media_key": "3_2078897353877291008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNm6IP5bAAAgoz7.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2078897361729036314",
+        "created_at": "2026-07-22T05:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079797854529548766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063957681984225280",
+              "start": 0,
+              "username": "YuwenMewo"
+            },
+            {
+              "end": 25,
+              "id": "1790448736629301248",
+              "start": 11,
+              "username": "xijinping_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079797854529548766",
+        "in_reply_to_user_id": "2063957681984225280",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078897361729036314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuwenMewo @xijinping_bot Edward Play"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078897353877291008"
+          ]
+        },
+        "author_id": "2063957681984225280",
+        "conversation_id": "2078897361729036314",
+        "created_at": "2026-07-19T17:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078897361729036314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KDffTPwSx4",
+              "end": 23,
+              "expanded_url": "https://x.com/YuwenMewo/status/2078897361729036314/photo/1",
+              "media_key": "3_2078897353877291008",
+              "start": 0,
+              "url": "https://t.co/KDffTPwSx4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078897361729036314",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1295,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KDffTPwSx4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 1076,
+          "like_count": 5166,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1767
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2078947357216170444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 79,
+          "like_count": 177,
+          "listed_count": 5,
+          "media_count": 599,
+          "tweet_count": 1704
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "📕🔪/异端毛派/利伯塔利亚通/打倒马原、清算苏系/驱逐汉畜，恢复马列/#我的史观 #精神探索 #奇异搞笑/慰安女权主义/毛泽东万寿无疆，毛主席遗臭万年",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 35,
+                "tag": "我的史观"
+              },
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "精神探索"
+              },
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "奇异搞笑"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deerjisiquanjia.com",
+                "end": 23,
+                "expanded_url": "http://deerjisiquanjia.com",
+                "start": 0,
+                "url": "https://t.co/ZQF7vW5rWC"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "武汉0731研究院",
+        "name": "哲学船与专政鞭🇮🇷⛏️——色指导私人医生回忆录",
+        "pinned_tweet_id": "2079068173228249152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076205963405856768/wOyb_Dwi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 1600,
+          "like_count": 26663,
+          "listed_count": 16,
+          "media_count": 1039,
+          "tweet_count": 20907
+        },
+        "url": "https://t.co/ZQF7vW5rWC",
+        "username": "xijinping_bot",
+        "verified": false
+      }
+    ]
+  }
+}

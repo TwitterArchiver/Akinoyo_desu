@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083952261827612672"
+      ]
+    },
+    "author_id": "1567203042872926208",
+    "conversation_id": "2083952288310480958",
+    "created_at": "2026-08-02T16:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083952288310480958"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/taqaaQOW1i",
+          "end": 43,
+          "expanded_url": "https://x.com/Akinoyo_desu/status/2083952288310480958/video/1",
+          "media_key": "13_2083952261827612672",
+          "start": 20,
+          "url": "https://t.co/taqaaQOW1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083952288310480958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "炫神原话：这些妖天天都在幻想着他妈永生 https://t.co/taqaaQOW1i"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15040,
+        "height": 472,
+        "media_key": "13_2083952261827612672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083952261827612672/img/KyKNKotRpd6yIVqW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083952261827612672/vid/avc1/488x270/w1-4st4pIg6GBLCD.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083952261827612672/vid/avc1/854x472/gTv930fYl-pTXhFA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083952261827612672/pl/MglQvTCGNo8bAyTI.m3u8"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083952261827612672"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "2083952288310480958",
+        "created_at": "2026-08-02T16:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083952288310480958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/taqaaQOW1i",
+              "end": 43,
+              "expanded_url": "https://x.com/Akinoyo_desu/status/2083952288310480958/video/1",
+              "media_key": "13_2083952261827612672",
+              "start": 20,
+              "url": "https://t.co/taqaaQOW1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083952288310480958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炫神原话：这些妖天天都在幻想着他妈永生 https://t.co/taqaaQOW1i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 1090,
+          "like_count": 5263,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 1791
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

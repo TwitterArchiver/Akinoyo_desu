@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2079591534996152771",
+    "created_at": "2026-07-22T03:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079774151817224583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "850718260362321924",
+          "start": 0,
+          "username": "ainikamal1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079774151817224583",
+    "in_reply_to_user_id": "850718260362321924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079591534996152771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ainikamal1 豪哥想增肥了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079589290850611200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwvcR_bcAAhaL7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2079591534996152771",
+        "created_at": "2026-07-22T03:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079774151817224583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "850718260362321924",
+              "start": 0,
+              "username": "ainikamal1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079774151817224583",
+        "in_reply_to_user_id": "850718260362321924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079591534996152771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ainikamal1 豪哥想增肥了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079589290850611200"
+          ]
+        },
+        "author_id": "850718260362321924",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079591534996152771",
+        "created_at": "2026-07-21T15:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079591534996152771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rL706gmnya",
+              "end": 32,
+              "expanded_url": "https://x.com/ainikamal1/status/2079591534996152771/photo/1",
+              "media_key": "3_2079589290850611200",
+              "start": 9,
+              "url": "https://t.co/rL706gmnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079591534996152771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "简单吃点 米氮平 https://t.co/rL706gmnya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 1076,
+          "like_count": 5166,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1766
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-08T14:33:33.000Z",
+        "description": "她们可以慕强 看脸 爱权 拜金也可以看不起同龄人年少时的单纯\n\n避难所 @Ne1lHeyw00d",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "Ne1lHeyw00d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/l1junha0",
+                "end": 23,
+                "expanded_url": "http://t.me/l1junha0",
+                "start": 0,
+                "url": "https://t.co/AKlKxiJUjl"
+              }
+            ]
+          }
+        },
+        "id": "850718260362321924",
+        "location": "四海为家",
+        "name": "纯真双眼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075826664219815936/4cdNmJ_y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 21,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/AKlKxiJUjl",
+        "username": "ainikamal1",
+        "verified": false
+      }
+    ]
+  }
+}

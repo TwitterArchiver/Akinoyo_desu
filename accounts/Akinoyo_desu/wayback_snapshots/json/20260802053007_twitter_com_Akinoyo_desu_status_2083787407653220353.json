@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2083652180746391706",
+    "created_at": "2026-08-02T05:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083787407653220353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2072212087913541632",
+          "start": 0,
+          "username": "KKKillua07070"
+        },
+        {
+          "end": 25,
+          "id": "1778696847563104256",
+          "start": 15,
+          "username": "gold_bihu"
+        },
+        {
+          "end": 42,
+          "id": "2033892007937249284",
+          "start": 26,
+          "username": "Overdose_Aether"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083787407653220353",
+    "in_reply_to_user_id": "2072212087913541632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083786673310298418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKKillua07070 @gold_bihu @Overdose_Aether 你也给我转😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2083652180746391706",
+        "created_at": "2026-08-02T05:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083787407653220353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2072212087913541632",
+              "start": 0,
+              "username": "KKKillua07070"
+            },
+            {
+              "end": 25,
+              "id": "1778696847563104256",
+              "start": 15,
+              "username": "gold_bihu"
+            },
+            {
+              "end": 42,
+              "id": "2033892007937249284",
+              "start": 26,
+              "username": "Overdose_Aether"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083787407653220353",
+        "in_reply_to_user_id": "2072212087913541632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083786673310298418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKKillua07070 @gold_bihu @Overdose_Aether 你也给我转😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072212087913541632",
+        "conversation_id": "2083652180746391706",
+        "created_at": "2026-08-02T05:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083786673310298418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778696847563104256",
+              "start": 0,
+              "username": "gold_bihu"
+            },
+            {
+              "end": 24,
+              "id": "1567203042872926208",
+              "start": 11,
+              "username": "Akinoyo_desu"
+            },
+            {
+              "end": 41,
+              "id": "2033892007937249284",
+              "start": 25,
+              "username": "Overdose_Aether"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083786673310298418",
+        "in_reply_to_user_id": "1778696847563104256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083785704791028191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gold_bihu @Akinoyo_desu @Overdose_Aether 婊子扫叫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 1090,
+          "like_count": 5256,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-01T06:59:28.000Z",
+        "description": "看我不爽的可以骂我这个号@gold_bihu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "gold_bihu"
+              }
+            ]
+          }
+        },
+        "id": "2072212087913541632",
+        "location": "主营业务：活人变死 白事大全",
+        "name": "CAT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074537246796177408/ZdekxEIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "KKKillua07070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "od🐛｜同类互fo｜喜欢一切有意思的东西｜💊od:https://t.co/S8S0zEK1mv｜万幸在今天已经鱼龙混杂的互联网里，总有一个角落容许我们遇见:@KKKillua07070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "KKKillua07070"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 48,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 25,
+                "url": "https://t.co/S8S0zEK1mv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zssl30",
+                "end": 23,
+                "expanded_url": "http://t.me/zssl30",
+                "start": 0,
+                "url": "https://t.co/KYuxfpJQLx"
+              }
+            ]
+          }
+        },
+        "id": "1778696847563104256",
+        "name": "多拉贡",
+        "pinned_tweet_id": "2024004502555074878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009205027009859584/M8J2SLDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 515,
+          "like_count": 11638,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 2671
+        },
+        "url": "https://t.co/KYuxfpJQLx",
+        "username": "gold_bihu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T13:04:15.000Z",
+        "description": "小糖铺子，分享好吃的糖🍬 tg分享频道https://t.co/oEbYzOtKnL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/AetherLAB01",
+                "end": 42,
+                "expanded_url": "https://t.me/AetherLAB01",
+                "start": 19,
+                "url": "https://t.co/oEbYzOtKnL"
+              }
+            ]
+          }
+        },
+        "id": "2033892007937249284",
+        "location": "Carina",
+        "name": "⚛️Aether 🅻🅰🅱🍬",
+        "pinned_tweet_id": "2079910717755675083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070200170030215168/CGg-EHDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 73,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "Overdose_Aether",
+        "verified": false
+      }
+    ]
+  }
+}
