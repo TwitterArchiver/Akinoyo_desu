@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090392053276631040",
+        "3_2090392053226311680"
+      ],
+      "media_source_tweet_id": [
+        "2090392070007767291",
+        "2090392070007767291"
+      ]
+    },
+    "author_id": "1567203042872926208",
+    "conversation_id": "2090686030710284417",
+    "created_at": "2026-08-21T06:22:47.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T07:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090686030710284417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1569261027090472964",
+          "start": 3,
+          "username": "isnowzerocovid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uJ0GyQk4pk",
+          "end": 60,
+          "expanded_url": "https://x.com/isnowzerocovid/status/2090392070007767291/photo/1",
+          "media_key": "3_2090392053276631040",
+          "start": 37,
+          "url": "https://t.co/uJ0GyQk4pk"
+        },
+        {
+          "display_url": "pic.x.com/uJ0GyQk4pk",
+          "end": 60,
+          "expanded_url": "https://x.com/isnowzerocovid/status/2090392070007767291/photo/1",
+          "media_key": "3_2090392053226311680",
+          "start": 37,
+          "url": "https://t.co/uJ0GyQk4pk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090686030710284417",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090392053276631040"
+      },
+      {
+        "media_key": "3_2090392053226311680"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 126
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090392070007767291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @isnowzerocovid: 许家印牛逼啊，把刘少奇叫来顶包？ https://t.co/uJ0GyQk4pk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 615,
+        "media_key": "3_2090392053276631040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKQf0DaYAA1Ou8.jpg",
+        "width": 490
+      },
+      {
+        "height": 267,
+        "media_key": "3_2090392053226311680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKQfz3akAA3dpb.jpg",
+        "width": 189
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090392053276631040",
+            "3_2090392053226311680"
+          ],
+          "media_source_tweet_id": [
+            "2090392070007767291",
+            "2090392070007767291"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "2090686030710284417",
+        "created_at": "2026-08-21T06:22:47.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090686030710284417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1569261027090472964",
+              "start": 3,
+              "username": "isnowzerocovid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJ0GyQk4pk",
+              "end": 60,
+              "expanded_url": "https://x.com/isnowzerocovid/status/2090392070007767291/photo/1",
+              "media_key": "3_2090392053276631040",
+              "start": 37,
+              "url": "https://t.co/uJ0GyQk4pk"
+            },
+            {
+              "display_url": "pic.x.com/uJ0GyQk4pk",
+              "end": 60,
+              "expanded_url": "https://x.com/isnowzerocovid/status/2090392070007767291/photo/1",
+              "media_key": "3_2090392053226311680",
+              "start": 37,
+              "url": "https://t.co/uJ0GyQk4pk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090686030710284417",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090392053276631040"
+          },
+          {
+            "media_key": "3_2090392053226311680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090392070007767291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @isnowzerocovid: 许家印牛逼啊，把刘少奇叫来顶包？ https://t.co/uJ0GyQk4pk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090392053276631040",
+            "3_2090392053226311680"
+          ]
+        },
+        "author_id": "1569261027090472964",
+        "conversation_id": "2090392070007767291",
+        "created_at": "2026-08-20T10:54:41.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T11:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090392070007767291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJ0GyQk4pk",
+              "end": 40,
+              "expanded_url": "https://x.com/isnowzerocovid/status/2090392070007767291/photo/1",
+              "media_key": "3_2090392053276631040",
+              "start": 17,
+              "url": "https://t.co/uJ0GyQk4pk"
+            },
+            {
+              "display_url": "pic.x.com/uJ0GyQk4pk",
+              "end": 40,
+              "expanded_url": "https://x.com/isnowzerocovid/status/2090392070007767291/photo/1",
+              "media_key": "3_2090392053226311680",
+              "start": 17,
+              "url": "https://t.co/uJ0GyQk4pk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090392070007767291",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090392053276631040"
+          },
+          {
+            "media_key": "3_2090392053226311680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 320,
+          "impression_count": 303306,
+          "like_count": 2945,
+          "quote_count": 10,
+          "reply_count": 370,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "许家印牛逼啊，把刘少奇叫来顶包？ https://t.co/uJ0GyQk4pk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2090686030710284417",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 1080,
+          "like_count": 5361,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 1824
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-12T09:46:10.000Z",
+        "description": "🎖️中国第一带货王，我爱熟女美声歌唱家🇨🇳🇦🇺🇸🇬➡️🇺🇸纯粹恶趣味，很少键政(只講幹話) 黄推bot会手工隐藏回复+spam，有本事你就多发点",
+        "id": "1569261027090472964",
+        "is_identity_verified": false,
+        "location": "最近核酸检测：1.3km",
+        "most_recent_tweet_id": "2090638997941105105",
+        "name": "钟莲花🪷延寿150岁工程总设计师",
+        "pinned_tweet_id": "1768855231327326705",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1569261027090472964/1679480989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779520724694339584/5cf6RJ5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5843,
+          "following_count": 714,
+          "like_count": 51240,
+          "listed_count": 30,
+          "media_count": 1733,
+          "tweet_count": 16738
+        },
+        "url": "",
+        "username": "isnowzerocovid",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2087995166414274602",
+    "created_at": "2026-08-14T07:00:54.000Z",
+    "display_text_range": [
+      29,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T08:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088158909962002544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1992140394679910400",
+          "start": 0,
+          "username": "Overdose_DID"
+        },
+        {
+          "end": 28,
+          "id": "1987805389904396288",
+          "start": 14,
+          "username": "HaruYukii0421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088158909962002544",
+    "in_reply_to_user_id": "1992140394679910400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088099561051230603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DID @HaruYukii0421 史上最快注销"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 274,
+        "media_key": "3_2088099555191726080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpre3LaoAAphtA.jpg",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2087995166414274602",
+        "created_at": "2026-08-14T07:00:54.000Z",
+        "display_text_range": [
+          29,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088158909962002544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1992140394679910400",
+              "start": 0,
+              "username": "Overdose_DID"
+            },
+            {
+              "end": 28,
+              "id": "1987805389904396288",
+              "start": 14,
+              "username": "HaruYukii0421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088158909962002544",
+        "in_reply_to_user_id": "1992140394679910400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088099561051230603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DID @HaruYukii0421 史上最快注销"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088099555191726080"
+          ]
+        },
+        "author_id": "1992140394679910400",
+        "conversation_id": "2087995166414274602",
+        "created_at": "2026-08-14T03:05:05.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088099561051230603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1987805389904396288",
+              "start": 0,
+              "username": "HaruYukii0421"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9JncU8zz5p",
+              "end": 46,
+              "expanded_url": "https://x.com/Overdose_DID/status/2088099561051230603/photo/1",
+              "media_key": "3_2088099555191726080",
+              "start": 23,
+              "url": "https://t.co/9JncU8zz5p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088099561051230603",
+        "in_reply_to_user_id": "1987805389904396288",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088099555191726080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087995166414274602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaruYukii0421 是不是这个人（ https://t.co/9JncU8zz5p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2088158909962002544",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 1082,
+          "like_count": 5301,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 1807
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-22T07:57:50.000Z",
+        "description": "滥用就是吸毒！",
+        "id": "1992140394679910400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088137204052996293",
+        "name": "超级橘橘橘雪莉",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044115223045603328/ioalwIhk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 32,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "Overdose_DID",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T08:52:10.000Z",
+        "description": "🔪💊❤️\n互fo互fo互fo喵喵",
+        "id": "1987805389904396288",
+        "is_identity_verified": false,
+        "location": "请输入文本",
+        "most_recent_tweet_id": "2088154532853543353",
+        "name": "迟羊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987805389904396288/1785696784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073347565870059520/NVJw553W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 420,
+          "like_count": 5356,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 418
+        },
+        "url": "",
+        "username": "HaruYukii0421",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

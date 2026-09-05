@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2081798773513335152",
+    "created_at": "2026-07-28T01:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081919265817702718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2009802986600767489",
+          "start": 0,
+          "username": "_mucha_000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081919265817702718",
+    "in_reply_to_user_id": "2009802986600767489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081798773513335152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_mucha_000 恭喜！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2081798773513335152",
+        "created_at": "2026-07-28T01:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081919265817702718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2009802986600767489",
+              "start": 0,
+              "username": "_mucha_000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081919265817702718",
+        "in_reply_to_user_id": "2009802986600767489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081798773513335152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_mucha_000 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009802986600767489",
+        "conversation_id": "2081798773513335152",
+        "created_at": "2026-07-27T17:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081798773513335152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081798773513335152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们你们知道吗？我被麻醉学录取了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "AkiNoYo！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 1094,
+          "like_count": 5208,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1781
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-10T01:42:27.000Z",
+        "description": "今天有没有想我！前世互关寻回中… | 拖家带口→@Draft_000319 | @elsa_yrt | @Dominant_E | 写歌的 | 做视频的 | 戒药一年了也不打算再吃了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "Draft_000319"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "elsa_yrt"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "Dominant_E"
+              }
+            ]
+          }
+        },
+        "id": "2009802986600767489",
+        "location": "疯人院里猫咪多",
+        "name": "旋宫牧雨2.0",
+        "pinned_tweet_id": "2069474428682182690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068756861625704448/aoZSfs8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 142,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "_mucha_000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2091249334574821438",
+    "created_at": "2026-08-22T19:41:09.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T20:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091249334574821438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600401143863336961",
+          "start": 3,
+          "username": "yusu_211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091249334574821438",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11338
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090678241027854621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yusu_211: 俺のちんこデカすぎて射精すると日本中で雨降る"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2091249334574821438",
+        "created_at": "2026-08-22T19:41:09.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T20:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091249334574821438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600401143863336961",
+              "start": 3,
+              "username": "yusu_211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091249334574821438",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11338
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090678241027854621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yusu_211: 俺のちんこデカすぎて射精すると日本中で雨降る"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600401143863336961",
+        "conversation_id": "2090678241027854621",
+        "created_at": "2026-08-21T05:51:50.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090678241027854621"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090678241027854621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4347,
+          "impression_count": 2713921,
+          "like_count": 82295,
+          "quote_count": 2179,
+          "reply_count": 1041,
+          "retweet_count": 11338
+        },
+        "reply_settings": "everyone",
+        "text": "俺のちんこデカすぎて射精すると日本中で雨降る"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n渡 ⛵️@noth1nghere14/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2091249334574821438",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 1081,
+          "like_count": 5368,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 1828
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-07T08:06:07.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCruhJ…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCruhJycHHzoVCIRvL0wg4OQ?feature=shared",
+                "start": 0,
+                "url": "https://t.co/5Z42LL47ze"
+              }
+            ]
+          }
+        },
+        "id": "1600401143863336961",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091120249760591903",
+        "name": "ゆす",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600401143863336961/1775096457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984225289858437120/W844QErL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4365,
+          "following_count": 207,
+          "like_count": 56277,
+          "listed_count": 15,
+          "media_count": 2055,
+          "tweet_count": 12838
+        },
+        "url": "https://t.co/5Z42LL47ze",
+        "username": "yusu_211",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
