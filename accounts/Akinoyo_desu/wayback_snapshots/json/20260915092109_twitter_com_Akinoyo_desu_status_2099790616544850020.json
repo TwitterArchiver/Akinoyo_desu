@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2099755095466381370",
+    "created_at": "2026-09-15T09:21:09.000Z",
+    "display_text_range": [
+      15,
+      160
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T10:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099790616544850020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857802986837172224",
+          "start": 0,
+          "username": "LingJiaXin233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099790616544850020",
+    "in_reply_to_user_id": "1857802986837172224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "他记得有一次他在一条拥挤的街上走，突然前面一条横街上有几百个人的声音——女人的声音——在大声叫喊。这是一种不可轻侮的愤怒和绝望的大声叫喊，声音又大又深沉，“噢——噢——噢！”，就象钟声一样回荡很久。他的心蹦蹦地跳。开始了！他这么想。发生了骚乱！无产者终于冲破了羁绊！当他到出事的地点时，看到的却是二三百个妇女拥在街头市场的货摊周围，脸上表情凄惨，好象一条沉船上不能得救的乘客一样。原来是一片绝望，这时又分散成为许许多多个别的争吵。原来是有一个货摊在卖铁锅。都是一些一碰就破的蹩脚货，但是炊事用具不论哪种都一直很难买到。卖到后来，货源忽然中断。买到手的妇女在别人推搡拥挤之下要想拿着买到的锅子赶紧走开，其他许多没有买到的妇女就围着货摊叫嚷，责怪摊贩开后门，另外留着锅子不卖。又有人一阵叫嚷。有两个面红耳赤的妇女，其中一个被头散发，都抢着一只锅子，要想从对方的手中夺下来。她们两人抢来抢去，锅把就掉了下来。温斯顿厌恶地看着她们。可是，就在刚才一刹那，几百个人的嗓子的叫声里却表现了几乎令人可怕的力量！为什么她们在真正重要的问题上却总不能这样喊叫呢？"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099755095466381370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingJiaXin233 他记得有一次他在一条拥挤的街上走，突然前面一条横街上有几百个人的声音——女人的声音——在大声叫喊。这是一种不可轻侮的愤怒和绝望的大声叫喊，声音又大又深沉，“噢——噢——噢！”，就象钟声一样回荡很久。他的心蹦蹦地跳。开始了！他这么想。发生了骚乱！无产者终于冲破了羁绊！当他到出事的地点时，看到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_2099277378077999104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSIhpyVaQAAyvZA.jpg",
+        "width": 762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2099755095466381370",
+        "created_at": "2026-09-15T09:21:09.000Z",
+        "display_text_range": [
+          15,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099790616544850020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099790616544850020",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "他记得有一次他在一条拥挤的街上走，突然前面一条横街上有几百个人的声音——女人的声音——在大声叫喊。这是一种不可轻侮的愤怒和绝望的大声叫喊，声音又大又深沉，“噢——噢——噢！”，就象钟声一样回荡很久。他的心蹦蹦地跳。开始了！他这么想。发生了骚乱！无产者终于冲破了羁绊！当他到出事的地点时，看到的却是二三百个妇女拥在街头市场的货摊周围，脸上表情凄惨，好象一条沉船上不能得救的乘客一样。原来是一片绝望，这时又分散成为许许多多个别的争吵。原来是有一个货摊在卖铁锅。都是一些一碰就破的蹩脚货，但是炊事用具不论哪种都一直很难买到。卖到后来，货源忽然中断。买到手的妇女在别人推搡拥挤之下要想拿着买到的锅子赶紧走开，其他许多没有买到的妇女就围着货摊叫嚷，责怪摊贩开后门，另外留着锅子不卖。又有人一阵叫嚷。有两个面红耳赤的妇女，其中一个被头散发，都抢着一只锅子，要想从对方的手中夺下来。她们两人抢来抢去，锅把就掉了下来。温斯顿厌恶地看着她们。可是，就在刚才一刹那，几百个人的嗓子的叫声里却表现了几乎令人可怕的力量！为什么她们在真正重要的问题上却总不能这样喊叫呢？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099755095466381370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 他记得有一次他在一条拥挤的街上走，突然前面一条横街上有几百个人的声音——女人的声音——在大声叫喊。这是一种不可轻侮的愤怒和绝望的大声叫喊，声音又大又深沉，“噢——噢——噢！”，就象钟声一样回荡很久。他的心蹦蹦地跳。开始了！他这么想。发生了骚乱！无产者终于冲破了羁绊！当他到出事的地点时，看到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099277378077999104"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2099755095466381370",
+        "created_at": "2026-09-15T07:00:00.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T08:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099755095466381370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ac51Xj4cl",
+              "end": 47,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2099755095466381370/photo/1",
+              "media_key": "3_2099277378077999104",
+              "start": 24,
+              "url": "https://t.co/0ac51Xj4cl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099755095466381370",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099277378077999104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5517,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "并不是组织能力比男生强，是特么压根就没人管她们 https://t.co/0ac51Xj4cl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /\n晓 @Tianxiao0502",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 32,
+                "start": 20,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "shungleemain"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Tianxiao0502"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2099790629857542208",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 1103,
+          "like_count": 5724,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1921
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sonora233.cn",
+                "end": 23,
+                "expanded_url": "http://sonora233.cn",
+                "start": 0,
+                "url": "https://t.co/ZNjGnQNCmQ"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2099786811232964934",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2099786811232964934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11693,
+          "following_count": 1429,
+          "like_count": 21000,
+          "listed_count": 23,
+          "media_count": 3122,
+          "tweet_count": 6928
+        },
+        "url": "https://t.co/ZNjGnQNCmQ",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

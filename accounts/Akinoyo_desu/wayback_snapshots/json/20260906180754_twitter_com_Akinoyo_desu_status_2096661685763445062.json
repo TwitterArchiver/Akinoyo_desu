@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2096303310924116074",
+    "created_at": "2026-09-06T18:07:54.000Z",
+    "display_text_range": [
+      42,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T19:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096661685763445062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1013526829",
+          "start": 0,
+          "username": "TGbabycost"
+        },
+        {
+          "end": 27,
+          "id": "1163051031334445057",
+          "start": 12,
+          "username": "Sakana47411851"
+        },
+        {
+          "end": 41,
+          "id": "1935420089186336768",
+          "start": 28,
+          "username": "ASplendour15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096661685763445062",
+    "in_reply_to_user_id": "1013526829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096457455895237096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TGbabycost @Sakana47411851 @ASplendour15 请问od是什么意思？私我科普一下好吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2096303310924116074",
+        "created_at": "2026-09-06T18:07:54.000Z",
+        "display_text_range": [
+          42,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T19:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096661685763445062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1013526829",
+              "start": 0,
+              "username": "TGbabycost"
+            },
+            {
+              "end": 27,
+              "id": "1163051031334445057",
+              "start": 12,
+              "username": "Sakana47411851"
+            },
+            {
+              "end": 41,
+              "id": "1935420089186336768",
+              "start": 28,
+              "username": "ASplendour15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096661685763445062",
+        "in_reply_to_user_id": "1013526829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096457455895237096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TGbabycost @Sakana47411851 @ASplendour15 请问od是什么意思？私我科普一下好吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1013526829",
+        "conversation_id": "2096303310924116074",
+        "created_at": "2026-09-06T04:36:22.000Z",
+        "display_text_range": [
+          30,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096457455895237096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1163051031334445057",
+              "start": 0,
+              "username": "Sakana47411851"
+            },
+            {
+              "end": 29,
+              "id": "1935420089186336768",
+              "start": 16,
+              "username": "ASplendour15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096457455895237096",
+        "in_reply_to_user_id": "1163051031334445057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1048,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096303310924116074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakana47411851 @ASplendour15 请问od是什么意思？私我科普一下好吗。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "K1ku21_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyyRYu"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2096661685763445062",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 1085,
+          "like_count": 5468,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1859
+        },
+        "url": "https://t.co/IopkqyyRYu",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-12-15T16:26:30.000Z",
+        "description": "لا تجادل الأحمق فقد يخطئ الناس في التفريق بينكما.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/babycost",
+                "end": 23,
+                "expanded_url": "http://t.me/babycost",
+                "start": 0,
+                "url": "https://t.co/7SzUBiJ5EI"
+              }
+            ]
+          }
+        },
+        "id": "1013526829",
+        "is_identity_verified": true,
+        "location": "pm",
+        "most_recent_tweet_id": "2096607852601454777",
+        "name": "22",
+        "pinned_tweet_id": "2095594348532621561",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1013526829/1786438561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087098408909811712/mfNESRHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2749,
+          "following_count": 236,
+          "like_count": 209,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 41393
+        },
+        "url": "https://t.co/7SzUBiJ5EI",
+        "username": "TGbabycost",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-18T11:32:41.000Z",
+        "description": "Hiiiii",
+        "id": "1163051031334445057",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096303378842386918",
+        "name": "Sakana",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1163051184883666944/a73sUvGR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 355,
+          "like_count": 106,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "Sakana47411851",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "前世@AnIncandescence\n我会一直恨平台不公的判决和举报的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AnIncandescence"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescenc…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "start": 0,
+                "url": "https://t.co/exk0RhRMOb"
+              }
+            ]
+          }
+        },
+        "id": "1935420089186336768",
+        "is_identity_verified": false,
+        "location": "夜航忒修斯",
+        "most_recent_tweet_id": "2043637821999894940",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1935420089186336768/1766478013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 92,
+          "like_count": 303,
+          "listed_count": 6,
+          "media_count": 39,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/exk0RhRMOb",
+        "username": "ASplendour15",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

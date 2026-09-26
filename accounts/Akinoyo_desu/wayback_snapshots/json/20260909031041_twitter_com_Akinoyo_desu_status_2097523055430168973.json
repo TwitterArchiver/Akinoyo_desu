@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2097523055430168973",
+    "created_at": "2026-09-09T03:10:41.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T04:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097523055430168973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "165407871",
+          "start": 3,
+          "username": "Solitude_Sola"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097523055430168973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097175601157415297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Solitude_Sola: 你国人能用“福”字来代替“逼”真是有够变态的，到春节不觉得奇怪吗，家家户户门上贴个逼，不知道的还以为来到索多玛了呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2097523055430168973",
+        "created_at": "2026-09-09T03:10:41.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097523055430168973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "165407871",
+              "start": 3,
+              "username": "Solitude_Sola"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097523055430168973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097175601157415297",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Solitude_Sola: 你国人能用“福”字来代替“逼”真是有够变态的，到春节不觉得奇怪吗，家家户户门上贴个逼，不知道的还以为来到索多玛了呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "165407871",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2097175601157415297",
+        "created_at": "2026-09-08T04:10:01.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097175601157415297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097175601157415297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13096,
+          "like_count": 244,
+          "quote_count": 3,
+          "reply_count": 64,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "你国人能用“福”字来代替“逼”真是有够变态的，到春节不觉得奇怪吗，家家户户门上贴个逼，不知道的还以为来到索多玛了呢。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "K1ku21_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyyRYu"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2097523055430168973",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 1092,
+          "like_count": 5551,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1879
+        },
+        "url": "https://t.co/IopkqyyRYu",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-07-11T13:41:45.000Z",
+        "description": "守序邪恶 == 真名宿敌\n\n万般皆下品，唯有狞狞高。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Solitude_Sola",
+                "end": 23,
+                "expanded_url": "http://t.me/Solitude_Sola",
+                "start": 0,
+                "url": "https://t.co/bwcOewi77e"
+              }
+            ]
+          }
+        },
+        "id": "165407871",
+        "is_identity_verified": false,
+        "location": "投身之所",
+        "most_recent_tweet_id": "2097502845423812804",
+        "name": "空空 🌟 狞猫世界第一可爱！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/165407871/1764255037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1422573861787209730/RJWO2Gsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20235,
+          "following_count": 545,
+          "like_count": 560,
+          "listed_count": 122,
+          "media_count": 21271,
+          "tweet_count": 71203
+        },
+        "url": "https://t.co/bwcOewi77e",
+        "username": "Solitude_Sola",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2094416106530144471",
+    "created_at": "2026-08-31T13:53:29.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T14:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094423332703887565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1586332050528915457",
+          "start": 0,
+          "username": "lilaoshizuikeai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094423332703887565",
+    "in_reply_to_user_id": "1586332050528915457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094416106530144471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilaoshizuikeai 李大叔这么有理解啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2094416106530144471",
+        "created_at": "2026-08-31T13:53:29.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T14:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094423332703887565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1586332050528915457",
+              "start": 0,
+              "username": "lilaoshizuikeai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094423332703887565",
+        "in_reply_to_user_id": "1586332050528915457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094416106530144471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilaoshizuikeai 李大叔这么有理解啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586332050528915457",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2094416106530144471",
+        "created_at": "2026-08-31T13:24:46.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T14:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094416106530144471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lilaoshizuikea…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/lilaoshizuikeai/status/2094402324370207185",
+              "start": 126,
+              "url": "https://t.co/lNKUNQNMJ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094416106530144471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "当然，这也就引申出另一个问题：很多人其实过于陷入个体的“宏大叙事”里，认为自己有使命必须结婚，必须传宗接代，进而因为高彩礼，高房价，男女比例失调导致完不成使命而产生严重的焦虑问题。\n当你认为这些是理所应当的，它就是问题\n很多人以为自己是在做西格玛男人\n你若真是西格玛，那我也对你表示敬佩\n但实际上，很多人以为自己是西格玛，其实也只是厌女又渴逼而已。\n所以仔细想想会发现\n眼下你的这些仇恨\n缺的只是谈个恋爱，一段正常的关系\n仅此而已。\n谈恋爱其实是一个不难的事情\n不要把两性关系想成那么沉重的话题\n不要跟人约个会就开始焦虑以后她要找我要彩礼怎么办\n明确自己的底线，找到自己想要的生活\n你去多听听一些情感大V教你怎么和人相处\n都远比一些觉醒大V说的什么去吃糖阉割自己，或者多去嫖娼要对自己负责的多。\n国外两个人一辈子谈恋爱不结婚也比比皆是\n结了婚不生小孩不买房的也比比皆是\n对自己轻松点\n多线下和人接触接触，哪怕打游戏时候多跟网友聊聊天\n就已经超过网上恨来恨去的很多人了\n虽然你恨李哥\n但是李哥依然希望你幸福"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4966,
+          "like_count": 67,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094402324370207185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当然，这也就引申出另一个问题：很多人其实过于陷入个体的“宏大叙事”里，认为自己有使命必须结婚，必须传宗接代，进而因为高彩礼，高房价，男女比例失调导致完不成使命而产生严重的焦虑问题。\n当你认为这些是理所应当的，它就是问题\n很多人以为自己是在做西格玛男人 https://t.co/lNKUNQNMJ7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "K1ku21_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyyRYu"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2094423332703887565",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 1074,
+          "like_count": 5388,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 1839
+        },
+        "url": "https://t.co/IopkqyyRYu",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "is_identity_verified": false,
+        "location": "猴管",
+        "most_recent_tweet_id": "2094420260254298294",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586332050528915457/1699195104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004333954157989888/FRDtrJk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255325,
+          "following_count": 785,
+          "like_count": 6291,
+          "listed_count": 1369,
+          "media_count": 1445,
+          "tweet_count": 7572
+        },
+        "url": "",
+        "username": "lilaoshizuikeai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

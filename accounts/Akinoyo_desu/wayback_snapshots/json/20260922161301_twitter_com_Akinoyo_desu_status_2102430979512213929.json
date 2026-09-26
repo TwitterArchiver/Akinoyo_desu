@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2102368319097770262",
+    "created_at": "2026-09-22T16:13:01.000Z",
+    "display_text_range": [
+      14,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T17:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102430979512213929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927827236872409090",
+          "start": 0,
+          "username": "mychoice0402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102430979512213929",
+    "in_reply_to_user_id": "1927827236872409090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102368319097770262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mychoice0402 我草竟然有人听还潮？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2102368319097770262",
+        "created_at": "2026-09-22T16:13:01.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T17:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102430979512213929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927827236872409090",
+              "start": 0,
+              "username": "mychoice0402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102430979512213929",
+        "in_reply_to_user_id": "1927827236872409090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102368319097770262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mychoice0402 我草竟然有人听还潮？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927827236872409090",
+        "conversation_id": "2102368319097770262",
+        "created_at": "2026-09-22T12:04:02.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T13:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102368319097770262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《消失在另一个房间》，由 还潮 演唱，收录于《消失在另一个房间》专辑中，《消失在另一个房间》下载，《消失在另一个房间》在线试听，更多消失在另一个房间相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/bgVEqbOR",
+              "end": 40,
+              "expanded_url": "https://163cn.tv/bgVEqbOR",
+              "start": 17,
+              "status": 200,
+              "title": "消失在另一个房间 - 还潮 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=2715956421&fx-wxqd=&playerUIModeId=76001&app_version=9.5.90&ts-wakeup=&fx-wechatnew=t1&fx-wordtest=&fx-listentest=t3&PlayerStyles_SynchronousSharing=t3&uct2=1Rl8cUDuaIkzGCFKJhffrA==&dlt=0846&H5_DownloadVIPGift=",
+              "url": "https://t.co/eOtFgGLapj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102368319097770262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享还潮的单曲《消失在另一个房间》https://t.co/eOtFgGLapj (@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /\n晓 @Tianxiao0502",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 32,
+                "start": 20,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "shungleemain"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Tianxiao0502"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2102430979512213929",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 1103,
+          "like_count": 5668,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1934
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-28T20:40:15.000Z",
+        "description": "小香\n碎碎念/血图/过量服药\n把这个当朋友圈发的别指望会出现有营养的内容 \n不要跟我说话",
+        "id": "1927827236872409090",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102428449763930188",
+        "name": "__pluviophile",
+        "pinned_tweet_id": "2101634056647766034",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1927827236872409090/1788783385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093986117221855232/EsYy2XHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 49,
+          "like_count": 1198,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1243
+        },
+        "url": "",
+        "username": "mychoice0402",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

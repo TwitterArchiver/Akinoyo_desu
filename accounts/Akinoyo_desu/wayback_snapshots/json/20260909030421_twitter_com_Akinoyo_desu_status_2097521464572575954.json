@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2097330233489998228",
+    "created_at": "2026-09-09T03:04:21.000Z",
+    "display_text_range": [
+      26,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T04:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097521464572575954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1808535836247609347",
+          "start": 0,
+          "username": "YuBanTV"
+        },
+        {
+          "end": 25,
+          "id": "2047894021457211393",
+          "start": 9,
+          "username": "IiRin_00917_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097521464572575954",
+    "in_reply_to_user_id": "1808535836247609347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097515521012859219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuBanTV @IiRin_00917_QwQ 还真是，但是我每次这么教朋友都学不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2097330233489998228",
+        "created_at": "2026-09-09T03:04:21.000Z",
+        "display_text_range": [
+          26,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097521464572575954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1808535836247609347",
+              "start": 0,
+              "username": "YuBanTV"
+            },
+            {
+              "end": 25,
+              "id": "2047894021457211393",
+              "start": 9,
+              "username": "IiRin_00917_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097521464572575954",
+        "in_reply_to_user_id": "1808535836247609347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097515521012859219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuBanTV @IiRin_00917_QwQ 还真是，但是我每次这么教朋友都学不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808535836247609347",
+        "conversation_id": "2097330233489998228",
+        "created_at": "2026-09-09T02:40:44.000Z",
+        "display_text_range": [
+          17,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T03:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097515521012859219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "IiRin_00917_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097515521012859219",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097330233489998228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IiRin_00917_QwQ 英文单词的话拆开记然后根据发音来分这样比较好点，至少对于我是这样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "K1ku21_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyyRYu"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2097521464572575954",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 1092,
+          "like_count": 5550,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1878
+        },
+        "url": "https://t.co/IopkqyyRYu",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-03T16:18:45.000Z",
+        "description": "PDW 現任審核兼編輯 Chinese（TaiWan)/English /Japanese/ Cantonese/公民記者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/eeb205XMJw"
+              }
+            ]
+          }
+        },
+        "id": "1808535836247609347",
+        "is_identity_verified": false,
+        "location": "Tainan City, Taiwan",
+        "most_recent_tweet_id": "2097520712160276927",
+        "name": "超级御御御坂美琴",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808535836247609347/1721098112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065877393802444800/GbE57W8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 915,
+          "like_count": 5099,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1209
+        },
+        "url": "https://t.co/eeb205XMJw",
+        "username": "YuBanTV",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "霖21号机\n开学淡推不闲聊，消息晚上回我住宿\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀里号@yumumu_msknb❀小号@rin917_8964❀狗侄子@woaiuai0721❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 84,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "rin917_8964"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "woaiuai0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/CHH7qlUpGv"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "is_identity_verified": false,
+        "location": "你看看你身后",
+        "most_recent_tweet_id": "2097503856808849523",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047894021457211393/1787985006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 140,
+          "like_count": 9037,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 3973
+        },
+        "url": "https://t.co/CHH7qlUpGv",
+        "username": "IiRin_00917_QwQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

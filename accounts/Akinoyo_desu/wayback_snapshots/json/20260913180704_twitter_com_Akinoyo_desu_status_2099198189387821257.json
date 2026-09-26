@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2099198189387821257",
+    "created_at": "2026-09-13T18:07:04.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T19:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099198189387821257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1690721268373581824",
+          "start": 3,
+          "username": "Celsius233C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099198189387821257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098718661330579490",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Celsius233C: 警惕健全人蒸馏adhd思维链"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2099198189387821257",
+        "created_at": "2026-09-13T18:07:04.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T19:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099198189387821257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1690721268373581824",
+              "start": 3,
+              "username": "Celsius233C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099198189387821257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098718661330579490",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Celsius233C: 警惕健全人蒸馏adhd思维链"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690721268373581824",
+        "conversation_id": "2098718661330579490",
+        "created_at": "2026-09-12T10:21:35.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T11:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098718661330579490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/celsius233c/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/celsius233c/status/2098500266471391523",
+              "start": 15,
+              "url": "https://t.co/9kZeOoxOHj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098718661330579490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 25194,
+          "like_count": 407,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098500266471391523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "警惕健全人蒸馏adhd思维链 https://t.co/9kZeOoxOHj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "K1ku21_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyyRYu"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2099198189387821257",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 1104,
+          "like_count": 5705,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1911
+        },
+        "url": "https://t.co/IopkqyyRYu",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T13:45:44.000Z",
+        "description": "Gender undefined💛💜｜zh-CN/en-US",
+        "id": "1690721268373581824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099105557005119564",
+        "name": "233°C",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690721268373581824/1729236459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017216810953945088/bXezlZcD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5229,
+          "following_count": 971,
+          "like_count": 28021,
+          "listed_count": 21,
+          "media_count": 42,
+          "tweet_count": 615
+        },
+        "url": "",
+        "username": "Celsius233C",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

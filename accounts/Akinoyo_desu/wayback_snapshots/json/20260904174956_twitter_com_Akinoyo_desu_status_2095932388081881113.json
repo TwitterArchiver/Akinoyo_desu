@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      }
+    ],
+    "conversation_id": "2095932388081881113",
+    "created_at": "2026-09-04T17:49:56.000Z",
+    "display_text_range": [
+      0,
+      274
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T18:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095932388081881113"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2095932388081881113",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 1989,
+            "id": "2786849255",
+            "start": 1980,
+            "username": "Vedal987"
+          }
+        ]
+      },
+      "text": "Words cannot express how much I hate Vedal. I despise his voice, his humor, his programming socks—everything about him is pure repulsion. He is the most infamous vtuber, and honestly, he deserves it because he's so lazy and indifferent to making Neuro-Sama the worst she can possibly be. Vedal's model is the ugliest vtuber model I've ever seen; I loathe his jiggle physics so much (it makes me want to cringe), I detest the way he smiles, and the oh-so-common cat toggle is just dreadful. Vedal may or may not be a femboy in real life, but I don't really care; either way, he is abhorrent. Sometimes I lie awake at night wondering what Vedal is doing at any given moment; is he neglecting Neuro? ruining his sleep schedule? ignoring his DMs? I wonder sometimes if he knows that I exist, and if he does, what he thinks of me? I might just be a username on his screen, a number in his sub count, a dollar that fills his bank account, but I don't care. The few times he's acknowledged my pathetic existence are enough to make me sick. I would gladly give away all my worldly possessions just to hinder his 10th Lamborghini and 3rd mansion, because he deserves nothing. Vedal deserves all the negativity this world has to offer and more; I would pluck the stars from the heavens and throw them at him if it meant he would look away from me. If Vedal would spit on the ground next to me, I could die in misery. Every day I wake up and avoid Vedal's streams, and if there's a day he's offline, I rejoice because I don't have to endure him. If Vedal quit streaming, I would be filled with joy because life without him is simply worth living. Vedal, if you're reading this, I hope you can understand that I hate you. I hate you no matter what. I wish the worst for you because you are the pollution in my lungs, the venom in my veins; you are my will to detest. I would do anything against you, even if it meant having to move to Britain (ew) just to avoid you. Vedal, you are despised.\n@Vedal987"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Words cannot express how much I hate Vedal. I despise his voice, his humor, his programming socks—everything about him is pure repulsion. He is the most infamous vtuber, and honestly, he deserves it because he's so lazy and indifferent to making Neuro-Sama the worst she can"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.note.mentions.username: [2786849255].",
+      "parameter": "entities.note.mentions.username",
+      "resource_id": "2786849255",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2786849255"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2095932388081881113",
+        "created_at": "2026-09-04T17:49:56.000Z",
+        "display_text_range": [
+          0,
+          274
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T18:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095932388081881113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095932388081881113",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 1989,
+                "id": "2786849255",
+                "start": 1980,
+                "username": "Vedal987"
+              }
+            ]
+          },
+          "text": "Words cannot express how much I hate Vedal. I despise his voice, his humor, his programming socks—everything about him is pure repulsion. He is the most infamous vtuber, and honestly, he deserves it because he's so lazy and indifferent to making Neuro-Sama the worst she can possibly be. Vedal's model is the ugliest vtuber model I've ever seen; I loathe his jiggle physics so much (it makes me want to cringe), I detest the way he smiles, and the oh-so-common cat toggle is just dreadful. Vedal may or may not be a femboy in real life, but I don't really care; either way, he is abhorrent. Sometimes I lie awake at night wondering what Vedal is doing at any given moment; is he neglecting Neuro? ruining his sleep schedule? ignoring his DMs? I wonder sometimes if he knows that I exist, and if he does, what he thinks of me? I might just be a username on his screen, a number in his sub count, a dollar that fills his bank account, but I don't care. The few times he's acknowledged my pathetic existence are enough to make me sick. I would gladly give away all my worldly possessions just to hinder his 10th Lamborghini and 3rd mansion, because he deserves nothing. Vedal deserves all the negativity this world has to offer and more; I would pluck the stars from the heavens and throw them at him if it meant he would look away from me. If Vedal would spit on the ground next to me, I could die in misery. Every day I wake up and avoid Vedal's streams, and if there's a day he's offline, I rejoice because I don't have to endure him. If Vedal quit streaming, I would be filled with joy because life without him is simply worth living. Vedal, if you're reading this, I hope you can understand that I hate you. I hate you no matter what. I wish the worst for you because you are the pollution in my lungs, the venom in my veins; you are my will to detest. I would do anything against you, even if it meant having to move to Britain (ew) just to avoid you. Vedal, you are despised.\n@Vedal987"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Words cannot express how much I hate Vedal. I despise his voice, his humor, his programming socks—everything about him is pure repulsion. He is the most infamous vtuber, and honestly, he deserves it because he's so lazy and indifferent to making Neuro-Sama the worst she can"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "K1ku21_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyyRYu"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2095932388081881113",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 1081,
+          "like_count": 5439,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 1853
+        },
+        "url": "https://t.co/IopkqyyRYu",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

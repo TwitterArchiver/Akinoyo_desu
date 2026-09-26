@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2096665776950325299",
+    "created_at": "2026-09-07T01:21:25.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T02:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096770783435788771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1779289160601477120",
+          "start": 0,
+          "username": "fazetrophy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096770783435788771",
+    "in_reply_to_user_id": "1779289160601477120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096665776950325299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fazetrophy 别别别…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1281,
+        "media_key": "3_2096665772068347904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRjaaTzaoAAogK9.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2096665776950325299",
+        "created_at": "2026-09-07T01:21:25.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096770783435788771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1779289160601477120",
+              "start": 0,
+              "username": "fazetrophy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096770783435788771",
+        "in_reply_to_user_id": "1779289160601477120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096665776950325299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fazetrophy 别别别…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096665772068347904"
+          ]
+        },
+        "author_id": "1779289160601477120",
+        "conversation_id": "2096665776950325299",
+        "created_at": "2026-09-06T18:24:10.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T19:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096665776950325299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LB4RVbxxK3",
+              "end": 47,
+              "expanded_url": "https://x.com/fazetrophy/status/2096665776950325299/photo/1",
+              "media_key": "3_2096665772068347904",
+              "start": 24,
+              "url": "https://t.co/LB4RVbxxK3"
+            },
+            {
+              "display_url": "x.com/team__spirit/s…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/team__spirit/status/2096660906444812547",
+              "start": 48,
+              "url": "https://t.co/Vo1U63pF8t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096665776950325299",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096665772068347904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5254,
+          "like_count": 71,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096660906444812547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Day 876\n要是这两人能并肩上阵就好了 😢 https://t.co/LB4RVbxxK3 https://t.co/Vo1U63pF8t"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "K1ku21_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyyRYu"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2096770783435788771",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 1087,
+          "like_count": 5480,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1862
+        },
+        "url": "https://t.co/IopkqyyRYu",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2048777973596057600/yRlb9V1Y_bigger.png",
+          "description": "Polymarket Counter-Strike",
+          "url": "https://twitter.com/PolymarketCS2",
+          "user_id": [
+            "1618648353398472711"
+          ]
+        },
+        "created_at": "2024-04-13T23:22:56.000Z",
+        "description": "run by @raindz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 7,
+                "username": "raindz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chris2599.shinyapps.io/fazetrophy/",
+                "end": 23,
+                "expanded_url": "http://chris2599.shinyapps.io/fazetrophy/",
+                "start": 0,
+                "url": "https://t.co/hF7EwVzaLG"
+              }
+            ]
+          }
+        },
+        "id": "1779289160601477120",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096732349178225144",
+        "name": "Days since FaZe CS won a trophy",
+        "pinned_tweet_id": "1961080440422281490",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779289160601477120/1760482664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978235035011399680/mLb0cE2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5631,
+          "following_count": 62,
+          "like_count": 5022,
+          "listed_count": 2,
+          "media_count": 1071,
+          "tweet_count": 2397
+        },
+        "url": "https://t.co/hF7EwVzaLG",
+        "username": "fazetrophy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

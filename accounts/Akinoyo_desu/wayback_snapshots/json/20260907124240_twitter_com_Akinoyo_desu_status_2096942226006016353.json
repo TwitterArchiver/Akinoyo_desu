@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2096889437426991322",
+    "created_at": "2026-09-07T12:42:40.000Z",
+    "display_text_range": [
+      33,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T13:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096942226006016353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2037900912560160768",
+          "start": 0,
+          "username": "NolanChenDFFF1"
+        },
+        {
+          "end": 32,
+          "id": "1788485889225834496",
+          "start": 16,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096942226006016353",
+    "in_reply_to_user_id": "2037900912560160768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096934096018849796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NolanChenDFFF1 @YesterdayOrange 你干嘛…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2096889437426991322",
+        "created_at": "2026-09-07T12:42:40.000Z",
+        "display_text_range": [
+          33,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096942226006016353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2037900912560160768",
+              "start": 0,
+              "username": "NolanChenDFFF1"
+            },
+            {
+              "end": 32,
+              "id": "1788485889225834496",
+              "start": 16,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096942226006016353",
+        "in_reply_to_user_id": "2037900912560160768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096934096018849796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NolanChenDFFF1 @YesterdayOrange 你干嘛…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037900912560160768",
+        "conversation_id": "2096889437426991322",
+        "created_at": "2026-09-07T12:10:22.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096934096018849796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096934096018849796",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096889437426991322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 想混日子了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "K1ku21_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyyRYu"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2096942226006016353",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 1089,
+          "like_count": 5513,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1867
+        },
+        "url": "https://t.co/IopkqyyRYu",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T14:33:52.000Z",
+        "description": "CN/EN/DE | professional comment section terrorist\nCS2 • memes • internet nonsense🚪6657\n乐子人中文区乱窜 / learning German recently\n爱看👉🐉🦅🐆🐝🐭🌼🐴🐻",
+        "id": "2037900912560160768",
+        "is_identity_verified": false,
+        "location": "可是宗宗🥺啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊",
+        "most_recent_tweet_id": "2096939462148456804",
+        "name": "Astralis的dev1ce本人🇩🇰",
+        "pinned_tweet_id": "2095015266602377575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037900912560160768/1788060542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037900989722755072/Ln3tVRyy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 152,
+          "like_count": 5492,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1986
+        },
+        "url": "",
+        "username": "NolanChenDFFF1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096889437426991322",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2096651181628227904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12382,
+          "following_count": 5442,
+          "like_count": 103355,
+          "listed_count": 23,
+          "media_count": 2632,
+          "tweet_count": 22125
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

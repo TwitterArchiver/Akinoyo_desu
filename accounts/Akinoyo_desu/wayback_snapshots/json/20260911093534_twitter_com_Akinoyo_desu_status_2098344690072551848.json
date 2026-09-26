@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098344684318085120"
+      ]
+    },
+    "author_id": "1567203042872926208",
+    "conversation_id": "2098344690072551848",
+    "created_at": "2026-09-11T09:35:34.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098344690072551848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7rKccJCN11",
+          "end": 23,
+          "expanded_url": "https://x.com/Akinoyo_desu/status/2098344690072551848/photo/1",
+          "media_key": "3_2098344684318085120",
+          "start": 0,
+          "url": "https://t.co/7rKccJCN11"
+        },
+        {
+          "display_url": "x.com/yaowubaike/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/yaowubaike/status/2098321719446663446",
+          "start": 24,
+          "url": "https://t.co/VWbbPIzyPA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098344690072551848",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2098344684318085120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098321719446663446",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/7rKccJCN11 https://t.co/VWbbPIzyPA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 764,
+        "media_key": "3_2098344684318085120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7RX3Ub0AAZU1j.jpg",
+        "width": 1026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098344684318085120"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "2098344690072551848",
+        "created_at": "2026-09-11T09:35:34.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098344690072551848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7rKccJCN11",
+              "end": 23,
+              "expanded_url": "https://x.com/Akinoyo_desu/status/2098344690072551848/photo/1",
+              "media_key": "3_2098344684318085120",
+              "start": 0,
+              "url": "https://t.co/7rKccJCN11"
+            },
+            {
+              "display_url": "x.com/yaowubaike/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yaowubaike/status/2098321719446663446",
+              "start": 24,
+              "url": "https://t.co/VWbbPIzyPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098344690072551848",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098344684318085120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098321719446663446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/7rKccJCN11 https://t.co/VWbbPIzyPA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "2098321719446663446",
+        "created_at": "2026-09-11T08:04:17.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T09:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098321719446663446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098321719446663446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 991,
+          "like_count": 11,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我自己的讣告：再见"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "K1ku21_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyyRYu"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2098344690072551848",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 1098,
+          "like_count": 5607,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1888
+        },
+        "url": "https://t.co/IopkqyyRYu",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/UIrd5Ontdc |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 132,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 109,
+                "url": "https://t.co/UIrd5Ontdc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg市",
+        "most_recent_tweet_id": "2098323049510744542",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962425480612851712/1756714010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5699,
+          "following_count": 66,
+          "like_count": 913,
+          "listed_count": 8,
+          "media_count": 89,
+          "tweet_count": 618
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

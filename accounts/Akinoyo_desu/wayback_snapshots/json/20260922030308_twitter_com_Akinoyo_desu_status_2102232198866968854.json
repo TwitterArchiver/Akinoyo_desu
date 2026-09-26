@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2102100306033283560",
+    "created_at": "2026-09-22T03:03:08.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T04:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102232198866968854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518404201168007168",
+          "start": 0,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102232198866968854",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102100306033283560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@godspeedyou50 射射你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2102100306033283560",
+        "created_at": "2026-09-22T03:03:08.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102232198866968854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102232198866968854",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102100306033283560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 射射你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2102100306033283560",
+        "created_at": "2026-09-21T18:19:02.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T19:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102100306033283560"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102100306033283560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 334,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太阳射😱不进去🤡的地方😁你可以😊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /\n晓 @Tianxiao0502",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 32,
+                "start": 20,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "shungleemain"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Tianxiao0502"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2102232198866968854",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 1105,
+          "like_count": 5668,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1931
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMggsw"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102153341207978280",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2048,
+          "following_count": 715,
+          "like_count": 1480,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 3332
+        },
+        "url": "https://t.co/3vanSMggsw",
+        "username": "godspeedyou50",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

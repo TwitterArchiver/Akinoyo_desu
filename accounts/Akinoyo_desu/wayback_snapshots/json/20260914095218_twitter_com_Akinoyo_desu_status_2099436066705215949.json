@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2099396051862220976",
+    "created_at": "2026-09-14T09:52:18.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T10:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099436066705215949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954570475792961537",
+          "start": 0,
+          "username": "rainyosora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099436066705215949",
+    "in_reply_to_user_id": "1954570475792961537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099396051862220976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainyosora 爆爆爆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2099396043859443712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKNlC0aQAATdCR.jpg",
+        "width": 703
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2099396051862220976",
+        "created_at": "2026-09-14T09:52:18.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T10:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099436066705215949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954570475792961537",
+              "start": 0,
+              "username": "rainyosora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099436066705215949",
+        "in_reply_to_user_id": "1954570475792961537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099396051862220976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainyosora 爆爆爆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099396043859443712"
+          ]
+        },
+        "author_id": "1954570475792961537",
+        "conversation_id": "2099396051862220976",
+        "created_at": "2026-09-14T07:13:18.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T08:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099396051862220976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S4C6DsX1Pc",
+              "end": 148,
+              "expanded_url": "https://x.com/rainyosora/status/2099396051862220976/photo/1",
+              "media_key": "3_2099396043859443712",
+              "start": 125,
+              "url": "https://t.co/S4C6DsX1Pc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099396051862220976",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099396043859443712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 276,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "首先他性赵。。作为好友被告知了假名字好可怜\n还是说正好虹夏是个药商，正好在收完群内一波款之后决定美美隐身换号，正好拜托别人也发一条讣告增加公信力。然后自己正好用美美收割之后用来泡自己喜欢的女生\n\n人都死了爆点黑料，本人应该没有意见吧，我看看大家反响 https://t.co/S4C6DsX1Pc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /\n晓 @Tianxiao0502",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 32,
+                "start": 20,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "shungleemain"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Tianxiao0502"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2099436066705215949",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 1105,
+          "like_count": 5715,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1915
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-10T15:48:26.000Z",
+        "description": "call me Yosora |  0verdose｜日本語はまだ勉強中 | 無言フォロ失礼します  | DMしってくれたらし嬉しです | 有信息回复拖延症见谅  |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainyyosora1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainyyosora1",
+                "start": 0,
+                "url": "https://t.co/Lic0YPtaUU"
+              }
+            ]
+          }
+        },
+        "id": "1954570475792961537",
+        "is_identity_verified": false,
+        "location": "中南海，北戴河",
+        "most_recent_tweet_id": "2099396051862220976",
+        "name": "Yosora the maid（互fo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954570475792961537/1770369017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037065795617120257/-bFel9Nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 122,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 458
+        },
+        "url": "https://t.co/Lic0YPtaUU",
+        "username": "rainyosora",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

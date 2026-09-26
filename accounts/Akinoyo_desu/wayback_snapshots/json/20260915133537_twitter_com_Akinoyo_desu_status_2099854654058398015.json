@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2099836736776159621",
+    "created_at": "2026-09-15T13:35:37.000Z",
+    "display_text_range": [
+      14,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T14:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099854654058398015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099854654058398015",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099836736776159621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara 沐雨走付费撤了，剩下的迷失了😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2099836736776159621",
+        "created_at": "2026-09-15T13:35:37.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T14:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099854654058398015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099854654058398015",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099836736776159621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 沐雨走付费撤了，剩下的迷失了😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2099836736776159621",
+        "created_at": "2026-09-15T12:24:25.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099836736776159621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rinko_zero8964…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Rinko_zero8964/status/2099768695845490852",
+              "start": 25,
+              "url": "https://t.co/lH79EkaPcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099836736776159621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099768695845490852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这四个能在下面凑桌麻将\n好像不太行，沐雨还能复活 https://t.co/lH79EkaPcN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /\n晓 @Tianxiao0502",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 32,
+                "start": 20,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "shungleemain"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Tianxiao0502"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2099854654058398015",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 1103,
+          "like_count": 5738,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1925
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "我没指望你们这种人能理解哈夫克！\n哈夫克医疗部官方账号@HAVVK_CORP \n--\n皮下苦橙\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "HAVVK_CORP"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "shsh548866"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "is_identity_verified": false,
+        "location": "阿萨拉-航天基地",
+        "most_recent_tweet_id": "2099838244611662019",
+        "name": "『安全总监』德穆兰",
+        "pinned_tweet_id": "2096796287257411778",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866458229527764992/1776605949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099851003353006080/0NS7Q3Nu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 1245,
+          "like_count": 21454,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 12166
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

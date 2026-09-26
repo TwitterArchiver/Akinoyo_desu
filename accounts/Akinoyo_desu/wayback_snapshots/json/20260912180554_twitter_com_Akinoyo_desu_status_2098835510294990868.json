@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2098797832744702223",
+    "created_at": "2026-09-12T18:05:54.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T19:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098835510294990868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2093293269312815105",
+          "start": 0,
+          "username": "FishySei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098835510294990868",
+    "in_reply_to_user_id": "2093293269312815105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098797832744702223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FishySei 好像是推u。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2098797832744702223",
+        "created_at": "2026-09-12T18:05:54.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T19:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098835510294990868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2093293269312815105",
+              "start": 0,
+              "username": "FishySei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098835510294990868",
+        "in_reply_to_user_id": "2093293269312815105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098797832744702223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FishySei 好像是推u。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093293269312815105",
+        "conversation_id": "2098797832744702223",
+        "created_at": "2026-09-12T15:36:11.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098797832744702223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098797832744702223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "piru的软件发行商肯定是欧美国家吧（？）\n我靠他们咋看不起金刚烷胺这坨臭屎，因为太垃圾药了以至于连半衰期数据都不往上写，好歹美金刚都有呢……算了我也就吃这一次……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "K1ku21_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyyRYu"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2098835510294990868",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 1099,
+          "like_count": 5636,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1900
+        },
+        "url": "https://t.co/IopkqyyRYu",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T11:03:45.000Z",
+        "description": "只是一个正在偷偷od的同人女，这里是发泄小号‖04女‖中抑‖强迫‖广泛性焦虑障碍‖自残‖抑制剂全肯定者‖喜欢收集药盒‖虽然是Bi但我是强势方，用le的说法就是T",
+        "id": "2093293269312815105",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098834087742259636",
+        "name": "Fishy Sei",
+        "pinned_tweet_id": "2094610569794117946",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093293269312815105/1787915344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098564435900329984/5m_hoHk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 65,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "FishySei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

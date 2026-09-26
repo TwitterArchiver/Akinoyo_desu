@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2095881496276140276",
+    "created_at": "2026-09-04T15:04:13.000Z",
+    "display_text_range": [
+      16,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T16:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095890683819401719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2037900912560160768",
+          "start": 0,
+          "username": "NolanChenDFFF1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095890683819401719",
+    "in_reply_to_user_id": "2037900912560160768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095881496276140276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NolanChenDFFF1 吃这么好，你不再是我们6657的兄弟了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095881475212382208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYRGOVbEAA0t3a.jpg",
+        "width": 1994
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095881475761770496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYRGQYaEAAWbF-.jpg",
+        "width": 1341
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2095881496276140276",
+        "created_at": "2026-09-04T15:04:13.000Z",
+        "display_text_range": [
+          16,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T16:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095890683819401719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2037900912560160768",
+              "start": 0,
+              "username": "NolanChenDFFF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095890683819401719",
+        "in_reply_to_user_id": "2037900912560160768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095881496276140276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NolanChenDFFF1 吃这么好，你不再是我们6657的兄弟了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095881475212382208",
+            "3_2095881475761770496"
+          ]
+        },
+        "author_id": "2037900912560160768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095881496276140276",
+        "created_at": "2026-09-04T14:27:42.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095881496276140276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/56wBLZKrOK",
+              "end": 27,
+              "expanded_url": "https://x.com/NolanChenDFFF1/status/2095881496276140276/photo/1",
+              "media_key": "3_2095881475212382208",
+              "start": 4,
+              "url": "https://t.co/56wBLZKrOK"
+            },
+            {
+              "display_url": "pic.x.com/56wBLZKrOK",
+              "end": 27,
+              "expanded_url": "https://x.com/NolanChenDFFF1/status/2095881496276140276/photo/1",
+              "media_key": "3_2095881475761770496",
+              "start": 4,
+              "url": "https://t.co/56wBLZKrOK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095881496276140276",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095881475212382208"
+          },
+          {
+            "media_key": "3_2095881475761770496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 153,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚饭😋 https://t.co/56wBLZKrOK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "K1ku21_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyyRYu"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2095890683819401719",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 1079,
+          "like_count": 5436,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 1851
+        },
+        "url": "https://t.co/IopkqyyRYu",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T14:33:52.000Z",
+        "description": "CN/EN/DE | professional comment section terrorist\nCS2 • memes • internet nonsense🚪6657\n乐子人中文区乱窜 / learning German recently\n爱看👉🐉🦅🐆🐝🐭🌼🐴🐻 出生 点:@CJY_DFFF1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 140,
+                "username": "CJY_DFFF1"
+              }
+            ]
+          }
+        },
+        "id": "2037900912560160768",
+        "is_identity_verified": false,
+        "location": "可是宗宗🥺啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊",
+        "most_recent_tweet_id": "2095881496276140276",
+        "name": "Astralis的dev1ce本人🇩🇰",
+        "pinned_tweet_id": "2095015266602377575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037900912560160768/1788060542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037900989722755072/Ln3tVRyy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 152,
+          "like_count": 4730,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1786
+        },
+        "url": "",
+        "username": "NolanChenDFFF1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

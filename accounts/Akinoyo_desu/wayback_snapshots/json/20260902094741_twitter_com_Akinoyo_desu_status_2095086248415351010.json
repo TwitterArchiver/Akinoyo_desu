@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2095040938741805270",
+    "created_at": "2026-09-02T09:47:41.000Z",
+    "display_text_range": [
+      33,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T10:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095086248415351010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2037900912560160768",
+          "start": 0,
+          "username": "NolanChenDFFF1"
+        },
+        {
+          "end": 32,
+          "id": "1885557129588948992",
+          "start": 16,
+          "username": "85240609891_1st"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095086248415351010",
+    "in_reply_to_user_id": "2037900912560160768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095040938741805270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NolanChenDFFF1 @85240609891_1st 一看就是稳健类型的推u😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1761,
+        "media_key": "3_2095040929052983296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMUn_4bgAAsV0n.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2095040938741805270",
+        "created_at": "2026-09-02T09:47:41.000Z",
+        "display_text_range": [
+          33,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095086248415351010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2037900912560160768",
+              "start": 0,
+              "username": "NolanChenDFFF1"
+            },
+            {
+              "end": 32,
+              "id": "1885557129588948992",
+              "start": 16,
+              "username": "85240609891_1st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095086248415351010",
+        "in_reply_to_user_id": "2037900912560160768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095040938741805270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NolanChenDFFF1 @85240609891_1st 一看就是稳健类型的推u😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095040929052983296"
+          ]
+        },
+        "author_id": "2037900912560160768",
+        "conversation_id": "2095040938741805270",
+        "created_at": "2026-09-02T06:47:38.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T07:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095040938741805270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sZFWWcOTMD",
+              "end": 79,
+              "expanded_url": "https://x.com/NolanChenDFFF1/status/2095040938741805270/photo/1",
+              "media_key": "3_2095040929052983296",
+              "start": 56,
+              "url": "https://t.co/sZFWWcOTMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095040938741805270",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095040929052983296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2115,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "[HLTV]:“幼猪虽嶙峋，百日则肥美”\n让我们恭喜这个人蠕动到了500fo\n祝你们永远不死永远爽❤️❤️❤️ https://t.co/sZFWWcOTMD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "K1ku21_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyyRYu"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2095086248415351010",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 1077,
+          "like_count": 5423,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 1844
+        },
+        "url": "https://t.co/IopkqyyRYu",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T14:33:52.000Z",
+        "description": "CN/EN/DE | professional comment section terrorist\nCS2 • memes • internet nonsense🚪6657\n乐子人中文区乱窜 / learning German recently\n爱看👉🐉🦅🐆🐝🐭🌼🐴🐻 出生 点:@CJY_DFFF1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 140,
+                "username": "CJY_DFFF1"
+              }
+            ]
+          }
+        },
+        "id": "2037900912560160768",
+        "is_identity_verified": false,
+        "location": "可是宗宗🥺啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊",
+        "most_recent_tweet_id": "2095085859104227728",
+        "name": "Astralis的dev1ce本人🇩🇰",
+        "pinned_tweet_id": "2094694317306855492",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037900912560160768/1788060542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037900989722755072/Ln3tVRyy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 152,
+          "like_count": 4196,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1593
+        },
+        "url": "",
+        "username": "NolanChenDFFF1",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "Arctic Warfare Police\nQueen Victoria\nHongkonger",
+        "id": "1885557129588948992",
+        "is_identity_verified": false,
+        "location": "United Kingdom",
+        "most_recent_tweet_id": "2095085902263620003",
+        "name": "Accuracy International Arctic Warfare Police🇬🇧",
+        "pinned_tweet_id": "2095074840151757071",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1885557129588948992/1788341071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095080402595500035/RQDDeDM3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2915,
+          "following_count": 2823,
+          "like_count": 20738,
+          "listed_count": 6,
+          "media_count": 1179,
+          "tweet_count": 6289
+        },
+        "url": "",
+        "username": "85240609891_1st",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

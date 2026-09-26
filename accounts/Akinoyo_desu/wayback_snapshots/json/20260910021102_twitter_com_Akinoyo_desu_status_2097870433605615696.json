@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097736877768089600"
+      ],
+      "media_source_tweet_id": [
+        "2097736881802813636"
+      ]
+    },
+    "author_id": "1567203042872926208",
+    "conversation_id": "2097870433605615696",
+    "created_at": "2026-09-10T02:11:02.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T03:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097870433605615696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1194672521808793600",
+          "start": 3,
+          "username": "duolingoespanol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KuDdyGWGaH",
+          "end": 106,
+          "expanded_url": "https://x.com/duolingoespanol/status/2097736881802813636/photo/1",
+          "media_key": "3_2097736877768089600",
+          "start": 83,
+          "url": "https://t.co/KuDdyGWGaH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097870433605615696",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2097736877768089600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097736881802813636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duolingoespanol: ¿Cómo que 18 Pro y 18 Pro Max? Yo ya estaba listo con el Duo… https://t.co/KuDdyGWGaH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 812,
+        "media_key": "3_2097736877768089600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyok3eaoAA4Kay.jpg",
+        "width": 895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097736877768089600"
+          ],
+          "media_source_tweet_id": [
+            "2097736881802813636"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "2097870433605615696",
+        "created_at": "2026-09-10T02:11:02.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097870433605615696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1194672521808793600",
+              "start": 3,
+              "username": "duolingoespanol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KuDdyGWGaH",
+              "end": 106,
+              "expanded_url": "https://x.com/duolingoespanol/status/2097736881802813636/photo/1",
+              "media_key": "3_2097736877768089600",
+              "start": 83,
+              "url": "https://t.co/KuDdyGWGaH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097870433605615696",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2097736877768089600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097736881802813636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duolingoespanol: ¿Cómo que 18 Pro y 18 Pro Max? Yo ya estaba listo con el Duo… https://t.co/KuDdyGWGaH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097736877768089600"
+          ]
+        },
+        "author_id": "1194672521808793600",
+        "conversation_id": "2097736881802813636",
+        "created_at": "2026-09-09T17:20:21.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097736881802813636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KuDdyGWGaH",
+              "end": 85,
+              "expanded_url": "https://x.com/duolingoespanol/status/2097736881802813636/photo/1",
+              "media_key": "3_2097736877768089600",
+              "start": 62,
+              "url": "https://t.co/KuDdyGWGaH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097736881802813636",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2097736877768089600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 23677,
+          "like_count": 1153,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "¿Cómo que 18 Pro y 18 Pro Max? Yo ya estaba listo con el Duo… https://t.co/KuDdyGWGaH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "K1ku21_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyyRYu"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2097870433605615696",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 1093,
+          "like_count": 5582,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1883
+        },
+        "url": "https://t.co/IopkqyyRYu",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-13T17:45:14.000Z",
+        "description": "La forma más fácil de aprender. ¡Y es gratis!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.adjust.com/47hbtie",
+                "end": 23,
+                "expanded_url": "https://app.adjust.com/47hbtie",
+                "start": 0,
+                "url": "https://t.co/sPN7ubS6K0"
+              }
+            ]
+          }
+        },
+        "id": "1194672521808793600",
+        "is_identity_verified": false,
+        "location": "LATAM",
+        "most_recent_tweet_id": "2097810016023511520",
+        "name": "Duolingo Español",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1194672521808793600/1688417190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079352249055125504/VhSgNlpg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550662,
+          "following_count": 231,
+          "like_count": 8064,
+          "listed_count": 164,
+          "media_count": 5328,
+          "tweet_count": 32419
+        },
+        "url": "https://t.co/sPN7ubS6K0",
+        "username": "duolingoespanol",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

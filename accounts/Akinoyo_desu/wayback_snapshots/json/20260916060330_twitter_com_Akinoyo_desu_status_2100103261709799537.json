@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2100063991057756609",
+    "created_at": "2026-09-16T06:03:30.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T07:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100103261709799537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100103261709799537",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100063991057756609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2100063983080456192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTtEOUaQAAFauj.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2100063991057756609",
+        "created_at": "2026-09-16T06:03:30.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100103261709799537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100103261709799537",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100063991057756609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100063983080456192"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2100063991057756609",
+        "created_at": "2026-09-16T03:27:27.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100063991057756609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XMXsjylhvE",
+              "end": 28,
+              "expanded_url": "https://x.com/Idontselldrug/status/2100063991057756609/photo/1",
+              "media_key": "3_2100063983080456192",
+              "start": 5,
+              "url": "https://t.co/XMXsjylhvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100063991057756609",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100063983080456192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男的来了 https://t.co/XMXsjylhvE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /\n晓 @Tianxiao0502",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 32,
+                "start": 20,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "shungleemain"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Tianxiao0502"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2100103261709799537",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 1105,
+          "like_count": 5744,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1927
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2100073047789015088",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 351,
+          "like_count": 3983,
+          "listed_count": 0,
+          "media_count": 667,
+          "tweet_count": 4204
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

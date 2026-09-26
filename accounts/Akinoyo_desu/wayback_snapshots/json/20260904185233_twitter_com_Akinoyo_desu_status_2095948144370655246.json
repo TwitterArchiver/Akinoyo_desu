@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095948136007221248"
+      ]
+    },
+    "author_id": "1567203042872926208",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095873591128797394",
+    "created_at": "2026-09-04T18:52:33.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T19:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095948144370655246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2069259812517634048",
+          "start": 0,
+          "username": "JoannZ_mark"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OESGvz2Ay8",
+          "end": 42,
+          "expanded_url": "https://x.com/Akinoyo_desu/status/2095948144370655246/photo/1",
+          "media_key": "3_2095948136007221248",
+          "start": 19,
+          "url": "https://t.co/OESGvz2Ay8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095948144370655246",
+    "in_reply_to_user_id": "2069259812517634048",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095948136007221248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095873591128797394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JoannZ_mark 多年以前… https://t.co/OESGvz2Ay8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 911,
+        "media_key": "3_2095948136007221248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZNuZJaQAAzHRA.jpg",
+        "width": 1024
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2095873573760147456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYJ6TIaIAAkYtC.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095948136007221248"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095873591128797394",
+        "created_at": "2026-09-04T18:52:33.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T19:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095948144370655246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2069259812517634048",
+              "start": 0,
+              "username": "JoannZ_mark"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OESGvz2Ay8",
+              "end": 42,
+              "expanded_url": "https://x.com/Akinoyo_desu/status/2095948144370655246/photo/1",
+              "media_key": "3_2095948136007221248",
+              "start": 19,
+              "url": "https://t.co/OESGvz2Ay8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095948144370655246",
+        "in_reply_to_user_id": "2069259812517634048",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095948136007221248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095873591128797394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JoannZ_mark 多年以前… https://t.co/OESGvz2Ay8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095873573760147456"
+          ]
+        },
+        "author_id": "2069259812517634048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095873591128797394",
+        "created_at": "2026-09-04T13:56:18.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095873591128797394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ub3PR0y2UN",
+              "end": 58,
+              "expanded_url": "https://x.com/JoannZ_mark/status/2095873591128797394/photo/1",
+              "media_key": "3_2095873573760147456",
+              "start": 35,
+              "url": "https://t.co/ub3PR0y2UN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095873591128797394",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095873573760147456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7133,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我已泪目。🥲🥲🥲我其中一个朋友送我的生日礼物 我的发我真的特别爽。。 https://t.co/ub3PR0y2UN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "K1ku21_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyyRYu"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2095948144370655246",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 1083,
+          "like_count": 5442,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1854
+        },
+        "url": "https://t.co/IopkqyyRYu",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-23T03:23:23.000Z",
+        "description": "𝓒𝓪𝓷𝓽 𝔂𝓸𝓾 𝔀𝓪𝓲𝓽 𝓓𝓸𝓷𝓽 𝓵𝓸𝓿𝓮 𝓷𝓸𝓫𝓸𝓭𝔂\nf0gger",
+        "id": "2069259812517634048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095926403632140670",
+        "name": "Joann Z",
+        "pinned_tweet_id": "2095568725030436867",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069259812517634048/1782185257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077428314734784512/koJeJIKq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 148,
+          "like_count": 1758,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "JoannZ_mark",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
