@@ -1,7 +1,7 @@
 {
   "name": "AkiNoYo！",
   "username": "@Akinoyo_desu",
-  "bio": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /",
+  "bio": "里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /\n晓 @Tianxiao0502",
   "location": "偉大的天國",
   "link": "https://ngl.link/akinoyo",
   "avatar": "avatar/avatar.jpg",
@@ -10,34 +10,34 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 15,
+        "end": 16,
         "start": 2,
-        "username": "PsydrugsWiki"
-      },
-      {
-        "end": 33,
-        "start": 19,
         "username": "Aki_MountainE"
       },
       {
-        "end": 49,
-        "start": 37,
+        "end": 32,
+        "start": 20,
         "username": "Eternal1uv9"
       },
       {
-        "end": 61,
-        "start": 50,
+        "end": 44,
+        "start": 33,
         "username": "SummerTWT9"
       },
       {
-        "end": 78,
-        "start": 65,
+        "end": 61,
+        "start": 48,
         "username": "shungleemain"
       },
       {
-        "end": 93,
-        "start": 85,
+        "end": 76,
+        "start": 68,
         "username": "K1ku21_"
+      },
+      {
+        "end": 94,
+        "start": 81,
+        "username": "Tianxiao0502"
       }
     ]
   },
