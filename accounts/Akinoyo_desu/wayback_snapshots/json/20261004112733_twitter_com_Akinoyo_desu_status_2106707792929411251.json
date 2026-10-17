@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2106707792929411251",
+    "created_at": "2026-10-04T11:27:33.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T12:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106707792929411251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743938609139580928",
+          "start": 3,
+          "username": "voina_sub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106707792929411251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105983894084546695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @voina_sub: 中国の女は習近平のチ🔺チ🔺しゃぶりたいって思ってないのか？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2106707792929411251",
+        "created_at": "2026-10-04T11:27:33.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106707792929411251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743938609139580928",
+              "start": 3,
+              "username": "voina_sub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106707792929411251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105983894084546695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @voina_sub: 中国の女は習近平のチ🔺チ🔺しゃぶりたいって思ってないのか？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743938609139580928",
+        "conversation_id": "2105983894084546695",
+        "created_at": "2026-10-02T11:31:02.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T12:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105983894084546695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhangwei0c/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/zhangwei0c/status/2105983043882066359",
+              "start": 30,
+              "url": "https://t.co/WS0DRDEKTB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105983894084546695",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 327,
+          "impression_count": 946769,
+          "like_count": 6985,
+          "quote_count": 26,
+          "reply_count": 205,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105983043882066359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国の女は習近平のチ🔺チ🔺しゃぶりたいって思ってないのか？ https://t.co/WS0DRDEKTB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /\n晓 @Tianxiao0502",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 32,
+                "start": 20,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "shungleemain"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Tianxiao0502"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2106707792929411251",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 1127,
+          "like_count": 5788,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1963
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-07T10:12:32.000Z",
+        "description": "本垢が1ヶ月間の利用停止処分をくらいました。中国人との喧嘩で。10月いっぱいはサブ垢で動いていきます。ちなみに本垢は→@Voina2026",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "Voina2026"
+              }
+            ]
+          }
+        },
+        "id": "1743938609139580928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106707620497371427",
+        "name": "絶対的戦争主義🔥ボイナ⚡️",
+        "pinned_tweet_id": "2106592226210165161",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1743938609139580928/1769086064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032462816851226624/5fcwHrVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 536,
+          "like_count": 2958,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 648
+        },
+        "url": "",
+        "username": "voina_sub",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

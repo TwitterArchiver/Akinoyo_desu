@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2108686693255766174",
+    "created_at": "2026-10-09T22:30:59.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T23:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108686693255766174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/taoistyouth6/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/taoistyouth6/status/2108482620069986521",
+          "start": 14,
+          "url": "https://t.co/YcBQlK7xD0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108686693255766174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108482620069986521",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我给你讲个二十年前的故事吧 https://t.co/YcBQlK7xD0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 161750,
+        "height": 718,
+        "media_key": "13_2108470885728575488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2108470885728575488/img/zZodSpcUiNT9sp7D.jpg",
+        "public_metrics": {
+          "view_count": 63948
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108470885728575488/vid/avc1/480x270/cDFIYSiilB8kOeFv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108470885728575488/vid/avc1/640x360/0zsSR1LD82quyapq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108470885728575488/vid/avc1/1280x718/80gVnJi8ZSrfPxCk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2108470885728575488/pl/TXC02VOUVrSOv9ib.m3u8?v=166"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2108686693255766174",
+        "created_at": "2026-10-09T22:30:59.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T23:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108686693255766174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/taoistyouth6/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/taoistyouth6/status/2108482620069986521",
+              "start": 14,
+              "url": "https://t.co/YcBQlK7xD0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108686693255766174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108482620069986521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我给你讲个二十年前的故事吧 https://t.co/YcBQlK7xD0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2108470885728575488"
+          ]
+        },
+        "author_id": "2092184987571482624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2108482620069986521",
+        "created_at": "2026-10-09T09:00:04.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T10:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108482620069986521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tcU1wv79DZ",
+              "end": 40,
+              "expanded_url": "https://x.com/TaoistYouth6/status/2108482620069986521/video/1",
+              "media_key": "13_2108470885728575488",
+              "start": 17,
+              "url": "https://t.co/tcU1wv79DZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108482620069986521",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2108470885728575488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 390,
+          "impression_count": 96446,
+          "like_count": 1180,
+          "quote_count": 11,
+          "reply_count": 45,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "美国人、日本人和中国人走在沙漠中 https://t.co/tcU1wv79DZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /\n晓 @Tianxiao0502",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 32,
+                "start": 20,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "shungleemain"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Tianxiao0502"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2108686693255766174",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 1134,
+          "like_count": 5812,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1973
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-25T09:41:53.000Z",
+        "description": "还记得我吗，如果记得就关注一下吧。\n右翼自由派，理想主义者，道教善信，现居日本，反对中共。\n愿我们期冀的民主之花，在不久的将来，开遍华夏的每一个角落。福生无量。\n回归了，开始发帖\n六世：@TaoistYouth7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "TaoistYouth7"
+              }
+            ]
+          }
+        },
+        "id": "2092184987571482624",
+        "is_identity_verified": false,
+        "location": "日本东京",
+        "most_recent_tweet_id": "2108658702467342776",
+        "name": "Taoist Youth🇨🇳🇯🇵（五世）",
+        "pinned_tweet_id": "2102261143318192219",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092184987571482624/1789137049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092185924788695040/5YqeukQI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 100,
+          "like_count": 521,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 200
+        },
+        "url": "",
+        "username": "TaoistYouth6",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

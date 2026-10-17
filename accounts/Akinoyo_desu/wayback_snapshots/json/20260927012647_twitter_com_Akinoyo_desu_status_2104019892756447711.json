@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1567203042872926208",
+    "conversation_id": "2104019892756447711",
+    "created_at": "2026-09-27T01:26:47.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T02:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104019892756447711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1013526829",
+          "start": 3,
+          "username": "TGbabycost"
+        },
+        {
+          "end": 28,
+          "id": "1866050038088024064",
+          "start": 16,
+          "username": "123456wwerr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104019892756447711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103948308339445978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TGbabycost: @123456wwerr 我还是没能跟自己和解\n\n不管你是喷区、药娘、恶俗壬、浪友、oder、地雷妹。\n\n我都衷心希望你享受自己的人生和坚持自己的选择。\n\n今天下午无所事事，人肉搜索自己的赛博痕迹,发现那些自己14-20岁的发的帖子/账号基本都随…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2104019892756447711",
+        "created_at": "2026-09-27T01:26:47.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T02:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104019892756447711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1013526829",
+              "start": 3,
+              "username": "TGbabycost"
+            },
+            {
+              "end": 28,
+              "id": "1866050038088024064",
+              "start": 16,
+              "username": "123456wwerr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104019892756447711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103948308339445978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TGbabycost: @123456wwerr 我还是没能跟自己和解\n\n不管你是喷区、药娘、恶俗壬、浪友、oder、地雷妹。\n\n我都衷心希望你享受自己的人生和坚持自己的选择。\n\n今天下午无所事事，人肉搜索自己的赛博痕迹,发现那些自己14-20岁的发的帖子/账号基本都随…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1013526829",
+        "conversation_id": "2103813298462642517",
+        "created_at": "2026-09-26T20:42:20.000Z",
+        "display_text_range": [
+          13,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T21:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103948308339445978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866050038088024064",
+              "start": 0,
+              "username": "123456wwerr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103948308339445978",
+        "in_reply_to_user_id": "1866050038088024064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我还是没能跟自己和解\n\n不管你是喷区、药娘、恶俗壬、浪友、oder、地雷妹。\n\n我都衷心希望你享受自己的人生和坚持自己的选择。\n\n今天下午无所事事，人肉搜索自己的赛博痕迹,发现那些自己14-20岁的发的帖子/账号基本都随着大封禁消失了。\n\n首先互联网并不是一个留存记忆的可靠介质。（接下文)\n\n然而更不可靠的是那些记忆也并没有影响我成为一个不那么无聊的人。\n\n我生活在一个南方县城。我13岁逛药娘三区，14岁开始吃药。但并不长久，16岁父母带我看了脑科医院，“答应”我等我高考之后再谈跨性别的事，结果在县城衡水式高中我基本没办法好好学习(且我今年25才查出adhd)\n\n我在初高中都是一个在班上很符合今天“嘉豪”这个词的人\n\n8岁我妈就带我看雷伊的《大地之歌》，与此同时我从淫梦re到抽象嗨粉这些互联网的犄角旮旯我都接触的很早。但无论是父母的强制修正，还是县城环境没有能力让我把那些狂想付诸实践我最终还是在巨大的不适应下进入了某个双非大学。\n\n毕业之后在非常普通的工作岗位上压榨自己，后来发现实在坚持不下去，然后就辞职，结果查出来多动症。如今一切都是停滞的，仿佛某种对我人生中一次次没有勇敢的成为自己想要的人的报复:也许高中的时候我和很多mtf一样辍学，哪怕援交od，也好过现在温吞的生活?\n\n我就是想成为这样的人。\n\n可是我今年25岁了\n\n我抑郁一度胖到200斤，也一直狠心没有完全减下来。我和我的对象同事同学其实都能相处的非常好。\n\n但我总有种带着面具的感觉——我无比清醒的知道我内心一直被那些疯狂的过界的行为吸引，我和我的前任说我是一个颅内亚比，但远不止于此:\n\n我想阉割，想要滥用，想要被控制，想要像一团火烧火狂笑着留下余烬。\n\n可我什么都没能做到，我成了一个普通的，失败的顺直男。\n\n我看着那些0304甚至0809的人一次次站到台前，不管是抖音微博还是恶俗维基。\n\n我都感觉到嫉妒\n\n不知道自己做了哪个选择，导致自己成为了如今这样的一个人。可能是。\n\n是的，如今我无比的讨厌我自己，讨厌我身披的皮囊。\n\n温吞，平庸，柔软。\n\n我永远无法原谅今天的自己。\n\n无论是选择，胆量，还是出身与环境\n\n让我今天只能作为一个观察者，去描述我所看到的那些亚文化和边缘人\n\n我衷心觉得那些讨论小众的文化而又滔滔不绝的孩子非常酷。无论是UDG的音乐还是某个core还是自己做药品\n\n如果你喜欢现在的自己，请你走下去。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103813298462642517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456wwerr 我还是没能跟自己和解\n\n不管你是喷区、药娘、恶俗壬、浪友、oder、地雷妹。\n\n我都衷心希望你享受自己的人生和坚持自己的选择。\n\n今天下午无所事事，人肉搜索自己的赛博痕迹,发现那些自己14-20岁的发的帖子/账号基本都随着大封禁消失了。\n\n首先互联网并不是一个留存记忆的可靠介质。（接下文)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /\n晓 @Tianxiao0502",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 32,
+                "start": 20,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "shungleemain"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Tianxiao0502"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2104019892756447711",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 1105,
+          "like_count": 5715,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1943
+        },
+        "url": "https://t.co/IopkqyzpO2",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-12-15T16:26:30.000Z",
+        "description": "لا تجادل الأحمق فقد يخطئ الناس في التفريق بينكما.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/babycost",
+                "end": 23,
+                "expanded_url": "http://t.me/babycost",
+                "start": 0,
+                "url": "https://t.co/7SzUBiJ5EI"
+              }
+            ]
+          }
+        },
+        "id": "1013526829",
+        "is_identity_verified": true,
+        "location": "pm",
+        "most_recent_tweet_id": "2104016739017101463",
+        "name": "阿斯伯格患者",
+        "pinned_tweet_id": "2100152625190871468",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1013526829/1786438561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087098408909811712/mfNESRHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2777,
+          "following_count": 54,
+          "like_count": 214,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 41522
+        },
+        "url": "https://t.co/7SzUBiJ5EI",
+        "username": "TGbabycost",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "恒人党委员会荣誉会员，百分之八十皮特人间体，悲观主义者，重度抑郁（非常严重），中度焦虑，没有逻辑，没有情商和口才，高强度玩游戏看动漫小说脱离社会太久\n经常找我聊天的朋友@bazhuayu98808\n@ningmeng______",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "bazhuayu98808"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "ningmeng______"
+              }
+            ]
+          }
+        },
+        "id": "1866050038088024064",
+        "is_identity_verified": false,
+        "location": "Hokkaidō, Japan",
+        "most_recent_tweet_id": "2103987421973213346",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "2007153346533306830",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866050038088024064/1733739905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020775111813713921/6QpcftfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 455,
+          "like_count": 136939,
+          "listed_count": 2,
+          "media_count": 1012,
+          "tweet_count": 21944
+        },
+        "url": "",
+        "username": "123456wwerr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
